@@ -1,20 +1,9 @@
 // JavaScript Document
 // {"Pokémon" : "", "Coordinates" : "", "Locale" : ""},
-var myList=[{"Pokémon" : "Bidoof", "Coordinates" : "37.54985, 127.0822", "Locale" : ""},
-            {"Pokémon" : "Bidoof", "Coordinates" : "51.57014, -0.09953", "Locale" : ""},
-            {"Pokémon" : "Bidoof", "Coordinates" : "36.6264, 137.19628", "Locale" : ""},
-            {"Pokémon" : "Chimchar", "Coordinates" : "35.78899, 139.87042", "Locale" : ""},
-            {"Pokémon" : "Chimchar", "Coordinates" : "29.53754, -95.52346", "Locale" : ""},
-            {"Pokémon" : "Chimchar", "Coordinates" : "43.63351, 1.3823", "Locale" : ""},
-            {"Pokémon" : "Hippopotas", "Coordinates" : "41.42752, -74.05795", "Locale" : ""},
-            {"Pokémon" : "Hippopotas", "Coordinates" : "43.05271,141.30952", "Locale" : ""},
-            {"Pokémon" : "Hippopotas", "Coordinates" : "35.71449, 139.77337", "Locale" : ""},
-            {"Pokémon" : "Piplup", "Coordinates" : "51.65126,5.04769", "Locale" : ""},
-            {"Pokémon" : "Piplup", "Coordinates" : "40.82225, -81.24953", "Locale" : ""},
-            {"Pokémon" : "Piplup", "Coordinates" : "34.07502, 134.55515", "Locale" : ""},
-            {"Pokémon" : "Turtwig", "Coordinates" : "-22.90562,-43.22582", "Locale" : ""},
-            {"Pokémon" : "Turtwig", "Coordinates" : "51.49601, 7.47901", "Locale" : ""},
-            {"Pokémon" : "Turtwig", "Coordinates" : "47.30694, -122.5273", "Locale" : ""},];
+var myList=[{"Pokémon" : "Bidoof", "Coordinates" : "44.64144, -93.15167", "Locale" : "Minnesota, USA"},
+            {"Pokémon" : "Chimchar", "Coordinates" : "30.261939,-97.749986", "Locale" : "Austin, USA"},
+            {"Pokémon" : "Hippopotas", "Coordinates" : "48.15874, 11.59753", "Locale" : "Munich, Germany"},
+            {"Pokémon" : "Turtwig", "Coordinates" : "34.76299, 135.70473", "Locale" : "Osaka, Japan"},];
 
 // Builds the HTML Table out of myList json data from Ivy restful service.
  function buildHtmlTable() {
