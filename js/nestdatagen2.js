@@ -3,6 +3,7 @@
 var myList=[{"Pokémon" : "Aipom", "Coordinates" : "49.30153, -123.13337", "Locale" : "Vancouver, Canada"},
             {"Pokémon" : "Chikorita", "Coordinates" : "-37.73141, 144.83778", "Locale" : "Victoria, Australia"},
             {"Pokémon" : "Chikorita", "Coordinates" : "41.93774, -87.63657", "Locale" : "Chicago, Illinois"},
+            {"Pokémon" : "Chikorita", "Coordinates" : "35.34793749, 136.9880288", "Locale" : "Aichi, Japan"},
             {"Pokémon" : "Chinchou", "Coordinates" : "43.6466, -79.46317", "Locale" : "Ontario, Canada"},
             {"Pokémon" : "Cyndaquil", "Coordinates" : "34.22734,135.17111", "Locale" : "Wakayama, Japan"},
             {"Pokémon" : "Dunsparce", "Coordinates" : "37.551092,126.991159", "Locale" : "Seoul, South Korea"},
@@ -27,6 +28,7 @@ var myList=[{"Pokémon" : "Aipom", "Coordinates" : "49.30153, -123.13337", "Loca
             {"Pokémon" : "Swinub", "Coordinates" : "45.02181,-93.43348", "Locale" : "Minnesota, USA"},
             {"Pokémon" : "Teddiursa", "Coordinates" : "51.4805, -0.2942", "Locale" : "Richmond, UK"},
             {"Pokémon" : "Totodile", "Coordinates" : "47.710292,-122.367090", "Locale" : "Seattle, USA"},
+            {"Pokémon" : "Totodile", "Coordinates" : "45.014559,-74.727288", "Locale" : "Ontario, Canada"},
             {"Pokémon" : "Totodile", "Coordinates" : "39.84006,-77.24646", "Locale" : "Pennsylvania, USA"},
             {"Pokémon" : "Wobbuffet", "Coordinates" : "41.79707,140.75682", "Locale" : "Hokkaido, Japan"},];
 
