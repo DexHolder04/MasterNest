@@ -11,6 +11,7 @@ var myList=[{"Pokémon" : "Aipom", "Coordinates" : "49.30153, -123.13337", "Loca
 			{"Pokémon" : "Girafarig", "Coordinates" : "43.81932, 125.33021", "Locale" : "Jilin, China"},
             {"Pokémon" : "Girafarig", "Coordinates" : "1.31507, 103.81627", "Locale" : "Singapore"},
             {"Pokémon" : "Mantine", "Coordinates" : "25.67790,-100.28413", "Locale" : "Monterrey, Mexico"},
+            {"Pokémon" : "Misdreavus", "Coordinates" : "48.82824, 2.4194", "Locale" : "Paris, France"},
             {"Pokémon" : "Phanpy", "Coordinates" : "45.559153,-73.557971", "Locale" : "Montreal, Canada"},
             {"Pokémon" : "Phanpy", "Coordinates" : "33.32338, 130.38283", "Locale" : "Saga, Japan"},
             {"Pokémon" : "Phanpy", "Coordinates" : "40.77369, -96.77237", "Locale" : "Nebraska, USA"},
@@ -30,7 +31,9 @@ var myList=[{"Pokémon" : "Aipom", "Coordinates" : "49.30153, -123.13337", "Loca
             {"Pokémon" : "Totodile", "Coordinates" : "47.710292,-122.367090", "Locale" : "Seattle, USA"},
             {"Pokémon" : "Totodile", "Coordinates" : "45.014559,-74.727288", "Locale" : "Ontario, Canada"},
             {"Pokémon" : "Totodile", "Coordinates" : "39.84006,-77.24646", "Locale" : "Pennsylvania, USA"},
-            {"Pokémon" : "Wobbuffet", "Coordinates" : "41.79707,140.75682", "Locale" : "Hokkaido, Japan"},];
+            {"Pokémon" : "Wobbuffet", "Coordinates" : "41.79707,140.75682", "Locale" : "Hokkaido, Japan"},
+            {"Pokémon" : "Yanma", "Coordinates" : "-31.96166, 115.84242", "Locale" : "Perth, Australia"},
+            {"Pokémon" : "Yanma", "Coordinates" : "35.78899, 139.87042", "Locale" : "Tokyo, Japan"},];
 
 // Builds the HTML Table out of myList json data from Ivy restful service.
  function buildHtmlTable() {
