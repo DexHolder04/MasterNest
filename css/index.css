@@ -171,6 +171,14 @@ td, th, tr {
 tr:nth-child(even) {
   background-color: #eeeeee;
 }
+.pixelmon {
+	width: auto; 
+	height:32px;
+	display:inline-block;
+	margin-left:45%;
+	margin-top:0em;
+	margin-bottom:0em;
+}
 #species {
 	width:300px;
 	display:block;
