@@ -1,109 +1,248 @@
 // JavaScript Document
-// {"Pokémon" : "", "Coordinates" : "", "Locale" : ""},
-var myList = [{"Pokémon" : "Abra", "Coordinates" : "37.65552, 126.76715", "Locale" : "Goyang-si, South Korea"},
-            {"Pokémon" : "Abra", "Coordinates" : "37.5285, 126.93263", "Locale" : "Seoul, South Korea"},
-            {"Pokémon" : "Abra", "Coordinates" : "40.850970,-73.877384", "Locale" : "New York, USA"},
-            {"Pokémon" : "Bulbasaur", "Coordinates" : "35.17311,137.09034", "Locale" : "Aichi, Japan"},
-            {"Pokémon" : "Charmander", "Coordinates" : "37.55046,-121.96702", "Locale" : "California, USA"},
-            {"Pokémon" : "Clefairy", "Coordinates" : "52.48521, 4.97829", "Locale" : "Purmerend, Netherlands"},
-            {"Pokémon" : "Cubone", "Coordinates" : "35.844736,128.560932", "Locale" : "Daegu, South Korea"},
-			{"Pokémon" : "Doduo", "Coordinates" : "34.80914, 135.53238", "Locale" : "Osaka, Japan"},
-			{"Pokémon" : "Doduo", "Coordinates" : "40.409520,-3.679725", "Locale" : "Madrid, Spain"},
-            {"Pokémon" : "Eevee", "Coordinates" : "43.72035, -79.35811", "Locale" : "North York, Canada"},
-            {"Pokémon" : "Eevee", "Coordinates" : "34.67789, 135.6745", "Locale" : "Osaka, Japan"},
-            {"Pokémon" : "Eevee", "Coordinates" : "43.65342, -87.72815", "Locale" : "Wisconsin, USA"},
-            {"Pokémon" : "Eevee", "Coordinates" : "39.241718,-76.858182", "Locale" : "Maryland, USA"},
-            {"Pokémon" : "Eevee", "Coordinates" : "41.87091,-71.34685", "Locale" : "Rhode Island, USA"},
-            {"Pokémon" : "Electabuzz", "Coordinates" : "-7.25171, 112.80355", "Locale" : "Surabaya, Indonesia"},
-            {"Pokémon" : "Electabuzz", "Coordinates" : "42.381869,-71.012037", "Locale" : "Massachusetts, USA"},
-            {"Pokémon" : "Exeggcute", "Coordinates" : "34.82166, 135.69111", "Locale" : "Osaka, Japan"},
-            {"Pokémon" : "Gastly", "Coordinates" : "55.75564, 37.42583", "Locale" : "Moscow, Russia"},
-            {"Pokémon" : "Gastly", "Coordinates" : "44.8612,-93.61752", "Locale" : "Minnesota, USA"},
-            {"Pokémon" : "Gastly", "Coordinates" : "41.382743,2.193316", "Locale" : "Barcelona, Spain"},
-            {"Pokémon" : "Growlithe", "Coordinates" : "42.353040,-71.070450", "Locale" : "Boston, USA"},
-            {"Pokémon" : "Growlithe", "Coordinates" : "43.79277,87.60058", "Locale" : "Urumqi, China"},
-            {"Pokémon" : "Horsea", "Coordinates" : "37.579167,126.976783", "Locale" : "Seoul, South Korea"},
-            {"Pokémon" : "Jynx", "Coordinates" : "35.62620,139.70599", "Locale" : "Tokyo, Japan"},
-            {"Pokémon" : "Kabuto", "Coordinates" : "34.682894,135.847297", "Locale" : "Nara-shi Nara, Japan"},
-            {"Pokémon" : "Kabuto", "Coordinates" : "37.427007,127.019229", "Locale" : "Gyeonggi-do, South Korea"},
-            {"Pokémon" : "Machop", "Coordinates" : "34.147567,-118.287035", "Locale" : "Los Angeles, USA"},
-            {"Pokémon" : "Machop", "Coordinates" : "42.42821, -83.52925", "Locale" : "Michigan, USA"},
-            {"Pokémon" : "Magikarp", "Coordinates" : "51.506384,-0.156747", "Locale" : "London, UK"},
-            {"Pokémon" : "Magikarp", "Coordinates" : "43.495424,-87.794058", "Locale" : "Wisconsin, USA"},
-            {"Pokémon" : "Magikarp", "Coordinates" : "-18.910195,-48.232247", "Locale" : "Minas Gerais, Brazil"},
-            {"Pokémon" : "Magmar", "Coordinates" : "34.01522, -118.28691", "Locale" : "California, USA"},
-            {"Pokémon" : "Magmar", "Coordinates" : "51.50596, -0.17939", "Locale" : "London, UK"},
-            {"Pokémon" : "Magnemite", "Coordinates" : "-6.125520,106.836370", "Locale" : "Jakarta, Indonesia"},
-            {"Pokémon" : "Oddish", "Coordinates" : "52.05708,4.28895", "Locale" : "The Hague, Netherlands"},
-            {"Pokémon" : "Oddish", "Coordinates" : "40.74723, -73.84553", "Locale" : "New York, USA"},
-            {"Pokémon" : "Omanyte", "Coordinates" : "38.51471, -90.27758", "Locale" : "Missouri, USA"},
-            {"Pokémon" : "Onix", "Coordinates" : "51.48164, -0.15794", "Locale" : "London, UK"},
-            {"Pokémon" : "Onix", "Coordinates" : "39.652952,-84.225406", "Locale" : "Ohio, USA"},
-            {"Pokémon" : "Onix", "Coordinates" : "45.745981,4.851430", "Locale" : "Lyon, France"},
-            {"Pokémon" : "Pikachu", "Coordinates" : "41.366005,2.155959", "Locale" : "Barcelona, Spain"},
-            {"Pokémon" : "Pikachu", "Coordinates" : "36.242608,139.543516", "Locale" : "Gunma, Japan"},
-            {"Pokémon" : "Pikachu", "Coordinates" : "23.066923,120.297709", "Locale" : "Tainan, Taiwan"},
-            {"Pokémon" : "Pikachu", "Coordinates" : "35.733980,139.746256", "Locale" : "Tokyo, Japan"},
-            {"Pokémon" : "Pikachu", "Coordinates" : "52.21317, 21.03404", "Locale" : "Warsaw, Poland"},
-            {"Pokémon" : "Pinsir", "Coordinates" : "42.355472,-71.066417", "Locale" : "Boston, USA"},
-            {"Pokémon" : "Pinsir", "Coordinates" : "53.59586, 10.01517", "Locale" : "Hamburg, Germany"},
-            {"Pokémon" : "Poliwag", "Coordinates" : "26.304945,127.826195", "Locale" : "Okinawa, Japan"},
-            {"Pokémon" : "Poliwag", "Coordinates" : "35.70815, 139.39462", "Locale" : "Tokyo, Japan"},
-            {"Pokémon" : "Poliwag", "Coordinates" : "12.975101,77.592313", "Locale" : "Karnataka, India"},
-            {"Pokémon" : "Poliwag", "Coordinates" : "35.381330,-94.374823", "Locale" : "Arkansas, USA"},
-            {"Pokémon" : "Ponyta", "Coordinates" : "30.245774,-97.711872", "Locale" : "Austin, USA"},
-            {"Pokémon" : "Ponyta", "Coordinates" : "34.9324, -85.25494", "Locale" : "Georgia, USA"},
-            {"Pokémon" : "Psyduck", "Coordinates" : "35.91785, 139.63155", "Locale" : "Saitama, Japan"},
-			{"Pokémon" : "Rhyhorn", "Coordinates" : "39.7778, -75.5", "Locale" : "Delaware, USA"},
-            {"Pokémon" : "Scyther", "Coordinates" : "39.322165,-76.641315", "Locale" : "Baltimore, USA"},
-            {"Pokémon" : "Scyther", "Coordinates" : "39.98353,-75.21043", "Locale" : "Pennsylvania, USA"},
-            {"Pokémon" : "Scyther", "Coordinates" : "45.428766,-73.683118", "Locale" : "Quebec, Canada"},
-            {"Pokémon" : "Seel", "Coordinates" : "19.42237,-99.1891", "Locale" : "Mexico City, Mexico"},
-            {"Pokémon" : "Seel", "Coordinates" : "48.80633, 2.11507", "Locale" : "Versailles, France"},
-            {"Pokémon" : "Shellder", "Coordinates" : "-22.905873,-43.225009", "Locale" : "Rio de Janeiro, Brazil"},
-            {"Pokémon" : "Squirtle", "Coordinates" : "42.33826, -82.98542", "Locale" : "Detroit, USA"},
-            {"Pokémon" : "Tentacool", "Coordinates" : "8.99756,-79.50835", "Locale" : "Panama Province, Panama"},
-            {"Pokémon" : "Voltorb", "Coordinates" : "3.142139,101.686662", "Locale" : "Kuala Lumpur, Malaysia"},
-            {"Pokémon" : "Voltorb", "Coordinates" : "36.36957, 140.45445", "Locale" : "Ibaraki, Japan"},
-            {"Pokémon" : "Voltorb", "Coordinates" : "42.14862,-87.79033", "Locale" : "Illinois, USA"},
-            {"Pokémon" : "Voltorb", "Coordinates" : "y voltorb?", "Locale" : "ew"},
-            {"Pokémon" : "Vulpix", "Coordinates" : "48.894603,2.389346", "Locale" : "Paris, France"},];
-
-// Builds the HTML Table out of myList json data from Ivy restful service.
- function buildHtmlTable() {
-     var columns = addAllColumnHeaders(myList);
- 
-     for (var i = 0 ; i < myList.length ; i++) {
-         var row$ = $('<tr/>');
-         for (var colIndex = 0 ; colIndex < columns.length ; colIndex++) {
-             var cellValue = myList[i][columns[colIndex]];
- 
-             if (cellValue == null) { cellValue = ""; }
- 
-             row$.append($('<td/>').html(cellValue));
-         }
-         $("#nestchart").append(row$);
-     }
- }
- 
- // Adds a header row to the table and returns the set of columns.
- // Need to do union of keys from all records as some records may not contain
- // all records
- function addAllColumnHeaders(myList)
- {
-     var columnSet = [];
-     var headerTr$ = $('<tr/>');
- 
-     for (var i = 0 ; i < myList.length ; i++) {
-         var rowHash = myList[i];
-         for (var key in rowHash) {
-             if ($.inArray(key, columnSet) == -1){
-                 columnSet.push(key);
-                 headerTr$.append($('<th/>').html(key));
-             }
-         }
-     }
-     $("#nestchart").append(headerTr$);
- 
-     return columnSet;
- }
+// ✨
+var blank = [{
+                "Pokémon" : "<img src=\"resources/pixel/.png\" alt=\"\" class=\"pixelmon\">",
+                "Coordinates" : "<button class=\"btn\" data-clipboard-text=\"\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
+                "Locale" : ""
+            },];
+var myList = [{
+                "Pokémon" : "<img src=\"resources/pixel/063.png\" alt=\"Abra\" class=\"pixelmon\">",
+                "Coordinates" : "<button class=\"btn\" data-clipboard-text=\"-25.7348,28.1888\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
+                "Locale" : "Pretoria, South Africa"
+            },{
+                "Pokémon" : "<img src=\"resources/pixel/063.png\" alt=\"Abra\" class=\"pixelmon\">",
+                "Coordinates" : "<button class=\"btn\" data-clipboard-text=\"37.8056,-122.4279\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
+                "Locale" : "California, USA"
+            },{
+                "Pokémon" : "✨ <img src=\"resources/pixel/001.png\" alt=\"Bulbasaur\" class=\"pixelmon\"> ✨",
+                "Coordinates" : "<button class=\"btn\" data-clipboard-text=\"39.8401,-77.2465\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
+                "Locale" : "Pennsylvania, USA"
+            },{
+                "Pokémon" : "✨ <img src=\"resources/pixel/001.png\" alt=\"Bulbasaur\" class=\"pixelmon\"> ✨",
+                "Coordinates" : "<button class=\"btn\" data-clipboard-text=\"1.3151,103.8163\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
+                "Locale" : "Singapore Botanic Gardens"
+            },{
+                "Pokémon" : "✨ <img src=\"resources/pixel/004.png\" alt=\"Charmander\" class=\"pixelmon\"> ✨",
+                "Coordinates" : "<button class=\"btn\" data-clipboard-text=\"34.6855,135.5279\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
+                "Locale" : "Osaka, Japan"
+            },{
+                "Pokémon" : "✨ <img src=\"resources/pixel/004.png\" alt=\"Charmander\" class=\"pixelmon\"> ✨",
+                "Coordinates" : "<button class=\"btn\" data-clipboard-text=\"37.5170,127.1209\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
+                "Locale" : "Seoul, South Korea"
+            },{
+                "Pokémon" : "✨ <img src=\"resources/pixel/004.png\" alt=\"Charmander\" class=\"pixelmon\"> ✨",
+                "Coordinates" : "<button class=\"btn\" data-clipboard-text=\"19.4224,-99.1891\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
+                "Locale" : "Mexico City, Mexico"
+            },{
+                "Pokémon" : "<img src=\"resources/pixel/035.png\" alt=\"Clefairy\" class=\"pixelmon\">",
+                "Coordinates" : "<button class=\"btn\" data-clipboard-text=\"40.7737,-96.7724\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
+                "Locale" : "Nebraska, USA"
+            },{
+                "Pokémon" : "<img src=\"resources/pixel/035.png\" alt=\"Clefairy\" class=\"pixelmon\">",
+                "Coordinates" : "<button class=\"btn\" data-clipboard-text=\"36.3696,140.4545\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
+                "Locale" : "Ibaraki, Japan"
+            },{
+                "Pokémon" : "<img src=\"resources/pixel/035.png\" alt=\"Clefairy\" class=\"pixelmon\">",
+                "Coordinates" : "<button class=\"btn\" data-clipboard-text=\"-6.1255,106.8364\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
+                "Locale" : "Jakarta, Indonesia"
+            },{
+                "Pokémon" : "<img src=\"resources/pixel/084.png\" alt=\"Doduo\" class=\"pixelmon\">",
+                "Coordinates" : "<button class=\"btn\" data-clipboard-text=\"47.5157,19.0771\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
+                "Locale" : "Budapest, Hungary"
+            },{
+                "Pokémon" : "<img src=\"resources/pixel/084.png\" alt=\"Doduo\" class=\"pixelmon\">",
+                "Coordinates" : "<button class=\"btn\" data-clipboard-text=\"41.8472,-87.6101\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
+                "Locale" : "Illinois, USA"
+            },{
+                "Pokémon" : "✨ <img src=\"resources/pixel/133.png\" alt=\"Eevee\" class=\"pixelmon\"> ✨",
+                "Coordinates" : "<button class=\"btn\" data-clipboard-text=\"38.5147,-90.2776\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
+                "Locale" : "Missouri, USA"
+            },{
+                "Pokémon" : "<img src=\"resources/pixel/125.png\" alt=\"Electabuzz\" class=\"pixelmon\">",
+                "Coordinates" : "<button class=\"btn\" data-clipboard-text=\"40.6480,-73.5132\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
+                "Locale" : "New York, USA"
+            },{
+                "Pokémon" : "<img src=\"resources/pixel/102.png\" alt=\"Exeggcute\" class=\"pixelmon\">",
+                "Coordinates" : "<button class=\"btn\" data-clipboard-text=\"39.6530,-84.2254\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
+                "Locale" : "Ohio, USA"
+            },{
+                "Pokémon" : "<img src=\"resources/pixel/102.png\" alt=\"Exeggcute\" class=\"pixelmon\">",
+                "Coordinates" : "<button class=\"btn\" data-clipboard-text=\"41.3595,2.1558\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
+                "Locale" : "Barcelona, Spain"
+            },{
+                "Pokémon" : "<img src=\"resources/pixel/102.png\" alt=\"Exeggcute\" class=\"pixelmon\">",
+                "Coordinates" : "<button class=\"btn\" data-clipboard-text=\"34.7148,137.6033\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
+                "Locale" : "Shizuoka, Japan"
+            },{
+                "Pokémon" : "✨ <img src=\"resources/pixel/092.png\" alt=\"Gastly\" class=\"pixelmon\"> ✨",
+                "Coordinates" : "<button class=\"btn\" data-clipboard-text=\"37.8077,-122.4752\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
+                "Locale" : "California, USA"
+            },{
+                "Pokémon" : "✨ <img src=\"resources/pixel/092.png\" alt=\"Gastly\" class=\"pixelmon\"> ✨",
+                "Coordinates" : "<button class=\"btn\" data-clipboard-text=\"36.9016,-76.2002\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
+                "Locale" : "Virginia, USA"
+            },{
+                "Pokémon" : "✨ <img src=\"resources/pixel/058.png\" alt=\"Growlithe\" class=\"pixelmon\"> ✨",
+                "Coordinates" : "<button class=\"btn\" data-clipboard-text=\"35.8414,128.5603\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
+                "Locale" : "Daegu, South Korea"
+            },{
+                "Pokémon" : "✨ <img src=\"resources/pixel/058.png\" alt=\"Growlithe\" class=\"pixelmon\"> ✨",
+                "Coordinates" : "<button class=\"btn\" data-clipboard-text=\"-22.9059,-43.2250\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
+                "Locale" : "Rio de Janeiro, Brazil"
+            },{
+                "Pokémon" : "✨ <img src=\"resources/pixel/116.png\" alt=\"Horsea\" class=\"pixelmon\"> ✨",
+                "Coordinates" : "<button class=\"btn\" data-clipboard-text=\"52.1581,-106.5844\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
+                "Locale" : "Saskatchewan, Canada"
+            },{
+                "Pokémon" : "✨ <img src=\"resources/pixel/116.png\" alt=\"Horsea\" class=\"pixelmon\"> ✨",
+                "Coordinates" : "<button class=\"btn\" data-clipboard-text=\"-6.5982,106.7994\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
+                "Locale" : "West Java, Indonesia"
+            },{
+                "Pokémon" : "<img src=\"resources/pixel/124.png\" alt=\"Jynx\" class=\"pixelmon\">",
+                "Coordinates" : "<button class=\"btn\" data-clipboard-text=\"47.6815,-122.2501\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
+                "Locale" : "Washington, USA"
+            },{
+                "Pokémon" : "<img src=\"resources/pixel/124.png\" alt=\"Jynx\" class=\"pixelmon\">",
+                "Coordinates" : "<button class=\"btn\" data-clipboard-text=\"-33.8960,151.2349\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
+                "Locale" : "New South Wales, Australia"
+            },{
+                "Pokémon" : "✨ <img src=\"resources/pixel/140.png\" alt=\"Kabuto\" class=\"pixelmon\"> ✨",
+                "Coordinates" : "<button class=\"btn\" data-clipboard-text=\"48.8283,2.4194\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
+                "Locale" : "Paris, France"
+            },{
+                "Pokémon" : "✨ <img src=\"resources/pixel/140.png\" alt=\"Kabuto\" class=\"pixelmon\"> ✨",
+                "Coordinates" : "<button class=\"btn\" data-clipboard-text=\"39.7898,-89.6844\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
+                "Locale" : "Illinois, USA"
+            },{
+                "Pokémon" : "✨ <img src=\"resources/pixel/140.png\" alt=\"Kabuto\" class=\"pixelmon\"> ✨",
+                "Coordinates" : "<button class=\"btn\" data-clipboard-text=\"3.1421,101.6867\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
+                "Locale" : "Kuala Lumpur, Malaysia"
+            },{
+                "Pokémon" : "✨ <img src=\"resources/pixel/066.png\" alt=\"Machop\" class=\"pixelmon\"> ✨",
+                "Coordinates" : "<button class=\"btn\" data-clipboard-text=\"49.4841,8.4939\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
+                "Locale" : "Mannheim, Germany"
+            },{
+                "Pokémon" : "✨ <img src=\"resources/pixel/066.png\" alt=\"Machop\" class=\"pixelmon\"> ✨",
+                "Coordinates" : "<button class=\"btn\" data-clipboard-text=\"53.5959,10.0152\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
+                "Locale" : "Hamburg, Germany"
+            },{
+                "Pokémon" : "✨ <img src=\"resources/pixel/066.png\" alt=\"Machop\" class=\"pixelmon\"> ✨",
+                "Coordinates" : "<button class=\"btn\" data-clipboard-text=\"37.5499,127.0822\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
+                "Locale" : "Seoul, South Korea"
+            },{
+                "Pokémon" : "✨ <img src=\"resources/pixel/066.png\" alt=\"Machop\" class=\"pixelmon\"> ✨",
+                "Coordinates" : "<button class=\"btn\" data-clipboard-text=\"37.5505,-121.9670\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
+                "Locale" : "California, USA"
+            },{
+                "Pokémon" : "✨ <img src=\"resources/pixel/129.png\" alt=\"Magikarp\" class=\"pixelmon\"> ✨",
+                "Coordinates" : "<button class=\"btn\" data-clipboard-text=\"34.1588,131.4383\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
+                "Locale" : "Yamaguchi, Japan"
+            },{
+                "Pokémon" : "✨ <img src=\"resources/pixel/129.png\" alt=\"Magikarp\" class=\"pixelmon\"> ✨",
+                "Coordinates" : "<button class=\"btn\" data-clipboard-text=\"41.5721,-93.6385\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
+                "Locale" : "Iowa, USA"
+            },{
+                "Pokémon" : "<img src=\"resources/pixel/126.png\" alt=\"Magmar\" class=\"pixelmon\">",
+                "Coordinates" : "<button class=\"btn\" data-clipboard-text=\"24.0258,-104.6869\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
+                "Locale" : "Durango, Mexico"
+            },{
+                "Pokémon" : "✨ <img src=\"resources/pixel/081.png\" alt=\"Magnemite\" class=\"pixelmon\"> ✨",
+                "Coordinates" : "<button class=\"btn\" data-clipboard-text=\"37.5285,126.9326\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
+                "Locale" : "Seoul, South Korea"
+            },{
+                "Pokémon" : "✨ <img src=\"resources/pixel/081.png\" alt=\"Magnemite\" class=\"pixelmon\"> ✨",
+                "Coordinates" : "<button class=\"btn\" data-clipboard-text=\"-37.7314,144.8378\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
+                "Locale" : "Victoria, Australia"
+            },{
+                "Pokémon" : "<img src=\"resources/pixel/043.png\" alt=\"Oddish\" class=\"pixelmon\">",
+                "Coordinates" : "<button class=\"btn\" data-clipboard-text=\"41.9056,-87.7002\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
+                "Locale" : "Illinois, USA"
+            },{
+                "Pokémon" : "<img src=\"resources/pixel/043.png\" alt=\"Oddish\" class=\"pixelmon\">",
+                "Coordinates" : "<button class=\"btn\" data-clipboard-text=\"35.6787,139.7165\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
+                "Locale" : "Tokyo, Japan"
+            },{
+                "Pokémon" : "✨ <img src=\"resources/pixel/138.png\" alt=\"Omanyte\" class=\"pixelmon\"> ✨",
+                "Coordinates" : "<button class=\"btn\" data-clipboard-text=\"37.3164,126.8591\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
+                "Locale" : "Gyeonggi-do, South Korea"
+            },{
+                "Pokémon" : "✨ <img src=\"resources/pixel/095.png\" alt=\"Onix\" class=\"pixelmon\"> ✨",
+                "Coordinates" : "<button class=\"btn\" data-clipboard-text=\"34.7630,135.7047\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
+                "Locale" : "Osaka, Japan"
+            },{
+                "Pokémon" : "✨ <img src=\"resources/pixel/025.png\" alt=\"Pikachu\" class=\"pixelmon\"> ✨",
+                "Coordinates" : "<button class=\"btn\" data-clipboard-text=\"40.7472,-73.8455\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
+                "Locale" : "New York, USA"
+            },{
+                "Pokémon" : "✨ <img src=\"resources/pixel/127.png\" alt=\"Pinsir\" class=\"pixelmon\"> ✨",
+                "Coordinates" : "<button class=\"btn\" data-clipboard-text=\"40.6897,-74.0148\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
+                "Locale" : "New York, USA"
+            },{
+                "Pokémon" : "✨ <img src=\"resources/pixel/060.png\" alt=\"Poliwag\" class=\"pixelmon\"> ✨",
+                "Coordinates" : "<button class=\"btn\" data-clipboard-text=\"34.7194,137.4342\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
+                "Locale" : "Aichi, Japan"
+            },{
+                "Pokémon" : "✨ <img src=\"resources/pixel/060.png\" alt=\"Poliwag\" class=\"pixelmon\"> ✨",
+                "Coordinates" : "<button class=\"btn\" data-clipboard-text=\"-36.8979,174.7849\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
+                "Locale" : "Auckland, New Zealand"
+            },{
+                "Pokémon" : "✨ <img src=\"resources/pixel/077.png\" alt=\"Ponyta\" class=\"pixelmon\"> ✨",
+                "Coordinates" : "<button class=\"btn\" data-clipboard-text=\"42.4282,-83.5293\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
+                "Locale" : "Michigan, USA"
+            },{
+                "Pokémon" : "<img src=\"resources/pixel/111.png\" alt=\"Rhyhorn\" class=\"pixelmon\">",
+                "Coordinates" : "<button class=\"btn\" data-clipboard-text=\"33.5193,-79.0994\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
+                "Locale" : "South Carolina, USA"
+            },{
+                "Pokémon" : "✨ <img src=\"resources/pixel/123.png\" alt=\"Scyther\" class=\"pixelmon\"> ✨",
+                "Coordinates" : "<button class=\"btn\" data-clipboard-text=\"35.4214,137.0997\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
+                "Locale" : "Gifu, Japan"
+            },{
+                "Pokémon" : "✨ <img src=\"resources/pixel/086.png\" alt=\"Seel\" class=\"pixelmon\"> ✨",
+                "Coordinates" : "<button class=\"btn\" data-clipboard-text=\"47.7103,-122.3671\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
+                "Locale" : "Washington, USA"
+            },{
+                "Pokémon" : "✨ <img src=\"resources/pixel/086.png\" alt=\"Seel\" class=\"pixelmon\"> ✨",
+                "Coordinates" : "<button class=\"btn\" data-clipboard-text=\"-18.9102,-48.2322\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
+                "Locale" : "Minas Gerais, Brazil"
+            },{
+                "Pokémon" : "✨ <img src=\"resources/pixel/090.png\" alt=\"Shellder\" class=\"pixelmon\"> ✨",
+                "Coordinates" : "<button class=\"btn\" data-clipboard-text=\"49.8697,-97.2390\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
+                "Locale" : "Manitoba, Canada"
+            },{
+                "Pokémon" : "✨ <img src=\"resources/pixel/090.png\" alt=\"Shellder\" class=\"pixelmon\"> ✨",
+                "Coordinates" : "<button class=\"btn\" data-clipboard-text=\"30.2457,-97.7119\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
+                "Locale" : "Texas, USA"
+            },{
+                "Pokémon" : "✨ <img src=\"resources/pixel/090.png\" alt=\"Shellder\" class=\"pixelmon\"> ✨",
+                "Coordinates" : "<button class=\"btn\" data-clipboard-text=\"37.5792,126.9768\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
+                "Locale" : "Seoul, South Korea"
+            },{
+                "Pokémon" : "✨ <img src=\"resources/pixel/090.png\" alt=\"Shellder\" class=\"pixelmon\"> ✨",
+                "Coordinates" : "<button class=\"btn\" data-clipboard-text=\"42.1486,-87.7903\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
+                "Locale" : "Illinois, USA"
+            },{
+                "Pokémon" : "✨ <img src=\"resources/pixel/007.png\" alt=\"Squirtle\" class=\"pixelmon\"> ✨",
+                "Coordinates" : "<button class=\"btn\" data-clipboard-text=\"43.7204,-79.3581\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
+                "Locale" : "Ontario, Canada"
+            },{
+                "Pokémon" : "✨ <img src=\"resources/pixel/007.png\" alt=\"Squirtle\" class=\"pixelmon\"> ✨",
+                "Coordinates" : "<button class=\"btn\" data-clipboard-text=\"44.9808,-93.1472\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
+                "Locale" : "Minnesota, USA"
+            },{
+                "Pokémon" : "<img src=\"resources/pixel/072.png\" alt=\"Tentacool\" class=\"pixelmon\">",
+                "Coordinates" : "<button class=\"btn\" data-clipboard-text=\"51.5064,-0.1567\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
+                "Locale" : "London, UK"
+            },{
+                "Pokémon" : "<img src=\"resources/pixel/072.png\" alt=\"Tentacool\" class=\"pixelmon\">",
+                "Coordinates" : "<button class=\"btn\" data-clipboard-text=\"34.9324,-85.2549\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
+                "Locale" : "Georgia, USA"
+            },{
+                "Pokémon" : "<img src=\"resources/pixel/100.png\" alt=\"Voltorb\" class=\"pixelmon\">",
+                "Coordinates" : "<button class=\"btn\" data-clipboard-text=\"34.2273,135.1711\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
+                "Locale" : "Wakayama, Japan"
+            },{
+                "Pokémon" : "<img src=\"resources/pixel/037.png\" alt=\"Vulpix\" class=\"pixelmon\">",
+                "Coordinates" : "<button class=\"btn\" data-clipboard-text=\"42.3819,-71.0120\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
+                "Locale" : "Massachusetts, USA"
+            },];

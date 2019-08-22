@@ -1,45 +1,28 @@
 // JavaScript Document
-// {"Pokémon" : "", "Coordinates" : "", "Locale" : ""},
-var myList=[{"Pokémon" : "Bidoof", "Coordinates" : "44.64144, -93.15167", "Locale" : "Minnesota, USA"},
-            {"Pokémon" : "Chimchar", "Coordinates" : "30.261939,-97.749986", "Locale" : "Austin, USA"},
-            {"Pokémon" : "Hippopotas", "Coordinates" : "48.15874, 11.59753", "Locale" : "Munich, Germany"},
-            {"Pokémon" : "Turtwig", "Coordinates" : "34.76299, 135.70473", "Locale" : "Osaka, Japan"},];
-
-// Builds the HTML Table out of myList json data from Ivy restful service.
- function buildHtmlTable() {
-     var columns = addAllColumnHeaders(myList);
- 
-     for (var i = 0 ; i < myList.length ; i++) {
-         var row$ = $('<tr/>');
-         for (var colIndex = 0 ; colIndex < columns.length ; colIndex++) {
-             var cellValue = myList[i][columns[colIndex]];
- 
-             if (cellValue == null) { cellValue = ""; }
- 
-             row$.append($('<td/>').html(cellValue));
-         }
-         $("#nestchart").append(row$);
-     }
- }
- 
- // Adds a header row to the table and returns the set of columns.
- // Need to do union of keys from all records as some records may not contain
- // all records
- function addAllColumnHeaders(myList)
- {
-     var columnSet = [];
-     var headerTr$ = $('<tr/>');
- 
-     for (var i = 0 ; i < myList.length ; i++) {
-         var rowHash = myList[i];
-         for (var key in rowHash) {
-             if ($.inArray(key, columnSet) == -1){
-                 columnSet.push(key);
-                 headerTr$.append($('<th/>').html(key));
-             }
-         }
-     }
-     $("#nestchart").append(headerTr$);
- 
-     return columnSet;
- }
+// ✨
+var blank = [{
+                "Pokémon" : "<img src=\"resources/pixel/.png\" alt=\"\" class=\"pixelmon\">",
+                "Coordinates" : "<button class=\"btn\" data-clipboard-text=\"\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
+                "Locale" : ""
+            },];
+var myList=[{
+                "Pokémon" : "<img src=\"resources/pixel/390.png\" alt=\"Chimchar\" class=\"pixelmon\">",
+                "Coordinates" : "<button class=\"btn\" data-clipboard-text=\"4.5723,-74.1303\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
+                "Locale" : "Bogota, Colombia"
+            },{
+                "Pokémon" : "<img src=\"resources/pixel/449.png\" alt=\"Hippopotas\" class=\"pixelmon\">",
+                "Coordinates" : "<button class=\"btn\" data-clipboard-text=\"40.8510,-73.8774\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
+                "Locale" : "New York, USA"
+            },{
+                "Pokémon" : "<img src=\"resources/pixel/449.png\" alt=\"Hippopotas\" class=\"pixelmon\">",
+                "Coordinates" : "<button class=\"btn\" data-clipboard-text=\"47.5273,19.0501\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
+                "Locale" : "Budapest, Hungary"
+            },{
+                "Pokémon" : "<img src=\"resources/pixel/387.png\" alt=\"Turtwig\" class=\"pixelmon\">",
+                "Coordinates" : "<button class=\"btn\" data-clipboard-text=\"52.2132,21.0340\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
+                "Locale" : "Warsaw, Poland"
+            },{
+                "Pokémon" : "<img src=\"resources/pixel/387.png\" alt=\"Turtwig\" class=\"pixelmon\">",
+                "Coordinates" : "<button class=\"btn\" data-clipboard-text=\"42.4187,-82.2084\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
+                "Locale" : "Ontario, Canada"
+            }];

@@ -1,131 +1,120 @@
 // JavaScript Document
-// {"Pokémon" : "", "Coordinates" : "", "Locale" : ""},
-var myList=[{"Pokémon" : "Anorith", "Coordinates" : "37.54985, 127.0822", "Locale" : ""},
-            {"Pokémon" : "Anorith", "Coordinates" : "51.57014, -0.09953", "Locale" : ""},
-            {"Pokémon" : "Anorith", "Coordinates" : "36.6264, 137.19628", "Locale" : ""},
-            {"Pokémon" : "Baltoy", "Coordinates" : "35.78899, 139.87042", "Locale" : ""},
-            {"Pokémon" : "Baltoy", "Coordinates" : "29.53754, -95.52346", "Locale" : ""},
-            {"Pokémon" : "Baltoy", "Coordinates" : "43.63351, 1.3823", "Locale" : ""},
-            {"Pokémon" : "Carvanha", "Coordinates" : "41.42752, -74.05795", "Locale" : ""},
-            {"Pokémon" : "Carvanha", "Coordinates" : "43.05271,141.30952", "Locale" : ""},
-            {"Pokémon" : "Carvanha", "Coordinates" : "35.71449, 139.77337", "Locale" : ""},
-            {"Pokémon" : "Corphish", "Coordinates" : "51.65126,5.04769", "Locale" : ""},
-            {"Pokémon" : "Corphish", "Coordinates" : "40.82225, -81.24953", "Locale" : ""},
-            {"Pokémon" : "Corphish", "Coordinates" : "34.07502, 134.55515", "Locale" : ""},
-            {"Pokémon" : "Duskull", "Coordinates" : "-22.90562,-43.22582", "Locale" : ""},
-            {"Pokémon" : "Duskull", "Coordinates" : "51.49601, 7.47901", "Locale" : ""},
-            {"Pokémon" : "Duskull", "Coordinates" : "47.30694, -122.5273", "Locale" : ""},
-			{"Pokémon" : "Electrike", "Coordinates" : "", "Locale" : ""},
-            {"Pokémon" : "Electrike", "Coordinates" : "", "Locale" : ""},
-            {"Pokémon" : "Electrike", "Coordinates" : "", "Locale" : ""},
-            {"Pokémon" : "Lileep", "Coordinates" : "", "Locale" : ""},
-            {"Pokémon" : "Lileep", "Coordinates" : "", "Locale" : ""},
-            {"Pokémon" : "Lileep", "Coordinates" : "", "Locale" : ""},
-            {"Pokémon" : "Luvdisc", "Coordinates" : "", "Locale" : ""},
-            {"Pokémon" : "Luvdisc", "Coordinates" : "", "Locale" : ""},
-            {"Pokémon" : "Luvdisc", "Coordinates" : "", "Locale" : ""},
-            {"Pokémon" : "Makuhita", "Coordinates" : "", "Locale" : ""},
-            {"Pokémon" : "Makuhita", "Coordinates" : "", "Locale" : ""},
-            {"Pokémon" : "Makuhita", "Coordinates" : "", "Locale" : ""},
-            {"Pokémon" : "Meditite", "Coordinates" : "", "Locale" : ""},
-            {"Pokémon" : "Meditite", "Coordinates" : "", "Locale" : ""},
-            {"Pokémon" : "Meditite", "Coordinates" : "", "Locale" : ""},
-            {"Pokémon" : "Minun", "Coordinates" : "", "Locale" : ""},
-            {"Pokémon" : "Minun", "Coordinates" : "", "Locale" : ""},
-            {"Pokémon" : "Minun", "Coordinates" : "", "Locale" : ""},
-            {"Pokémon" : "Misdreavus", "Coordinates" : "", "Locale" : ""},
-            {"Pokémon" : "Misdreavus", "Coordinates" : "", "Locale" : ""},
-            {"Pokémon" : "Misdreavus", "Coordinates" : "", "Locale" : ""},
-            {"Pokémon" : "Mudkip", "Coordinates" : "", "Locale" : ""},
-            {"Pokémon" : "Mudkip", "Coordinates" : "", "Locale" : ""},
-            {"Pokémon" : "Mudkip", "Coordinates" : "", "Locale" : ""},
-            {"Pokémon" : "Nosepass", "Coordinates" : "", "Locale" : ""},
-            {"Pokémon" : "Nosepass", "Coordinates" : "", "Locale" : ""},
-            {"Pokémon" : "Nosepass", "Coordinates" : "", "Locale" : ""},
-            {"Pokémon" : "Numel", "Coordinates" : "", "Locale" : ""},
-            {"Pokémon" : "Numel", "Coordinates" : "", "Locale" : ""},
-            {"Pokémon" : "Numel", "Coordinates" : "", "Locale" : ""},
-            {"Pokémon" : "Plusle", "Coordinates" : "", "Locale" : ""},
-            {"Pokémon" : "Plusle", "Coordinates" : "", "Locale" : ""},
-            {"Pokémon" : "Plusle", "Coordinates" : "", "Locale" : ""},
-            {"Pokémon" : "Poochyena", "Coordinates" : "", "Locale" : ""},
-            {"Pokémon" : "Poochyena", "Coordinates" : "", "Locale" : ""},
-            {"Pokémon" : "Poochyena", "Coordinates" : "", "Locale" : ""},
-            {"Pokémon" : "Sableye", "Coordinates" : "", "Locale" : ""},
-            {"Pokémon" : "Sableye", "Coordinates" : "", "Locale" : ""},
-            {"Pokémon" : "Sableye", "Coordinates" : "", "Locale" : ""},
-            {"Pokémon" : "Seedot", "Coordinates" : "", "Locale" : ""},
-            {"Pokémon" : "Seedot", "Coordinates" : "", "Locale" : ""},
-            {"Pokémon" : "Seedot", "Coordinates" : "", "Locale" : ""},
-            {"Pokémon" : "Shroomish", "Coordinates" : "", "Locale" : ""},
-            {"Pokémon" : "Shroomish", "Coordinates" : "", "Locale" : ""},
-            {"Pokémon" : "Shroomish", "Coordinates" : "", "Locale" : ""},
-            {"Pokémon" : "Shuppet", "Coordinates" : "", "Locale" : ""},
-            {"Pokémon" : "Shuppet", "Coordinates" : "", "Locale" : ""},
-            {"Pokémon" : "Shuppet", "Coordinates" : "", "Locale" : ""},
-            {"Pokémon" : "Skitty", "Coordinates" : "", "Locale" : ""},
-            {"Pokémon" : "Skitty", "Coordinates" : "", "Locale" : ""},
-            {"Pokémon" : "Skitty", "Coordinates" : "", "Locale" : ""},
-            {"Pokémon" : "Spoink", "Coordinates" : "", "Locale" : ""},
-            {"Pokémon" : "Spoink", "Coordinates" : "", "Locale" : ""},
-            {"Pokémon" : "Spoink", "Coordinates" : "", "Locale" : ""},
-            {"Pokémon" : "Surskit", "Coordinates" : "", "Locale" : ""},
-            {"Pokémon" : "Surskit", "Coordinates" : "", "Locale" : ""},
-            {"Pokémon" : "Surskit", "Coordinates" : "", "Locale" : ""},
-            {"Pokémon" : "Swablu", "Coordinates" : "", "Locale" : ""},
-            {"Pokémon" : "Swablu", "Coordinates" : "", "Locale" : ""},
-            {"Pokémon" : "Swablu", "Coordinates" : "", "Locale" : ""},
-            {"Pokémon" : "Torchic", "Coordinates" : "", "Locale" : ""},
-            {"Pokémon" : "Torchic", "Coordinates" : "", "Locale" : ""},
-            {"Pokémon" : "Torchic", "Coordinates" : "", "Locale" : ""},
-            {"Pokémon" : "Treecko", "Coordinates" : "", "Locale" : ""},
-            {"Pokémon" : "Treecko", "Coordinates" : "", "Locale" : ""},
-            {"Pokémon" : "Treecko", "Coordinates" : "", "Locale" : ""},
-            {"Pokémon" : "Wailmer", "Coordinates" : "", "Locale" : ""},
-            {"Pokémon" : "Wailmer", "Coordinates" : "", "Locale" : ""},
-            {"Pokémon" : "Wailmer", "Coordinates" : "", "Locale" : ""},
-            {"Pokémon" : "Wingull", "Coordinates" : "", "Locale" : ""},
-            {"Pokémon" : "Wingull", "Coordinates" : "", "Locale" : ""},
-            {"Pokémon" : "Wingull", "Coordinates" : "", "Locale" : ""},
-            {"Pokémon" : "Yanma", "Coordinates" : "", "Locale" : ""},
-            {"Pokémon" : "Yanma", "Coordinates" : "", "Locale" : ""},
-            {"Pokémon" : "Yanma", "Coordinates" : "", "Locale" : ""},];
-
-// Builds the HTML Table out of myList json data from Ivy restful service.
- function buildHtmlTable() {
-     var columns = addAllColumnHeaders(myList);
- 
-     for (var i = 0 ; i < myList.length ; i++) {
-         var row$ = $('<tr/>');
-         for (var colIndex = 0 ; colIndex < columns.length ; colIndex++) {
-             var cellValue = myList[i][columns[colIndex]];
- 
-             if (cellValue == null) { cellValue = ""; }
- 
-             row$.append($('<td/>').html(cellValue));
-         }
-         $("#nestchart").append(row$);
-     }
- }
- 
- // Adds a header row to the table and returns the set of columns.
- // Need to do union of keys from all records as some records may not contain
- // all records
- function addAllColumnHeaders(myList)
- {
-     var columnSet = [];
-     var headerTr$ = $('<tr/>');
- 
-     for (var i = 0 ; i < myList.length ; i++) {
-         var rowHash = myList[i];
-         for (var key in rowHash) {
-             if ($.inArray(key, columnSet) == -1){
-                 columnSet.push(key);
-                 headerTr$.append($('<th/>').html(key));
-             }
-         }
-     }
-     $("#nestchart").append(headerTr$);
- 
-     return columnSet;
- }
+// ✨
+var blank = [{
+                "Pokémon" : "<img src=\"resources/pixel/.png\" alt=\"\" class=\"pixelmon\">",
+                "Coordinates" : "<button class=\"btn\" data-clipboard-text=\"\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
+                "Locale" : ""
+            },];
+var myList=[{
+                "Pokémon" : "✨ <img src=\"resources/pixel/347.png\" alt=\"Anorith\" class=\"pixelmon\"> ✨",
+                "Coordinates" : "<button class=\"btn\" data-clipboard-text=\"\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
+                "Locale" : ""
+            },{
+                "Pokémon" : "<img src=\"resources/pixel/343.png\" alt=\"Baltoy\" class=\"pixelmon\">",
+                "Coordinates" : "<button class=\"btn\" data-clipboard-text=\"\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
+                "Locale" : ""
+            },{
+                "Pokémon" : "<img src=\"resources/pixel/318.png\" alt=\"Carvanha\" class=\"pixelmon\">",
+                "Coordinates" : "<button class=\"btn\" data-clipboard-text=\"\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
+                "Locale" : ""
+            },{
+                "Pokémon" : "<img src=\"resources/pixel/341.png\" alt=\"Corphish\" class=\"pixelmon\">",
+                "Coordinates" : "<button class=\"btn\" data-clipboard-text=\"\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
+                "Locale" : ""
+            },{
+                "Pokémon" : "✨ <img src=\"resources/pixel/355.png\" alt=\"Duskull\" class=\"pixelmon\"> ✨",
+                "Coordinates" : "<button class=\"btn\" data-clipboard-text=\"\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
+                "Locale" : ""
+            },{
+                "Pokémon" : "<img src=\"resources/pixel/309.png\" alt=\"Electrike\" class=\"pixelmon\">",
+                "Coordinates" : "<button class=\"btn\" data-clipboard-text=\"\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
+                "Locale" : ""
+            },{
+                "Pokémon" : "✨ <img src=\"resources/pixel/345.png\" alt=\"Lileep\" class=\"pixelmon\"> ✨",
+                "Coordinates" : "<button class=\"btn\" data-clipboard-text=\"\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
+                "Locale" : ""
+            },{
+                "Pokémon" : "✨ <img src=\"resources/pixel/370.png\" alt=\"Luvdisc\" class=\"pixelmon\"> ✨",
+                "Coordinates" : "<button class=\"btn\" data-clipboard-text=\"\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
+                "Locale" : ""
+            },{
+                "Pokémon" : "✨ <img src=\"resources/pixel/296.png\" alt=\"Makuhita\" class=\"pixelmon\"> ✨",
+                "Coordinates" : "<button class=\"btn\" data-clipboard-text=\"\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
+                "Locale" : ""
+            },{
+                "Pokémon" : "✨ <img src=\"resources/pixel/307.png\" alt=\"Meditite\" class=\"pixelmon\"> ✨",
+                "Coordinates" : "<button class=\"btn\" data-clipboard-text=\"\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
+                "Locale" : ""
+            },{
+                "Pokémon" : "✨ <img src=\"resources/pixel/312.png\" alt=\"Minun\" class=\"pixelmon\"> ✨",
+                "Coordinates" : "<button class=\"btn\" data-clipboard-text=\"\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
+                "Locale" : ""
+            },{
+                "Pokémon" : "✨ <img src=\"resources/pixel/258.png\" alt=\"Mudkip\" class=\"pixelmon\"> ✨",
+                "Coordinates" : "<button class=\"btn\" data-clipboard-text=\"\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
+                "Locale" : ""
+            },{
+                "Pokémon" : "<img src=\"resources/pixel/299.png\" alt=\"Nosepass\" class=\"pixelmon\">",
+                "Coordinates" : "<button class=\"btn\" data-clipboard-text=\"\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
+                "Locale" : ""
+            },{
+                "Pokémon" : "<img src=\"resources/pixel/322.png\" alt=\"Numel\" class=\"pixelmon\">",
+                "Coordinates" : "<button class=\"btn\" data-clipboard-text=\"\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
+                "Locale" : ""
+            },{
+                "Pokémon" : "✨ <img src=\"resources/pixel/311.png\" alt=\"Plusle\" class=\"pixelmon\"> ✨",
+                "Coordinates" : "<button class=\"btn\" data-clipboard-text=\"\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
+                "Locale" : ""
+            },{
+                "Pokémon" : "✨ <img src=\"resources/pixel/261.png\" alt=\"Poochyena\" class=\"pixelmon\"> ✨",
+                "Coordinates" : "<button class=\"btn\" data-clipboard-text=\"\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
+                "Locale" : ""
+            },{
+                "Pokémon" : "✨ <img src=\"resources/pixel/302.png\" alt=\"Sableye\" class=\"pixelmon\"> ✨",
+                "Coordinates" : "<button class=\"btn\" data-clipboard-text=\"\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
+                "Locale" : ""
+            },{
+                "Pokémon" : "<img src=\"resources/pixel/273.png\" alt=\"Seedot\" class=\"pixelmon\">",
+                "Coordinates" : "<button class=\"btn\" data-clipboard-text=\"\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
+                "Locale" : ""
+            },{
+                "Pokémon" : "<img src=\"resources/pixel/285.png\" alt=\"Shroomish\" class=\"pixelmon\">",
+                "Coordinates" : "<button class=\"btn\" data-clipboard-text=\"\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
+                "Locale" : ""
+            },{
+                "Pokémon" : "✨ <img src=\"resources/pixel/353.png\" alt=\"Shuppet\" class=\"pixelmon\"> ✨",
+                "Coordinates" : "<button class=\"btn\" data-clipboard-text=\"\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
+                "Locale" : ""
+            },{
+                "Pokémon" : "<img src=\"resources/pixel/300.png\" alt=\"Skitty\" class=\"pixelmon\">",
+                "Coordinates" : "<button class=\"btn\" data-clipboard-text=\"\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
+                "Locale" : ""
+            },{
+                "Pokémon" : "✨ <img src=\"resources/pixel/325.png\" alt=\"Spoink\" class=\"pixelmon\"> ✨",
+                "Coordinates" : "<button class=\"btn\" data-clipboard-text=\"\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
+                "Locale" : ""
+            },{
+                "Pokémon" : "<img src=\"resources/pixel/283.png\" alt=\"Surskit\" class=\"pixelmon\">",
+                "Coordinates" : "<button class=\"btn\" data-clipboard-text=\"\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
+                "Locale" : ""
+            },{
+                "Pokémon" : "✨ <img src=\"resources/pixel/333.png\" alt=\"Swablu\" class=\"pixelmon\"> ✨",
+                "Coordinates" : "<button class=\"btn\" data-clipboard-text=\"\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
+                "Locale" : ""
+            },{
+                "Pokémon" : "✨ <img src=\"resources/pixel/255.png\" alt=\"Torchic\" class=\"pixelmon\"> ✨",
+                "Coordinates" : "<button class=\"btn\" data-clipboard-text=\"\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
+                "Locale" : ""
+            },{
+                "Pokémon" : "✨ <img src=\"resources/pixel/252.png\" alt=\"Treecko\" class=\"pixelmon\"> ✨",
+                "Coordinates" : "<button class=\"btn\" data-clipboard-text=\"\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
+                "Locale" : ""
+            },{
+                "Pokémon" : "✨ <img src=\"resources/pixel/320.png\" alt=\"Wailmer\" class=\"pixelmon\"> ✨",
+                "Coordinates" : "<button class=\"btn\" data-clipboard-text=\"\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
+                "Locale" : ""
+            },{
+                "Pokémon" : "✨ <img src=\"resources/pixel/278.png\" alt=\"Wingull\" class=\"pixelmon\"> ✨",
+                "Coordinates" : "<button class=\"btn\" data-clipboard-text=\"\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
+                "Locale" : ""
+            }];

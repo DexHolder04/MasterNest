@@ -81,7 +81,6 @@ h1,h2,h3,h4,h5,h6 {
 	background-image: url(../resources/images/Party_Logo.png);
 	background-position:center;
 	background-repeat:no-repeat;
-	background-size:contain;
 }
 .bottom {
 	margin: auto;
@@ -89,14 +88,12 @@ h1,h2,h3,h4,h5,h6 {
 	text-align: center;
 	color: #ffffff;
 	background-color: #333;
-	/* background-image: url(../resources/images/Party_Logo.png);
+	background-image: url(../resources/images/Party_Logo.png);
 	background-position:center;
 	background-repeat:no-repeat;
-	background-size:contain; */
+	background-size:contain;
 }
 .boundbox {
-	background-color: rgba(0,73,165,0.3);
-	border-radius: 10px;
 	display:block;
 	width:100%;
 	margin-left:auto;
@@ -156,34 +153,49 @@ ul.navbar li a:hover {
   	width:44%;
 	font-family: centurygoth;
   	border-collapse: collapse;
-	margin-left:28%;}
+	margin-left:28%;
+}
 }
 .nestchart {
 	display:inline-table;
 }
+thead {
+	border: 1px solid #dddddd;
+	color:#eee;
+  	text-align: center;
+	font-size:16px;
+	font-weight:bold;
+	background-color:#447391;
+}
 td, th, tr {
   border: 1px solid #dddddd;
-  text-align: left;
+  text-align: center;
   padding: 8px;
   width:33%;
 }
-
 tr:nth-child(even) {
-  background-color: #eeeeee;
+  background-color: #a6ece6;
+}
+tbody:nth-child(odd) {
+  background-color: #d3f8f5;
 }
 .pixelmon {
-	width: auto; 
-	height:32px;
+	height:auto;
+    image-rendering:crisp-edges;
+    image-rendering:-webkit-optimize-contrast;
 	display:inline-block;
+    line-height: inherit;
 	margin-left:auto;
 	margin-right:auto;
-	margin-top:0em;
-	margin-bottom:0em;
 }
-#species {
+#species, #myInput {
 	width:300px;
 	display:block;
 	margin-left:auto;
 	margin-right:auto;
 	
+}
+.btn {
+    color: #3aa0b0;
+    background-color: rgba(73, 207, 214, 0.1);
 }
