@@ -39,10 +39,6 @@ var myList = [{
                 "Locale" : "Nebraska, USA"
             },{
                 "Pokémon" : "<img src=\"resources/pixel/035.png\" alt=\"Clefairy\" class=\"pixelmon\">",
-                "Coordinates" : "<button class=\"btn\" data-clipboard-text=\"36.3696,140.4545\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
-                "Locale" : "Ibaraki, Japan"
-            },{
-                "Pokémon" : "<img src=\"resources/pixel/035.png\" alt=\"Clefairy\" class=\"pixelmon\">",
                 "Coordinates" : "<button class=\"btn\" data-clipboard-text=\"-6.1255,106.8364\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
                 "Locale" : "Jakarta, Indonesia"
             },{
@@ -169,6 +165,10 @@ var myList = [{
                 "Pokémon" : "✨ <img src=\"resources/pixel/095.png\" alt=\"Onix\" class=\"pixelmon\"> ✨",
                 "Coordinates" : "<button class=\"btn\" data-clipboard-text=\"34.7630,135.7047\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
                 "Locale" : "Osaka, Japan"
+            },{
+                "Pokémon" : "✨ <img src=\"resources/pixel/095.png\" alt=\"Onix\" class=\"pixelmon\"> ✨",
+                "Coordinates" : "<button class=\"btn\" data-clipboard-text=\"36.3696,140.4545\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
+                "Locale" : "Ibaraki, Japan"
             },{
                 "Pokémon" : "✨ <img src=\"resources/pixel/025.png\" alt=\"Pikachu\" class=\"pixelmon\"> ✨",
                 "Coordinates" : "<button class=\"btn\" data-clipboard-text=\"40.7472,-73.8455\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
