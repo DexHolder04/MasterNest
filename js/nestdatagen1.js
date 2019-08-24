@@ -130,6 +130,10 @@ var myList = [{
                 "Coordinates" : "<button class=\"btn\" data-clipboard-text=\"37.5505,-121.9670\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
                 "Locale" : "California, USA"
             },{
+                "Pokémon" : "✨ <img src=\"resources/pixel/066.png\" alt=\"Machop\" class=\"pixelmon\"> ✨",
+                "Coordinates" : "<button class=\"btn\" data-clipboard-text=\"-22.9674,-43.2290\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
+                "Locale" : "Rio de Janeiro, Brazil"
+            },{
                 "Pokémon" : "✨ <img src=\"resources/pixel/129.png\" alt=\"Magikarp\" class=\"pixelmon\"> ✨",
                 "Coordinates" : "<button class=\"btn\" data-clipboard-text=\"34.1588,131.4383\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
                 "Locale" : "Yamaguchi, Japan"

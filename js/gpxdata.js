@@ -17,6 +17,10 @@ var myList=[{
                 "Download iOS" : "<a href=\"./resources/gpx/-6.3028,106.8947.txt\" download><button class=\"btn\"><i class=\"fa fa-download\"></i> <i class=\"fab fa-apple\"></i></button></a>",
                 "Download Android" : "<a href=\"./resources/gpx/-6.3028,106.8947.gpx\" download><button class=\"btn\"><i class=\"fa fa-download\"></i> <i class=\"fab fa-android\"></i></button></a>"
             },{
+                "Coordinates" : "-6.5982,106.7994",                
+                "Download iOS" : "<a href=\"./resources/gpx/-6.5982,106.7994.txt\" download><button class=\"btn\"><i class=\"fa fa-download\"></i> <i class=\"fab fa-apple\"></i></button></a>",
+                "Download Android" : "<a href=\"./resources/gpx/-6.5982,106.7994.gpx\" download><button class=\"btn\"><i class=\"fa fa-download\"></i> <i class=\"fab fa-android\"></i></button></a>"
+            },{
                 "Coordinates" : "19.4224,-99.1891",                
                 "Download iOS" : "<a href=\"./resources/gpx/19.4224,-99.1891.txt\" download><button class=\"btn\"><i class=\"fa fa-download\"></i> <i class=\"fab fa-apple\"></i></button></a>",
                 "Download Android" : "<a href=\"./resources/gpx/19.4224,-99.1891.gpx\" download><button class=\"btn\"><i class=\"fa fa-download\"></i> <i class=\"fab fa-android\"></i></button></a>"
@@ -64,6 +68,10 @@ var myList=[{
                 "Coordinates" : "34.0152,-118.2869",                
                 "Download iOS" : "<a href=\"./resources/gpx/34.0152,-118.2869.txt\" download><button class=\"btn\"><i class=\"fa fa-download\"></i> <i class=\"fab fa-apple\"></i></button></a>",
                 "Download Android" : "<a href=\"./resources/gpx/34.0152,-118.2869.gpx\" download><button class=\"btn\"><i class=\"fa fa-download\"></i> <i class=\"fab fa-android\"></i></button></a>"
+            },{
+                "Coordinates" : "34.1476,-118.2870",                
+                "Download iOS" : "<a href=\"./resources/gpx/34.1476,-118.2870.txt\" download><button class=\"btn\"><i class=\"fa fa-download\"></i> <i class=\"fab fa-apple\"></i></button></a>",
+                "Download Android" : "<a href=\"./resources/gpx/34.1476,-118.2870.gpx\" download><button class=\"btn\"><i class=\"fa fa-download\"></i> <i class=\"fab fa-android\"></i></button></a>"
             },{
                 "Coordinates" : "34.5393,135.4392",                
                 "Download iOS" : "<a href=\"./resources/gpx/34.5393,135.4392.txt\" download><button class=\"btn\"><i class=\"fa fa-download\"></i> <i class=\"fab fa-apple\"></i></button></a>",
@@ -172,6 +180,10 @@ var myList=[{
                 "Coordinates" : "39.8401,-77.2465",                
                 "Download iOS" : "<a href=\"./resources/gpx/39.8401,-77.2465.txt\" download><button class=\"btn\"><i class=\"fa fa-download\"></i> <i class=\"fab fa-apple\"></i></button></a>",
                 "Download Android" : "<a href=\"./resources/gpx/39.8401,-77.2465.gpx\" download><button class=\"btn\"><i class=\"fa fa-download\"></i> <i class=\"fab fa-android\"></i></button></a>"
+            },{
+                "Coordinates" : "39.8903,32.8430",                
+                "Download iOS" : "<a href=\"./resources/gpx/39.8903,32.8430.txt\" download><button class=\"btn\"><i class=\"fa fa-download\"></i> <i class=\"fab fa-apple\"></i></button></a>",
+                "Download Android" : "<a href=\"./resources/gpx/39.8903,32.8430.gpx\" download><button class=\"btn\"><i class=\"fa fa-download\"></i> <i class=\"fab fa-android\"></i></button></a>"
             },{
                 "Coordinates" : "39.9835,-75.2104",                
                 "Download iOS" : "<a href=\"./resources/gpx/39.9835,-75.2104.txt\" download><button class=\"btn\"><i class=\"fa fa-download\"></i> <i class=\"fab fa-apple\"></i></button></a>",
@@ -292,6 +304,10 @@ var myList=[{
                 "Coordinates" : "52.0571,4.2890",                
                 "Download iOS" : "<a href=\"./resources/gpx/52.0571,4.2890.txt\" download><button class=\"btn\"><i class=\"fa fa-download\"></i> <i class=\"fab fa-apple\"></i></button></a>",
                 "Download Android" : "<a href=\"./resources/gpx/52.0571,4.2890.gpx\" download><button class=\"btn\"><i class=\"fa fa-download\"></i> <i class=\"fab fa-android\"></i></button></a>"
+            },{
+                "Coordinates" : "52.1581,-106.5844",                
+                "Download iOS" : "<a href=\"./resources/gpx/52.1581,-106.5844.txt\" download><button class=\"btn\"><i class=\"fa fa-download\"></i> <i class=\"fab fa-apple\"></i></button></a>",
+                "Download Android" : "<a href=\"./resources/gpx/52.1581,-106.5844.gpx\" download><button class=\"btn\"><i class=\"fa fa-download\"></i> <i class=\"fab fa-android\"></i></button></a>"
             },{
                 "Coordinates" : "52.2132,21.0340",                
                 "Download iOS" : "<a href=\"./resources/gpx/52.2132,21.0340.txt\" download><button class=\"btn\"><i class=\"fa fa-download\"></i> <i class=\"fab fa-apple\"></i></button></a>",
