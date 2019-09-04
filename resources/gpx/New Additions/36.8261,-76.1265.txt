@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="TheHigher">
+    <trk>
+        <name>0</name>
+        <trkseg>
+            <trkpt lat="36.825298" lon="-76.128429">
+            </trkpt>
+            <trkpt lat="36.825680" lon="-76.128065">
+            </trkpt>
+            <trkpt lat="36.826096" lon="-76.128851">
+            </trkpt>
+            <trkpt lat="36.826281" lon="-76.128188">
+            </trkpt>
+            <trkpt lat="36.825990" lon="-76.125959">
+            </trkpt>
+            <trkpt lat="36.825587" lon="-76.124738">
+            </trkpt>
+            <trkpt lat="36.825184" lon="-76.123360">
+            </trkpt>
+            <trkpt lat="36.827821" lon="-76.121051">
+            </trkpt>
+            <trkpt lat="36.829200" lon="-76.121132">
+            </trkpt>
+            <trkpt lat="36.830118" lon="-76.120722">
+            </trkpt>
+            <trkpt lat="36.830731" lon="-76.120129">
+            </trkpt>
+            <trkpt lat="36.831974" lon="-76.121634">
+            </trkpt>
+            <trkpt lat="36.831253" lon="-76.121546">
+            </trkpt>
+            <trkpt lat="36.830701" lon="-76.121949">
+            </trkpt>
+            <trkpt lat="36.831964" lon="-76.123552">
+            </trkpt>
+            <trkpt lat="36.831978" lon="-76.124146">
+            </trkpt>
+            <trkpt lat="36.832196" lon="-76.124843">
+            </trkpt>
+            <trkpt lat="36.832347" lon="-76.125600">
+            </trkpt>
+            <trkpt lat="36.830452" lon="-76.125475">
+            </trkpt>
+            <trkpt lat="36.829683" lon="-76.128155">
+            </trkpt>
+            <trkpt lat="36.828753" lon="-76.128270">
+            </trkpt>
+            <trkpt lat="36.828396" lon="-76.128626">
+            </trkpt>
+            <trkpt lat="36.828102" lon="-76.128491">
+            </trkpt>
+            <trkpt lat="36.827568" lon="-76.129421">
+            </trkpt>
+        </trkseg>
+    </trk>
+</gpx>
+
