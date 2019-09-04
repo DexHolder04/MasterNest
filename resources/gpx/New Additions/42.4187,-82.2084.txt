@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="TheHigher">
+    <trk>
+        <name>0</name>
+        <trkseg>
+            <trkpt lat="42.419356" lon="-82.209966">
+            </trkpt>
+            <trkpt lat="42.418516" lon="-82.209446">
+            </trkpt>
+            <trkpt lat="42.419034" lon="-82.207264">
+            </trkpt>
+            <trkpt lat="42.419374" lon="-82.207894">
+            </trkpt>
+            <trkpt lat="42.419360" lon="-82.208272">
+            </trkpt>
+            <trkpt lat="42.419643" lon="-82.208775">
+            </trkpt>
+            <trkpt lat="42.420479" lon="-82.208497">
+            </trkpt>
+        </trkseg>
+    </trk>
+</gpx>
+
