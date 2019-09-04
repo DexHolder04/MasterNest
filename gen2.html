@@ -21,10 +21,10 @@
 <body onLoad="buildHtmlTable()">
 
 <div class="top">
-  <div class="boundbox">
-  	<h1 class="title">Master Nest</h1>
-  	<h3 style="line-height:30px; margin-top:0.5em;"><span style="font-size:16px; line-height:5px;">Next Nest Migration:</span><br /><div id="countdown-clock"></div></h2>
-  </div>
+    <div class="boundbox">
+  	 <h1 class="title">Master Nest</h1>
+        <h3 style="line-height:30px; margin-top:0.5em;"><span style="font-size:16px; line-height:5px;">Next Nest Migration:</span><br /><span id="clock"></span></h3>
+    </div>
 </div>
 
 <ul class="navbar">
@@ -62,24 +62,35 @@
 <option>Yanma</option>
 </select>
 <br />
+<p style="font-family: monospace; font-style: italic; text-align: center">tap the icon to copy the nest coordinates to your clipboard!</p>
 <table id="nestchart" border="1" class="nestchart">
 </table>
 <br /><br /><br />
 <div class="bottom">
   <div class="boundboxb">
+      <br />
   	<h3 style="font-family:lithos; text-align:center; margin-top:0em;">~ Master Nest ~</h3>
     <h5 style="text-align:center">Sponsored by ✨ daicosmagic ✨</h5>
     <h5 style="text-align:center">Developed by DexHolder04</h5>
     <h5 style="text-align:center">Brought together by the amazing<br />team of Shiny Party</h5>
-    <br />
     <div style="font-size:48px; text-align:center; color:blue;"><a href="https://discord.gg/6NMgmKN"><i class="fab fa-discord"></i></a></div>
     <p style="text-align:center"><i>join the party!</i></p>
   </div>
 </div>
 <!-- Body JS -->
 <script src="js/countdown.js" type="text/javascript"></script>
-<script>
-    $('#countdown-clock').countdownClock({date: '2019-09-05'});
+<script type="text/javascript">
+    var migration = new Date('2019-09-19T00:00:00Z');
+	$('#clock').countdown(migration, function(event) {
+	var $this = $(this).html(event.strftime(
+    '<h3 style="line-height:30px; margin-top:0.5em;">%D Days '
+	+ '%H Hours<br />'
+	+ '%M Minutes '
+	+ '%S Seconds</h3>'));
+	if (event.elapsed) {
+		location.reload();
+	}
+			});
 </script>
 <script src="js/filter.js" type="text/javascript"></script>
 <script src="js/buildTable.js" type="text/javascript"></script>
