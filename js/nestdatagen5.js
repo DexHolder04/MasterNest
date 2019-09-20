@@ -81,17 +81,17 @@ var nestData = [{
 		"Locale": ""
 	},
 	{
-		"Pokémon": "<img src=\"resources/pixel/504.png\" alt=\"Patrat\" class=\"pixelmon\">",
+		"Pokémon": "✨<img src=\"resources/pixel/504.png\" alt=\"Patrat\" class=\"pixelmon\">✨",
 		"Coordinates": "<button class=\"btn\" data-clipboard-text=\"37.5170,127.1209\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
 		"Locale": "Seoul, South Korea"
 	},
 	{
-		"Pokémon": "<img src=\"resources/pixel/504.png\" alt=\"Patrat\" class=\"pixelmon\">",
+		"Pokémon": "✨<img src=\"resources/pixel/504.png\" alt=\"Patrat\" class=\"pixelmon\">✨",
 		"Coordinates": "<button class=\"btn\" data-clipboard-text=\"40.8510,-73.8774\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
 		"Locale": "New York, USA"
 	},
 	{
-		"Pokémon": "<img src=\"resources/pixel/504.png\" alt=\"Patrat\" class=\"pixelmon\">",
+		"Pokémon": "✨<img src=\"resources/pixel/504.png\" alt=\"Patrat\" class=\"pixelmon\">✨",
 		"Coordinates": "<button class=\"btn\" data-clipboard-text=\"40.8644,-73.8779\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
 		"Locale": "New York, USA"
 	},
