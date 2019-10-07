@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="TheHigher">
+    <trk>
+        <name>0</name>
+        <trkseg>
+            <trkpt lat="44.782520" lon="-93.148350">
+            </trkpt>
+            <trkpt lat="44.781726" lon="-93.150857">
+            </trkpt>
+            <trkpt lat="44.780615" lon="-93.151882">
+            </trkpt>
+            <trkpt lat="44.779329" lon="-93.152357">
+            </trkpt>
+            <trkpt lat="44.779454" lon="-93.152946">
+            </trkpt>
+            <trkpt lat="44.779276" lon="-93.151426">
+            </trkpt>
+            <trkpt lat="44.778862" lon="-93.151167">
+            </trkpt>
+            <trkpt lat="44.777587" lon="-93.148603">
+            </trkpt>
+            <trkpt lat="44.776986" lon="-93.142238">
+            </trkpt>
+            <trkpt lat="44.777167" lon="-93.141922">
+            </trkpt>
+            <trkpt lat="44.784808" lon="-93.143678">
+            </trkpt>
+            <trkpt lat="44.784884" lon="-93.143219">
+            </trkpt>
+            <trkpt lat="44.786345" lon="-93.144629">
+            </trkpt>
+            <trkpt lat="44.786764" lon="-93.145860">
+            </trkpt>
+            <trkpt lat="44.788146" lon="-93.146130">
+            </trkpt>
+            <trkpt lat="44.786697" lon="-93.148237">
+            </trkpt>
+            <trkpt lat="44.786037" lon="-93.148389">
+            </trkpt>
+            <trkpt lat="44.787748" lon="-93.151623">
+            </trkpt>
+            <trkpt lat="44.783049" lon="-93.153554">
+            </trkpt>
+            <trkpt lat="44.782349" lon="-93.155003">
+            </trkpt>
+            <trkpt lat="44.785188" lon="-93.139320">
+            </trkpt>
+        </trkseg>
+    </trk>
+</gpx>
