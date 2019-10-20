@@ -81,19 +81,19 @@ var nestData = [{
     "Locale": ""
   },
   {
-    "Pokémon": "✨<img src=\"resources/pixel/025.png\" alt=\"Pikachu\" class=\"pixelmon\">✨",
-    "Coordinates": "<button class=\"btn\" data-clipboard-text=\"-22.9674,-43.2290\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
-    "Locale": "Rio de Janeiro, Brazil"
+    "Pokémon": " ",
+    "Coordinates": "",
+    "Locale": ""
   },
   {
-    "Pokémon": "✨<img src=\"resources/pixel/025.png\" alt=\"Pikachu\" class=\"pixelmon\">✨",
-    "Coordinates": "<button class=\"btn\" data-clipboard-text=\"-26.5072,-49.1277\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
-    "Locale": "Santa Catarina, Brazil"
+    "Pokémon": " ",
+    "Coordinates": "",
+    "Locale": ""
   },
   {
-    "Pokémon": "✨<img src=\"resources/pixel/025.png\" alt=\"Pikachu\" class=\"pixelmon\">✨",
-    "Coordinates": "<button class=\"btn\" data-clipboard-text=\"39.6960,-104.9699\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
-    "Locale": "Colorado, USA"
+    "Pokémon": " ",
+    "Coordinates": "",
+    "Locale": ""
   },
   {
     "Pokémon": " ",
@@ -107,6 +107,31 @@ var nestData = [{
   },
   {
     "Pokémon": "<img src=\"resources/pixel/035.png\" alt=\"Clefairy\" class=\"pixelmon\">",
+    "Coordinates": "<button class=\"btn\" data-clipboard-text=\"39.6960,-104.9699\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
+    "Locale": "Colorado, USA"
+  },
+  {
+    "Pokémon": "<img src=\"resources/pixel/035.png\" alt=\"Clefairy\" class=\"pixelmon\">",
+    "Coordinates": "<button class=\"btn\" data-clipboard-text=\"-22.9674,-43.2290\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
+    "Locale": "Rio de Janeiro, Brazil"
+  },
+  {
+    "Pokémon": "<img src=\"resources/pixel/035.png\" alt=\"Clefairy\" class=\"pixelmon\">",
+    "Coordinates": "<button class=\"btn\" data-clipboard-text=\"-26.5072,-49.1277\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
+    "Locale": "Santa Catarina, Brazil"
+  },
+  {
+    "Pokémon": " ",
+    "Coordinates": "",
+    "Locale": ""
+  },
+  {
+    "Pokémon": " ",
+    "Coordinates": "",
+    "Locale": ""
+  },
+  {
+    "Pokémon": "<img src=\"resources/pixel/037.png\" alt=\"Vulpix\" class=\"pixelmon\">",
     "Coordinates": "<button class=\"btn\" data-clipboard-text=\"39.6530,-84.2254\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
     "Locale": "Ohio, USA"
   },
@@ -131,17 +156,22 @@ var nestData = [{
     "Locale": ""
   },
   {
-    "Pokémon": "<img src=\"resources/pixel/037.png\" alt=\"Vulpix\" class=\"pixelmon\">",
+    "Pokémon": "✨<img src=\"resources/pixel/043.png\" alt=\"Oddish\" class=\"pixelmon\">✨",
+    "Coordinates": "<button class=\"btn\" data-clipboard-text=\"51.5064,-0.1567\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
+    "Locale": "London, UK"
+  },
+  {
+    "Pokémon": "✨<img src=\"resources/pixel/043.png\" alt=\"Oddish\" class=\"pixelmon\">✨",
     "Coordinates": "<button class=\"btn\" data-clipboard-text=\"35.8414,128.5603\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
     "Locale": "Daegu, South Korea"
   },
   {
-    "Pokémon": "<img src=\"resources/pixel/037.png\" alt=\"Vulpix\" class=\"pixelmon\">",
+    "Pokémon": "✨<img src=\"resources/pixel/043.png\" alt=\"Oddish\" class=\"pixelmon\">✨",
     "Coordinates": "<button class=\"btn\" data-clipboard-text=\"42.3383,-82.9854\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
     "Locale": "Michigan, USA"
   },
   {
-    "Pokémon": "<img src=\"resources/pixel/037.png\" alt=\"Vulpix\" class=\"pixelmon\">",
+    "Pokémon": "✨<img src=\"resources/pixel/043.png\" alt=\"Oddish\" class=\"pixelmon\">✨",
     "Coordinates": "<button class=\"btn\" data-clipboard-text=\"44.7825,-93.1484\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
     "Locale": "Minnesota, USA"
   },
@@ -151,39 +181,9 @@ var nestData = [{
     "Locale": ""
   },
   {
-    "Pokémon": " ",
-    "Coordinates": "",
-    "Locale": ""
-  },
-  {
-    "Pokémon": "✨<img src=\"resources/pixel/043.png\" alt=\"Oddish\" class=\"pixelmon\">✨",
-    "Coordinates": "<button class=\"btn\" data-clipboard-text=\"51.5064,-0.1567\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
-    "Locale": "London, UK"
-  },
-  {
-    "Pokémon": " ",
-    "Coordinates": "",
-    "Locale": ""
-  },
-  {
-    "Pokémon": " ",
-    "Coordinates": "",
-    "Locale": ""
-  },
-  {
-    "Pokémon": " ",
-    "Coordinates": "",
-    "Locale": ""
-  },
-  {
-    "Pokémon": " ",
-    "Coordinates": "",
-    "Locale": ""
-  },
-  {
     "Pokémon": "✨<img src=\"resources/pixel/054.png\" alt=\"Psyduck\" class=\"pixelmon\">✨",
-    "Coordinates": "<button class=\"btn\" data-clipboard-text=\"-18.9102,-48.2322\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
-    "Locale": "Minas Gerais, Brazil"
+    "Coordinates": "<button class=\"btn\" data-clipboard-text=\"51.4708,7.4709\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
+    "Locale": "Dortmund, Germany"
   },
   {
     "Pokémon": "✨<img src=\"resources/pixel/054.png\" alt=\"Psyduck\" class=\"pixelmon\">✨",
@@ -191,54 +191,54 @@ var nestData = [{
     "Locale": "Texas, USA"
   },
   {
-    "Pokémon": "✨<img src=\"resources/pixel/054.png\" alt=\"Psyduck\" class=\"pixelmon\">✨",
+    "Pokémon": " ",
+    "Coordinates": "",
+    "Locale": ""
+  },
+  {
+    "Pokémon": " ",
+    "Coordinates": "",
+    "Locale": ""
+  },
+  {
+    "Pokémon": " ",
+    "Coordinates": "",
+    "Locale": ""
+  },
+  {
+    "Pokémon": "✨<img src=\"resources/pixel/058.png\" alt=\"Growlithe\" class=\"pixelmon\">✨",
     "Coordinates": "<button class=\"btn\" data-clipboard-text=\"34.6829,135.8473\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
     "Locale": "Nara, Japan"
   },
   {
-    "Pokémon": "✨<img src=\"resources/pixel/054.png\" alt=\"Psyduck\" class=\"pixelmon\">✨",
+    "Pokémon": "✨<img src=\"resources/pixel/058.png\" alt=\"Growlithe\" class=\"pixelmon\">✨",
+    "Coordinates": "<button class=\"btn\" data-clipboard-text=\"-18.9102,-48.2322\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
+    "Locale": "Minas Gerais, Brazil"
+  },
+  {
+    "Pokémon": "✨<img src=\"resources/pixel/058.png\" alt=\"Growlithe\" class=\"pixelmon\">✨",
     "Coordinates": "<button class=\"btn\" data-clipboard-text=\"48.8283,2.4194\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
     "Locale": "Paris, France"
   },
   {
-    "Pokémon": "✨<img src=\"resources/pixel/054.png\" alt=\"Psyduck\" class=\"pixelmon\">✨",
-    "Coordinates": "<button class=\"btn\" data-clipboard-text=\"51.4708,7.4709\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
-    "Locale": "Dortmund, Germany"
+    "Pokémon": "✨<img src=\"resources/pixel/058.png\" alt=\"Growlithe\" class=\"pixelmon\">✨",
+    "Coordinates": "<button class=\"btn\" data-clipboard-text=\"-18.9102,-48.2322\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
+    "Locale": "Minas Gerais, Brazil"
   },
   {
-    "Pokémon": "✨<img src=\"resources/pixel/058.png\" alt=\"Growlithe\" class=\"pixelmon\">✨",
+    "Pokémon": " ",
+    "Coordinates": "",
+    "Locale": ""
+  },
+  {
+    "Pokémon": "✨<img src=\"resources/pixel/060.png\" alt=\"Poliwag\" class=\"pixelmon\">✨",
     "Coordinates": "<button class=\"btn\" data-clipboard-text=\"36.3727,140.2634\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
     "Locale": "Ibaraki, Japan"
   },
   {
-    "Pokémon": "✨<img src=\"resources/pixel/058.png\" alt=\"Growlithe\" class=\"pixelmon\">✨",
+    "Pokémon": "✨<img src=\"resources/pixel/060.png\" alt=\"Poliwag\" class=\"pixelmon\">✨",
     "Coordinates": "<button class=\"btn\" data-clipboard-text=\"36.9391,140.9176\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
     "Locale": "Fukushima, Japan"
-  },
-  {
-    "Pokémon": " ",
-    "Coordinates": "",
-    "Locale": ""
-  },
-  {
-    "Pokémon": " ",
-    "Coordinates": "",
-    "Locale": ""
-  },
-  {
-    "Pokémon": " ",
-    "Coordinates": "",
-    "Locale": ""
-  },
-  {
-    "Pokémon": "✨<img src=\"resources/pixel/060.png\" alt=\"Poliwag\" class=\"pixelmon\">✨",
-    "Coordinates": "<button class=\"btn\" data-clipboard-text=\"-25.7348,28.1888\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
-    "Locale": "Pretoria, South Africa"
-  },
-  {
-    "Pokémon": "✨<img src=\"resources/pixel/060.png\" alt=\"Poliwag\" class=\"pixelmon\">✨",
-    "Coordinates": "<button class=\"btn\" data-clipboard-text=\"39.2417,-76.8582\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
-    "Locale": "Maryland, USA"
   },
   {
     "Pokémon": "✨<img src=\"resources/pixel/060.png\" alt=\"Poliwag\" class=\"pixelmon\">✨",
@@ -266,6 +266,31 @@ var nestData = [{
     "Locale": "London, UK"
   },
   {
+    "Pokémon": "<img src=\"resources/pixel/063.png\" alt=\"Abra\" class=\"pixelmon\">",
+    "Coordinates": "<button class=\"btn\" data-clipboard-text=\"51.5643,-0.1647\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
+    "Locale": "London, UK"
+  },
+  {
+    "Pokémon": "<img src=\"resources/pixel/063.png\" alt=\"Abra\" class=\"pixelmon\">",
+    "Coordinates": "<button class=\"btn\" data-clipboard-text=\"-25.7348,28.1888\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
+    "Locale": "Pretoria, South Africa"
+  },
+  {
+    "Pokémon": "<img src=\"resources/pixel/063.png\" alt=\"Abra\" class=\"pixelmon\">",
+    "Coordinates": "<button class=\"btn\" data-clipboard-text=\"39.2417,-76.8582\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
+    "Locale": "Maryland, USA"
+  },
+  {
+    "Pokémon": " ",
+    "Coordinates": "",
+    "Locale": ""
+  },
+  {
+    "Pokémon": " ",
+    "Coordinates": "",
+    "Locale": ""
+  },
+  {
     "Pokémon": " ",
     "Coordinates": "",
     "Locale": ""
@@ -281,19 +306,14 @@ var nestData = [{
     "Locale": ""
   },
   {
-    "Pokémon": "✨<img src=\"resources/pixel/066.png\" alt=\"Machop\" class=\"pixelmon\">✨",
-    "Coordinates": "<button class=\"btn\" data-clipboard-text=\"36.2426,139.5435\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
-    "Locale": "Gunma, Japan"
-  },
-  {
-    "Pokémon": "✨<img src=\"resources/pixel/066.png\" alt=\"Machop\" class=\"pixelmon\">✨",
+    "Pokémon": "<img src=\"resources/pixel/072.png\" alt=\"Tentacool\" class=\"pixelmon\">",
     "Coordinates": "<button class=\"btn\" data-clipboard-text=\"34.8091,135.5324\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
     "Locale": "Osaka, Japan"
   },
   {
-    "Pokémon": " ",
-    "Coordinates": "",
-    "Locale": ""
+    "Pokémon": "<img src=\"resources/pixel/072.png\" alt=\"Tentacool\" class=\"pixelmon\">",
+    "Coordinates": "<button class=\"btn\" data-clipboard-text=\"36.2426,139.5435\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
+    "Locale": "Gunma, Japan"
   },
   {
     "Pokémon": " ",
@@ -309,31 +329,6 @@ var nestData = [{
     "Pokémon": " ",
     "Coordinates": "",
     "Locale": ""
-  },
-  {
-    "Pokémon": " ",
-    "Coordinates": "",
-    "Locale": ""
-  },
-  {
-    "Pokémon": " ",
-    "Coordinates": "",
-    "Locale": ""
-  },
-  {
-    "Pokémon": " ",
-    "Coordinates": "",
-    "Locale": ""
-  },
-  {
-    "Pokémon": " ",
-    "Coordinates": "",
-    "Locale": ""
-  },
-  {
-    "Pokémon": "✨<img src=\"resources/pixel/077.png\" alt=\"Ponyta\" class=\"pixelmon\">✨",
-    "Coordinates": "<button class=\"btn\" data-clipboard-text=\"41.8472,-87.6101\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
-    "Locale": "Illinois, USA"
   },
   {
     "Pokémon": "✨<img src=\"resources/pixel/077.png\" alt=\"Ponyta\" class=\"pixelmon\">✨",
@@ -361,9 +356,14 @@ var nestData = [{
     "Locale": ""
   },
   {
-    "Pokémon": " ",
-    "Coordinates": "",
-    "Locale": ""
+    "Pokémon": "✨<img src=\"resources/pixel/081.png\" alt=\"Magnemite\" class=\"pixelmon\">✨",
+    "Coordinates": "<button class=\"btn\" data-clipboard-text=\"51.4805,-0.2942\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
+    "Locale": "Richmond, UK"
+  },
+  {
+    "Pokémon": "✨<img src=\"resources/pixel/081.png\" alt=\"Magnemite\" class=\"pixelmon\">✨",
+    "Coordinates": "<button class=\"btn\" data-clipboard-text=\"41.8472,-87.6101\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
+    "Locale": "Illinois, USA"
   },
   {
     "Pokémon": " ",
@@ -431,11 +431,6 @@ var nestData = [{
     "Locale": ""
   },
   {
-    "Pokémon": "✨<img src=\"resources/pixel/090.png\" alt=\"Shellder\" class=\"pixelmon\">✨",
-    "Coordinates": "<button class=\"btn\" data-clipboard-text=\"51.4805,-0.2942\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
-    "Locale": "Richmond, UK"
-  },
-  {
     "Pokémon": " ",
     "Coordinates": "",
     "Locale": ""
@@ -456,9 +451,14 @@ var nestData = [{
     "Locale": ""
   },
   {
-    "Pokémon": "✨<img src=\"resources/pixel/092.png\" alt=\"Gastly\" class=\"pixelmon\">✨",
-    "Coordinates": "<button class=\"btn\" data-clipboard-text=\"-23.5881,-46.6587\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
-    "Locale": "São Paulo, Brazil"
+    "Pokémon": " ",
+    "Coordinates": "",
+    "Locale": ""
+  },
+  {
+    "Pokémon": " ",
+    "Coordinates": "",
+    "Locale": ""
   },
   {
     "Pokémon": " ",
@@ -491,9 +491,9 @@ var nestData = [{
     "Locale": "Paris, France"
   },
   {
-    "Pokémon": " ",
-    "Coordinates": "",
-    "Locale": ""
+    "Pokémon": "✨<img src=\"resources/pixel/095.png\" alt=\"Onix\" class=\"pixelmon\">✨",
+    "Coordinates": "<button class=\"btn\" data-clipboard-text=\"-23.5881,-46.6587\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
+    "Locale": "São Paulo, Brazil"
   },
   {
     "Pokémon": " ",
@@ -506,9 +506,9 @@ var nestData = [{
     "Locale": ""
   },
   {
-    "Pokémon": "<img src=\"resources/pixel/100.png\" alt=\"Voltorb\" class=\"pixelmon\">",
-    "Coordinates": "<button class=\"btn\" data-clipboard-text=\"-36.8979,174.7849\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
-    "Locale": "Auckland, New Zealand"
+    "Pokémon": " ",
+    "Coordinates": "",
+    "Locale": ""
   },
   {
     "Pokémon": " ",
@@ -536,9 +536,9 @@ var nestData = [{
     "Locale": "Jakarta, Indonesia"
   },
   {
-    "Pokémon": " ",
-    "Coordinates": "",
-    "Locale": ""
+    "Pokémon": "<img src=\"resources/pixel/102.png\" alt=\"Exeggcute\" class=\"pixelmon\">",
+    "Coordinates": "<button class=\"btn\" data-clipboard-text=\"-36.8979,174.7849\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
+    "Locale": "Auckland, New Zealand"
   },
   {
     "Pokémon": " ",
@@ -554,21 +554,6 @@ var nestData = [{
     "Pokémon": " ",
     "Coordinates": "",
     "Locale": ""
-  },
-  {
-    "Pokémon": "✨<img src=\"resources/pixel/104.png\" alt=\"Cubone\" class=\"pixelmon\">✨",
-    "Coordinates": "<button class=\"btn\" data-clipboard-text=\"-6.5982,106.7994\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
-    "Locale": "West Java, Indonesia"
-  },
-  {
-    "Pokémon": "✨<img src=\"resources/pixel/104.png\" alt=\"Cubone\" class=\"pixelmon\">✨",
-    "Coordinates": "<button class=\"btn\" data-clipboard-text=\"43.7928,87.6006\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
-    "Locale": "Xinjiang, China"
-  },
-  {
-    "Pokémon": "✨<img src=\"resources/pixel/104.png\" alt=\"Cubone\" class=\"pixelmon\">✨",
-    "Coordinates": "<button class=\"btn\" data-clipboard-text=\"44.4695,26.0844\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
-    "Locale": "Bucharest, Romania"
   },
   {
     "Pokémon": "✨<img src=\"resources/pixel/104.png\" alt=\"Cubone\" class=\"pixelmon\">✨",
@@ -576,19 +561,34 @@ var nestData = [{
     "Locale": "Washington, USA"
   },
   {
-    "Pokémon": "✨<img src=\"resources/pixel/104.png\" alt=\"Cubone\" class=\"pixelmon\">✨",
-    "Coordinates": "<button class=\"btn\" data-clipboard-text=\"51.1551,6.8704\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
-    "Locale": "Düsseldorf, Germany"
+    "Pokémon": " ",
+    "Coordinates": "",
+    "Locale": ""
+  },
+  {
+    "Pokémon": " ",
+    "Coordinates": "",
+    "Locale": ""
+  },
+  {
+    "Pokémon": " ",
+    "Coordinates": "",
+    "Locale": ""
+  },
+  {
+    "Pokémon": " ",
+    "Coordinates": "",
+    "Locale": ""
   },
   {
     "Pokémon": "<img src=\"resources/pixel/111.png\" alt=\"Rhyhorn\" class=\"pixelmon\">",
-    "Coordinates": "<button class=\"btn\" data-clipboard-text=\"30.2457,-97.7119\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
-    "Locale": "Texas, USA"
+    "Coordinates": "<button class=\"btn\" data-clipboard-text=\"-6.5982,106.7994\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
+    "Locale": "West Java, Indonesia"
   },
   {
     "Pokémon": "<img src=\"resources/pixel/111.png\" alt=\"Rhyhorn\" class=\"pixelmon\">",
-    "Coordinates": "<button class=\"btn\" data-clipboard-text=\"40.7472,-73.8455\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
-    "Locale": "New York, USA"
+    "Coordinates": "<button class=\"btn\" data-clipboard-text=\"44.4695,26.0844\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
+    "Locale": "Bucharest, Romania"
   },
   {
     "Pokémon": "<img src=\"resources/pixel/111.png\" alt=\"Rhyhorn\" class=\"pixelmon\">",
@@ -607,8 +607,8 @@ var nestData = [{
   },
   {
     "Pokémon": "✨<img src=\"resources/pixel/116.png\" alt=\"Horsea\" class=\"pixelmon\">✨",
-    "Coordinates": "<button class=\"btn\" data-clipboard-text=\"27.2267,-80.2132\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
-    "Locale": "Florida, USA"
+    "Coordinates": "<button class=\"btn\" data-clipboard-text=\"40.7472,-73.8455\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
+    "Locale": "New York, USA"
   },
   {
     "Pokémon": " ",
@@ -636,14 +636,14 @@ var nestData = [{
     "Locale": "Gyeonggi-do, South Korea"
   },
   {
-    "Pokémon": "✨<img src=\"resources/pixel/123.png\" alt=\"Scyther\" class=\"pixelmon\">✨",
-    "Coordinates": "<button class=\"btn\" data-clipboard-text=\"33.7053,-118.0051\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
-    "Locale": "California, USA"
-  },
-  {
     "Pokémon": " ",
     "Coordinates": "",
     "Locale": ""
+  },
+  {
+    "Pokémon": "✨<img src=\"resources/pixel/123.png\" alt=\"Scyther\" class=\"pixelmon\">✨",
+    "Coordinates": "<button class=\"btn\" data-clipboard-text=\"27.2267,-80.2132\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
+    "Locale": "Florida, USA"
   },
   {
     "Pokémon": " ",
@@ -667,8 +667,8 @@ var nestData = [{
   },
   {
     "Pokémon": "<img src=\"resources/pixel/124.png\" alt=\"Jynx\" class=\"pixelmon\">",
-    "Coordinates": "<button class=\"btn\" data-clipboard-text=\"51.4963,7.4794\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
-    "Locale": "Dortmund, Germany"
+    "Coordinates": "<button class=\"btn\" data-clipboard-text=\"33.7053,-118.0051\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
+    "Locale": "California, USA"
   },
   {
     "Pokémon": " ",
@@ -691,9 +691,9 @@ var nestData = [{
     "Locale": "Moscow, Russia"
   },
   {
-    "Pokémon": " ",
-    "Coordinates": "",
-    "Locale": ""
+    "Pokémon": "<img src=\"resources/pixel/125.png\" alt=\"Electabuzz\" class=\"pixelmon\">",
+    "Coordinates": "<button class=\"btn\" data-clipboard-text=\"51.4963,7.4794\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
+    "Locale": "Dortmund, Germany"
   },
   {
     "Pokémon": " ",
