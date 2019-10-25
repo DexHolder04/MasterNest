@@ -18,12 +18,12 @@
 <script src="https://cdn.jsdelivr.net/npm/clipboard@2/dist/clipboard.min.js"></script>
 </head>
 
-<body onLoad="buildHtmlTable()">
-
+<body>
+    
 <div class="top">
     <div class="boundbox">
   	 <h1 class="title">Master Nest</h1>
-        <h3 style="line-height:30px; margin-top:0.5em;"><span style="font-size:16px; line-height:5px;">Next Nest Migration:</span><br /><span id="clock"></span></h3>
+        <h3 style="margin-bottom:0; margin-top:10px;"><span class="countdownTitle">Next Nest Migration:</span><br /><span id="clock"></span></h3>
     </div>
 </div>
 
@@ -74,10 +74,10 @@
     var migration = new Date('2019-10-31T00:00:00Z');
 	$('#clock').countdown(migration, function(event) {
 	var $this = $(this).html(event.strftime(
-    '<h3 style="line-height:30px; margin-top:0.5em;">%D Days '
+    '<countdown>%D Days '
 	+ '%H Hours<br />'
 	+ '%M Minutes '
-	+ '%S Seconds</h3>'));
+	+ '%S Seconds</countdown>'));
 	if (event.elapsed) {
 		location.reload();
 	}
