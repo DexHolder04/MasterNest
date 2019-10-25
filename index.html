@@ -23,18 +23,18 @@
 <div class="top">
     <div class="boundbox">
   	 <h1 class="title">Master Nest</h1>
-        <h3 style="line-height:30px; margin-top:0.5em;"><span style="font-size:16px; line-height:5px;">Next Nest Migration:</span><br /><span id="clock"></span></h3>
+        <h3 style="margin-bottom:0; margin-top:10px;"><span class="countdownTitle">Next Nest Migration:</span><br /><span id="clock"></span></h3>
     </div>
 </div>
 
 <ul class="navbar">
-  <li><a class="active" href="index.html">Home</a></li>
-  <li><a href="gen1.html">Gen I</a></li>
-  <li><a href="gen2.html">Gen II</a></li>
-  <li><a href="gen3.html">Gen III</a></li>
-  <li><a href="gen4.html">Gen IV</a></li>
-  <li><a href="gen5.html">Gen V</a></li>
-  <li><a href="gpx.html">GPX</a></li>
+  <li><a class="active" id="home" href="index.html">Home</a></li>
+  <li><a id="gen1" href="gen1.html">Gen I</a></li>
+  <li><a id="gen2" href="gen2.html">Gen II</a></li>
+  <li><a id="gen3" href="gen3.html">Gen III</a></li>
+  <li><a id="gen4" href="gen4.html">Gen IV</a></li>
+  <li><a id="gen5" href="gen5.html">Gen V</a></li>
+  <li><a id="gpx" href="gpx.html">GPX</a></li>
 </ul>
 
 <br />
@@ -82,18 +82,20 @@ As per usual, some species are absent from major nests and that's just bad luck.
 </div>
 <!-- Body JS -->
 <script src="js/countdown.js" type="text/javascript"></script>
+<script src="js/buildTable.js" type="text/javascript"></script>
 <script type="text/javascript">
     var migration = new Date('2019-10-31T00:00:00Z');
 	$('#clock').countdown(migration, function(event) {
 	var $this = $(this).html(event.strftime(
-    '<h3 style="line-height:30px; margin-top:0.5em;">%D Days '
+    '<countdown>%D Days '
 	+ '%H Hours<br />'
 	+ '%M Minutes '
-	+ '%S Seconds</h3>'));
+	+ '%S Seconds</countdown>'));
 	if (event.elapsed) {
 		location.reload();
 	}
 			});
+    window.onload = checkRes();
 </script>
 </body>
 </html>

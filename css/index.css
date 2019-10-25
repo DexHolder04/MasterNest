@@ -11,12 +11,28 @@
 	src:url(../resources/fonts/LithosPro-Regular.otf);
 }
 @media only screen and (orientation:portrait) {
-  .top {
-    padding-top: 10px;
-    padding-right: 15%;
-    padding-bottom: 10px;
-    padding-left: 15%;
-  }
+      .top {
+        padding-top: 8px;
+        padding-right: 13%;
+        padding-bottom: 8px;
+        padding-left: 13%;
+      }
+      .bottom {
+        padding-top: 10px;
+        padding-right: 15%;
+        padding-bottom: 10px;
+        padding-left: 15%;
+      }
+      .coverpic {
+        width: 100%;
+        border-radius:10px;
+      }
+      .nestchart {
+        width:94%;
+        font-family: centurygoth;
+        border-collapse: collapse;
+        margin-left:3%;
+      }
 }
 @media only screen and (orientation:landscape) {
   .top {
@@ -25,30 +41,12 @@
     padding-bottom: 10px;
     padding-left: 35%;
   }
-}
-@media only screen and (orientation:portrait) {
-  .bottom {
-    padding-top: 10px;
-    padding-right: 15%;
-    padding-bottom: 10px;
-    padding-left: 15%;
-  }
-}
-@media only screen and (orientation:landscape) {
   .bottom {
     padding-top: 10px;
     padding-right: 37%;
     padding-bottom: 10px;
     padding-left: 37%;
   }
-}
-@media only screen and (orientation:portrait) {
-  .coverpic {
-    width: 100%;
-	border-radius:10px;
-  }
-}
-@media only screen and (orientation:landscape) {
   .coverpic {
     width: 50%;
 	border-radius:10px;
@@ -56,7 +54,14 @@
 	margin-left: auto;
 	margin-right: auto;
   }
+  .nestchart {
+  	width:44%;
+	font-family: centurygoth;
+  	border-collapse: collapse;
+	margin-left:28%;
+  }
 }
+
 body, html {
 	height: 100%;
   	background: #b8fcf4;
@@ -77,10 +82,20 @@ h1,h2,h3,h4,h5,h6 {
 	text-align: center;
 	color: #ffffff;
 	background-color: rgb(0, 175, 197);
-    background:  repeating-linear-gradient(45deg, rgba(233, 233, 233, 0.2) 0%, rgba(233, 233, 233, 0.2) 5%,rgba(201, 201, 201, 0.2) 5%, rgba(201, 201, 201, 0.2) 10%), repeating-linear-gradient(135deg, rgba(145, 145, 145, 0.15) 0%, rgba(145, 145, 145, 0.15) 5%,rgba(116, 116, 116, 0.15) 5%, rgba(116, 116, 116, 0.15) 10%), linear-gradient(90deg, rgb(0, 175, 197),rgb(0, 175, 197)) !important;
-	background-image: url(../resources/images/Party_Logo.png);
+    background:  repeating-linear-gradient(45deg, rgba(233, 233, 233, 0.2) 0%, rgba(233, 233, 233, 0.2) 5%,rgba(201, 201, 201, 0.2) 5%, rgba(201, 201, 201, 0.2) 10%), repeating-linear-gradient(135deg, rgba(145, 145, 145, 0.15) 0%, rgba(145, 145, 145, 0.15) 5%,rgba(116, 116, 116, 0.15) 5%, rgba(116, 116, 116, 0.15) 10%), linear-gradient(90deg, rgb(0, 175, 197),rgb(0, 175, 197));
 	background-position:center;
 	background-repeat:no-repeat;
+}
+.countdownTitle {
+    font-size:14px;
+    line-height:5px;
+}
+countdown {
+    font-family: centurygoth;
+    font-size: 24px;
+    line-height:30px; 
+    margin-top:12px;
+    margin-bottom:10px;
 }
 .bottom {
 	margin: auto;
@@ -140,22 +155,6 @@ ul.navbar li a:hover {
     background:  repeating-linear-gradient(0deg, rgba(43, 123, 181, 0.35) 0%,rgba(43, 123, 181, 0.35) 90%, rgba(68, 180, 221, 0.44) 90%, rgba(68, 180, 221, 0.44) 100%);
     text-decoration: none;
 }
-@media only screen and (orientation:portrait) {
-.nestchart {
-  	width:94%;
-	font-family: centurygoth;
-  	border-collapse: collapse;
-	margin-left:3%;
-}
-}
-@media only screen and (orientation:landscape) {
-.nestchart {
-  	width:44%;
-	font-family: centurygoth;
-  	border-collapse: collapse;
-	margin-left:28%;
-}
-}
 .nestchart {
 	display:inline-table;
     background-color: #a6ece6;
@@ -199,4 +198,39 @@ td, th, tr {
 .btn {
     color: #3aa0b0;
     background-color: rgba(73, 207, 214, 0.1);
+}
+
+@media only screen and (max-width:490px) {
+   .title {
+	font-size:32px !important;
+    }
+   .countdownTitle {
+    font-size:12px;
+    line-height:5px;
+    }
+   countdown {
+    font-size: 21px;
+    line-height:26px;  
+    margin-top:12px;
+    margin-bottom:0;
+    }
+   ul.navbar li {
+    width:14.2%;
+    min-height: 50px;
+    max-height: 50px;
+    }
+   ul.navbar li a {
+    color: white;
+    text-decoration: none;
+    max-height: 50px;
+    line-height: 24px;
+    text-align: center;
+    white-space: nowrap;
+    }
+   .top {
+    background:  repeating-linear-gradient(45deg, rgba(233, 233, 233, 0.2) 0%, rgba(233, 233, 233, 0.2) 10%,rgba(201, 201, 201, 0.2) 10%, rgba(201, 201, 201, 0.2) 20%), repeating-linear-gradient(135deg, rgba(145, 145, 145, 0.15) 0%, rgba(145, 145, 145, 0.15) 10%,rgba(116, 116, 116, 0.15) 10%, rgba(116, 116, 116, 0.15) 20%), linear-gradient(90deg, rgb(0, 175, 197),rgb(0, 175, 197));
+    }
+   .faNavbar {
+    line-height: 24px;
+    }
 }

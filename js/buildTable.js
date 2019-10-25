@@ -56,3 +56,23 @@ clipboard.on('error', function(e) {
     console.error('Action:', e.action);
     console.error('Trigger:', e.trigger);
 });
+
+// Navbar minimizing
+function checkRes() {
+    
+    if (window.innerWidth <= 490) {
+        document.getElementById("home").innerHTML = `<i class="fas fa-home faNavbar"></i>`;
+        document.getElementById("gen1").innerHTML = "I";
+        document.getElementById('gen2').innerHTML = "II";
+        document.getElementById('gen3').innerHTML = "III";
+        document.getElementById('gen4').innerHTML = "IV";
+        document.getElementById('gen5').innerHTML = "V";
+        document.getElementById("gpx").innerHTML = `<i class="far fa-map faNavbar"></i>`;
+        
+    } else {
+        
+        return;
+        
+    }
+    
+};
