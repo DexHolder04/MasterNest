@@ -456,12 +456,12 @@ var nestData = [{
     "Locale": ""
   },
   {
-    "Pokémon": "<img src=\"resources/pixel/227.png\" alt=\"Skarmory\" class=\"pixelmon\">",
+    "Pokémon": "✨<img src=\"resources/pixel/227.png\" alt=\"Skarmory\" class=\"pixelmon\">✨",
     "Coordinates": "<button class=\"btn\" data-clipboard-text=\"26.6882,127.8753\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
     "Locale": "Okinawa, Japan"
   },
   {
-    "Pokémon": "<img src=\"resources/pixel/227.png\" alt=\"Skarmory\" class=\"pixelmon\">",
+    "Pokémon": "✨<img src=\"resources/pixel/227.png\" alt=\"Skarmory\" class=\"pixelmon\">✨",
     "Coordinates": "<button class=\"btn\" data-clipboard-text=\"41.9056,-87.7002\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
     "Locale": "Illinois, USA"
   },
