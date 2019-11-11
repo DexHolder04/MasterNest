@@ -286,9 +286,9 @@ var nestData = [{
     "Locale": "New York, USA"
   },
   {
-    "Pokémon": " ",
-    "Coordinates": "",
-    "Locale": ""
+    "Pokémon": "✨<img src=\"resources/pixel/066.png\" alt=\"Machop\" class=\"pixelmon\">✨",
+    "Coordinates": "<button class=\"btn\" data-clipboard-text=\"38.8897,-77.0488\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
+    "Locale": "District of Columbia, USA"
   },
   {
     "Pokémon": " ",
