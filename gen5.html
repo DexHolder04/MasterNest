@@ -1,89 +1,98 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html xmlns="http://www.w3.org/1999/xhtml" data-page="gen5">
+
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<meta name="viewport" content="width=device-width,height=device-height,initial-scale=1.0"/>
-<link rel="shortcut icon" href="./favicon.png" type="image/x-icon"/>
-<link rel="icon" href="./favicon.png" type="image/x-icon"/>
-<title>Master Nest - Gen 5</title>
-<!-- CSS -->
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.9.0/css/all.min.css"/>
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"/>
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/2.3.1/css/flag-icon.min.css"/>
-<link rel="stylesheet" href="css/index.css"/>
-<!-- JS -->
-<script src="js/jquery-3.4.1.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.24.0/moment.js" type="text/javascript"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/moment-timezone/0.5.23/moment-timezone-with-data-2012-2022.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/clipboard@2/dist/clipboard.min.js"></script>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width,height=device-height,initial-scale=1.0" />
+    <link rel="shortcut icon" href="./favicon.png" type="image/x-icon" />
+    <link rel="icon" href="./favicon.png" type="image/x-icon" />
+    <title>Master Nest - Gen 5</title>
+    <!-- CSS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.9.0/css/all.min.css" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/2.3.1/css/flag-icon.min.css" />
+    <link rel="stylesheet" href="css/index.css" />
+    <!-- JS -->
+    <script src="js/jquery-3.4.1.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.24.0/moment.js" type="text/javascript"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/moment-timezone/0.5.23/moment-timezone-with-data-2012-2022.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/clipboard@2/dist/clipboard.min.js"></script>
 </head>
 
 <body>
-    
-<div class="top">
-    <div class="boundbox">
-  	 <h1 class="title">Master Nest</h1>
-        <h3 style="margin-bottom:0; margin-top:10px;"><span class="countdownTitle">Next Nest Migration:</span><br /><span id="clock"></span></h3>
+
+    <div class="top">
+        <div class="boundbox">
+            <h1 class="title">Master Nest</h1>
+            <h3 style="margin-bottom:0; margin-top:10px;"><span class="countdownTitle">Next Nest Migration:</span><br /><span id="clock"></span></h3>
+        </div>
     </div>
-</div>
 
-<ul class="navbar">
-  <li><a id="home" href="index.html">Home</a></li>
-  <li><a id="gen1" href="gen1.html">Gen I</a></li>
-  <li><a id="gen2" href="gen2.html">Gen II</a></li>
-  <li><a id="gen3" href="gen3.html">Gen III</a></li>
-  <li><a id="gen4" href="gen4.html">Gen IV</a></li>
-  <li><a class="active" id="gen5" href="gen5.html">Gen V</a></li>
-  <li><a id="gpx" href="gpx.html">GPX</a></li>
-</ul>
+    <ul class="navbar">
+        <li><a id="home" href="index.html">Home</a></li>
+        <li><a id="gen1" href="gen1.html">Gen I</a></li>
+        <li><a id="gen2" href="gen2.html">Gen II</a></li>
+        <li><a id="gen3" href="gen3.html">Gen III</a></li>
+        <li><a id="gen4" href="gen4.html">Gen IV</a></li>
+        <li><a id="gen5" href="gen5.html">Gen V</a></li>
+        <li><a id="gpx" href="gpx.html">GPX</a></li>
+    </ul>
 
-<h2 style="text-align:center;">Select your Pokémon</h2>
-<select id="species" onchange="filterDropDown()" class='form-control'>
-<option></option>
-<option>Blitzle</option>
-<option>Foongus</option>
-<option>Lillipup</option>
-<option>Oshawott</option>
-<option>Patrat</option>
-<option>Purrloin</option>
-<option>Snivy</option>
-<option>Tepig</option>
-</select>
-<br />
-<p style="font-family: monospace; font-style: italic; text-align: center">tap the icon to copy the nest coordinates to your clipboard!</p>
-<table id="nestchart" border="1" class="nestchart">
-</table>
-<br /><br /><br />
-<div class="bottom">
-  <div class="boundboxb">
+    <h2 style="text-align:center;">Select your Pokémon</h2>
+    <select id="species" onchange="filterDropDown()" class='form-control'>
+        <option></option>
+        <option>Blitzle</option>
+        <option>Foongus</option>
+        <option>Lillipup</option>
+        <option>Oshawott</option>
+        <option>Patrat</option>
+        <option>Purrloin</option>
+        <option>Snivy</option>
+        <option>Tepig</option>
+    </select>
     <br />
-  	<h3 style="font-family:lithos; text-align:center; margin-top:0em;">~ Master Nest ~</h3>
-    <h5 style="text-align:center">Sponsored by ✨ daicosmagic ✨</h5>
-    <h5 style="text-align:center">Developed by DexHolder04</h5>
-    <h5 style="text-align:center">Brought together by the amazing<br />team of CDC</h5>
-    <div style="font-size:48px; text-align:center; color:blue;"><a href="https://discord.gg/yaFNCak"><i class="fab fa-discord"></i></a></div>
-    <p style="text-align:center"><i>join the club!</i></p>
-  </div>
-</div>
-<!-- Body JS -->
-<script src="js/countdown.js" type="text/javascript"></script>
-<script src="js/filter.js" type="text/javascript"></script>
-<script src="js/nestdatagen5.js" type="text/javascript"></script>
-<script src="js/buildTable.js" type="text/javascript"></script>
-<script type="text/javascript">
-    var migration = new Date('2019-11-14T00:00:00Z');
-	$('#clock').countdown(migration, function(event) {
-	var $this = $(this).html(event.strftime(
-    '<countdown>%D Days '
-	+ '%H Hours<br />'
-	+ '%M Minutes '
-	+ '%S Seconds</countdown>'));
-	if (event.elapsed) {
-		location.reload();
-	}
-			});
-    window.onload = checkRes();
-    window.onload = buildHtmlTable();
-</script>
+    <p style="font-family: monospace; font-style: italic; text-align: center">tap the icon to copy the nest coordinates to your clipboard!</p>
+    <table id="nestchart" border="1" class="nestchart">
+    </table>
+    <br /><br />
+    <div class="toggle-container">
+        <input type="checkbox" id="switch" name="theme" onchange="toggleTheme()" />
+        <label for="switch">Toggle</label>
+    </div>
+    <br />
+    <div class="bottom">
+        <div class="boundboxb">
+            <br />
+            <h3 style="font-family:lithos; text-align:center; margin-top:0em;">~ Master Nest ~</h3>
+            <h5 style="text-align:center">Sponsored by ✨ daicosmagic ✨</h5>
+            <h5 style="text-align:center">Developed by DexHolder04</h5>
+            <h5 style="text-align:center">Brought together by the amazing<br />team of CDC</h5>
+            <div style="font-size:48px; text-align:center; color:blue;"><a href="https://discord.gg/yaFNCak"><i class="fab fa-discord"></i></a></div>
+            <p style="text-align:center"><i>join the club!</i></p>
+        </div>
+    </div>
+    <!-- Body JS -->
+    <script src="js/countdown.js" type="text/javascript"></script>
+    <script src="js/filter.js" type="text/javascript"></script>
+    <script src="js/nestdatagen5.js" type="text/javascript"></script>
+    <script src="js/buildTable.js" type="text/javascript"></script>
+    <script type="text/javascript">
+        var migration = new Date('2019-11-28T00:00:00Z');
+        $('#clock').countdown(migration, function(event) {
+            var $this = $(this).html(event.strftime(
+                '<countdown>%D Days ' +
+                '%H Hours<br />' +
+                '%M Minutes ' +
+                '%S Seconds</countdown>'));
+            if (event.elapsed) {
+                location.reload();
+            }
+        });
+        window.onload = checkRes();
+        window.onload = checkTheme();
+        window.onload = buildHtmlTable();
+
+    </script>
 </body>
+
 </html>
