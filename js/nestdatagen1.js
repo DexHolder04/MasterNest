@@ -231,9 +231,9 @@ var nestData = [{
     "Locale": ""
   },
   {
-    "Pokémon": " ",
-    "Coordinates": "",
-    "Locale": ""
+    "Pokémon": "✨<img src=\"resources/pixel/060.png\" alt=\"Poliwag\" class=\"pixelmon\">✨",
+    "Coordinates": "<button class=\"btn\" data-clipboard-text=\"22.5359,120.5903\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
+    "Locale": "Pingtung, Taiwan"
   },
   {
     "Pokémon": " ",
@@ -258,7 +258,7 @@ var nestData = [{
   {
     "Pokémon": "<img src=\"resources/pixel/063.png\" alt=\"Abra\" class=\"pixelmon\">",
     "Coordinates": "<button class=\"btn\" data-clipboard-text=\"35.787880,139.872292\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
-    "Locale": ""
+    "Locale": "Tokyo, Japan"
   },
   {
     "Pokémon": " ",
@@ -834,4 +834,9 @@ var nestData = [{
     "Pokémon": "✨<img src=\"resources/pixel/140.png\" alt=\"Kabuto\" class=\"pixelmon\">✨",
     "Coordinates": "<button class=\"btn\" data-clipboard-text=\"43.6534,-87.7282\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
     "Locale": "Wisconsin, USA"
+  },
+  {
+    "Pokémon": "✨<img src=\"resources/pixel/140.png\" alt=\"Kabuto\" class=\"pixelmon\">✨",
+    "Coordinates": "<button class=\"btn\" data-clipboard-text=\"37.8056,-122.3255\"><i class=\"fa fa-clipboard fa-sm\"></i></button>",
+    "Locale": "California, USA"
   }];
