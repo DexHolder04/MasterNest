@@ -1,3 +1,5 @@
+let migrationDate = '2020-01-23T00:00:00Z';
+
 // Builds the HTML Table out of nestData JSON data
 function buildHtmlTable() {
   var columns = addAllColumnHeaders(nestData);
