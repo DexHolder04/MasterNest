@@ -1,4 +1,4 @@
-let migrationDate = '2020-02-20T00:00:00Z';
+let migrationDate = '2020-03-05T00:00:00Z';
 
 // Builds the HTML Table out of nestData JSON data
 function buildHtmlTable() {
