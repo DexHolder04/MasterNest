@@ -120,6 +120,7 @@ html {
     --top-bg-reg: repeating-linear-gradient(45deg, rgba(233, 233, 233, 0.2) 0%, rgba(233, 233, 233, 0.2) 5%, rgba(201, 201, 201, 0.2) 5%, rgba(201, 201, 201, 0.2) 10%), repeating-linear-gradient(135deg, rgba(145, 145, 145, 0.15) 0%, rgba(145, 145, 145, 0.15) 5%, rgba(116, 116, 116, 0.15) 5%, rgba(116, 116, 116, 0.15) 10%);
     --top-bg-mobile: repeating-linear-gradient(45deg, rgba(233, 233, 233, 0.2) 0%, rgba(233, 233, 233, 0.2) 10%, rgba(201, 201, 201, 0.2) 10%, rgba(201, 201, 201, 0.2) 20%), repeating-linear-gradient(135deg, rgba(145, 145, 145, 0.15) 0%, rgba(145, 145, 145, 0.15) 10%, rgba(116, 116, 116, 0.15) 10%, rgba(116, 116, 116, 0.15) 20%);
     --top-bg: rgb(0, 154, 173);
+    --notice-bg: rgba(0,0,0,0.1);
 }
 
 html[data-theme='dark'] {
@@ -135,6 +136,7 @@ html[data-theme='dark'] {
     --top-bg-reg: repeating-linear-gradient(45deg, rgba(233, 233, 233, 0.2) 0%, rgba(233, 233, 233, 0.2) 5%, rgba(201, 201, 201, 0.2) 5%, rgba(201, 201, 201, 0.2) 10%), repeating-linear-gradient(135deg, rgba(145, 145, 145, 0.15) 0%, rgba(145, 145, 145, 0.15) 5%, rgba(116, 116, 116, 0.15) 5%, rgba(116, 116, 116, 0.15) 10%);
     --top-bg-mobile: repeating-linear-gradient(45deg, rgba(233, 233, 233, 0.2) 0%, rgba(233, 233, 233, 0.2) 10%, rgba(201, 201, 201, 0.2) 10%, rgba(201, 201, 201, 0.2) 20%), repeating-linear-gradient(135deg, rgba(145, 145, 145, 0.15) 0%, rgba(145, 145, 145, 0.15) 10%, rgba(116, 116, 116, 0.15) 10%, rgba(116, 116, 116, 0.15) 20%);
     --top-bg: rgb(31, 75, 108);
+    --notice-bg: rgba(255,255,255,0.1);
 }
 
 body {
@@ -415,4 +417,10 @@ input:checked + label:after {
 	background-size: cover;
 	left: calc(100% - 5px);
 	transform: translateX(-100%);
+}
+
+.notice {
+    display: ;
+    padding: 5px;
+    background-color: var(--notice-bg);
 }

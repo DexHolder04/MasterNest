@@ -1,4 +1,6 @@
 let migrationDate = '2020-03-05T00:00:00Z';
+let noticeText = "Due to the Pokémon Day Celebration event, <strong>Bulbasaur, Charmander and Squirtle</strong> have all been removed from the wild and have caused a frameshift migration rendering some nests from the report inaccurate. Please keep that in mind while we update the report. Thanks!";
+let notice = true;
 
 // Builds the HTML Table out of nestData JSON data
 function buildHtmlTable() {
@@ -155,4 +157,23 @@ function showText() {
   } else {
     return console.log("Error.");
   }
+}
+
+function frameshiftNotice() {
+    
+    if (notice) {
+    
+    let top = document.getElementById("top");
+    let noticeDiv = document.createElement("div");
+    let noticeP = document.createElement("p");
+    noticeP.innerHTML = noticeText;
+    noticeDiv.setAttribute("class", "notice");
+    noticeP.setAttribute("class", "bodyText");
+    noticeDiv.appendChild(noticeP);
+    
+    top.insertAdjacentHTML("beforebegin", noticeDiv.outerHTML);
+    
+    } else { return }
+    
+    
 }
