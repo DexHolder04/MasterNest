@@ -1,4 +1,4 @@
-let migrationDate = '2020-03-19T00:00:00Z';
+let migrationDate = '2020-04-02T00:00:00Z';
 let noticeText = "Due to the Pokémon Day Celebration event, <strong>Bulbasaur, Charmander and Squirtle</strong> have all been removed from the wild and have caused a frameshift migration rendering some nests from the report inaccurate. Please keep that in mind while we update the report. Thanks!";
 let notice = false;
 
