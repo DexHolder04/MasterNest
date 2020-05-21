@@ -315,7 +315,7 @@ var nestData = [{
     "Pokemon": "Dunsparce",
     "DexNo": 206,
     "DexString": "206",
-    "Shiny": false,
+    "Shiny": true,
     "Coordinates": "1.3786,103.8971",
     "Locale": "Punggol Park, Singapore",
     "Timestamp": 1589416683530
@@ -324,7 +324,7 @@ var nestData = [{
     "Pokemon": "Dunsparce",
     "DexNo": 206,
     "DexString": "206",
-    "Shiny": false,
+    "Shiny": true,
     "Coordinates": "22.5359,120.5903",
     "Locale": "Pingtung, Taiwan",
     "Timestamp": 1589417195658
@@ -333,7 +333,7 @@ var nestData = [{
     "Pokemon": "Dunsparce",
     "DexNo": 206,
     "DexString": "206",
-    "Shiny": false,
+    "Shiny": true,
     "Coordinates": "27.2267,-80.2132",
     "Locale": "Florida, USA",
     "Timestamp": 1589418379005
@@ -342,7 +342,7 @@ var nestData = [{
     "Pokemon": "Dunsparce",
     "DexNo": 206,
     "DexString": "206",
-    "Shiny": false,
+    "Shiny": true,
     "Coordinates": "38.5147,-90.2776",
     "Locale": "Missouri, USA",
     "Timestamp": 1589593958751

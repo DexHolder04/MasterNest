@@ -180,10 +180,19 @@ var nestData = [{
     "Pokemon": "Skitty",
     "DexNo": 300,
     "DexString": "300",
-    "Shiny": false,
+    "Shiny": true,
     "Coordinates": "44.8592,-92.7744",
     "Locale": "Minnesota, USA",
     "Timestamp": 1589596605100
+  },
+  {
+    "Pokemon": "Skitty",
+    "DexNo": 300,
+    "DexString": "300",
+    "Shiny": true,
+    "Coordinates": "44.8612,-93.6175",
+    "Locale": "Minnesota, USA",
+    "Timestamp": 1589596721489
   },
   {
     "Pokemon": "Sableye",
@@ -481,15 +490,6 @@ var nestData = [{
     "Coordinates": "1.2741,103.8172",
     "Locale": "Bukit Merah, Singapore",
     "Timestamp": 1589416571337
-  },
-  {
-    "Pokemon": "Duskull",
-    "DexNo": 355,
-    "DexString": "355",
-    "Shiny": true,
-    "Coordinates": "44.8612,-93.6175",
-    "Locale": "Minnesota, USA",
-    "Timestamp": 1589596721489
   },
   {
     "Pokemon": "Luvdisc",
