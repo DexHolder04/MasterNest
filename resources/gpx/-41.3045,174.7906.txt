@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="iSpoofer">
+  <trk>
+    <name>bidoof|-41.3045,174.7906</name>
+    <trkseg>
+      <trkpt lat="-41.304410" lon="174.793179"/>
+      <trkpt lat="-41.305433" lon="174.791685"/>
+      <trkpt lat="-41.305574" lon="174.790134"/>
+      <trkpt lat="-41.304562" lon="174.790630"/>
+      <trkpt lat="-41.303308" lon="174.788514"/>
+      <trkpt lat="-41.304010" lon="174.787767"/>
+      <trkpt lat="-41.304957" lon="174.787145"/>
+      <trkpt lat="-41.304805" lon="174.786804"/>
+      <trkpt lat="-41.305122" lon="174.785736"/>
+      <trkpt lat="-41.306099" lon="174.784348"/>
+      <trkpt lat="-41.304820" lon="174.782940"/>
+      <trkpt lat="-41.307779" lon="174.781163"/>
+      <trkpt lat="-41.308685" lon="174.785257"/>
+      <trkpt lat="-41.305520" lon="174.786416"/>
+      <trkpt lat="-41.306110" lon="174.788157"/>
+      <trkpt lat="-41.306868" lon="174.788070"/>
+      <trkpt lat="-41.308780" lon="174.787745"/>
+      <trkpt lat="-41.309233" lon="174.787604"/>
+      <trkpt lat="-41.309628" lon="174.788177"/>
+      <trkpt lat="-41.309774" lon="174.787471"/>
+      <trkpt lat="-41.309669" lon="174.786717"/>
+      <trkpt lat="-41.310734" lon="174.787447"/>
+      <trkpt lat="-41.311280" lon="174.788291"/>
+      <trkpt lat="-41.311473" lon="174.788469"/>
+      <trkpt lat="-41.312174" lon="174.789062"/>
+      <trkpt lat="-41.312343" lon="174.788786"/>
+      <trkpt lat="-41.312963" lon="174.789424"/>
+      <trkpt lat="-41.309582" lon="174.790653"/>
+      <trkpt lat="-41.308729" lon="174.791429"/>
+      <trkpt lat="-41.307846" lon="174.790097"/>
+    </trkseg>
+  </trk>
+</gpx>

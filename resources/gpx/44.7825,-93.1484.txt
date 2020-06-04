@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="iSpoofer">
+  <trk>
+    <name>surskit|44.7825,-93.1484</name>
+    <trkseg>
+      <trkpt lat="44.780428" lon="-93.157096"/>
+      <trkpt lat="44.780376" lon="-93.158853"/>
+      <trkpt lat="44.778549" lon="-93.161096"/>
+      <trkpt lat="44.778243" lon="-93.162252"/>
+      <trkpt lat="44.778473" lon="-93.163079"/>
+      <trkpt lat="44.778389" lon="-93.163986"/>
+      <trkpt lat="44.778580" lon="-93.164447"/>
+      <trkpt lat="44.778940" lon="-93.164509"/>
+      <trkpt lat="44.779076" lon="-93.164867"/>
+      <trkpt lat="44.778926" lon="-93.163947"/>
+      <trkpt lat="44.779617" lon="-93.163489"/>
+      <trkpt lat="44.780085" lon="-93.163215"/>
+      <trkpt lat="44.779728" lon="-93.165204"/>
+      <trkpt lat="44.779729" lon="-93.166311"/>
+      <trkpt lat="44.779093" lon="-93.166404"/>
+      <trkpt lat="44.779643" lon="-93.167757"/>
+      <trkpt lat="44.781411" lon="-93.164769"/>
+      <trkpt lat="44.784507" lon="-93.164919"/>
+      <trkpt lat="44.784628" lon="-93.163881"/>
+      <trkpt lat="44.784662" lon="-93.163421"/>
+      <trkpt lat="44.782349" lon="-93.155003"/>
+      <trkpt lat="44.783049" lon="-93.153554"/>
+      <trkpt lat="44.781726" lon="-93.150857"/>
+      <trkpt lat="44.780615" lon="-93.151882"/>
+      <trkpt lat="44.779329" lon="-93.152357"/>
+      <trkpt lat="44.779454" lon="-93.152946"/>
+      <trkpt lat="44.779276" lon="-93.151426"/>
+      <trkpt lat="44.778862" lon="-93.151167"/>
+      <trkpt lat="44.777587" lon="-93.148603"/>
+      <trkpt lat="44.782520" lon="-93.148350"/>
+      <trkpt lat="44.786037" lon="-93.148389"/>
+      <trkpt lat="44.777814" lon="-93.155766"/>
+      <trkpt lat="44.776779" lon="-93.156295"/>
+      <trkpt lat="44.776928" lon="-93.158166"/>
+      <trkpt lat="44.776510" lon="-93.160995"/>
+      <trkpt lat="44.776711" lon="-93.163566"/>
+    </trkseg>
+  </trk>
+</gpx>

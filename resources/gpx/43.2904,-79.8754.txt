@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="Higher">
+  <trk>
+    <name>bulbasaur|43.2904,-79.8754</name>
+    <trkseg>
+      <trkpt lat="43.292570" lon="-79.877623"/>
+      <trkpt lat="43.292493" lon="-79.876453"/>
+      <trkpt lat="43.292276" lon="-79.875825"/>
+      <trkpt lat="43.291761" lon="-79.875808"/>
+      <trkpt lat="43.291776" lon="-79.876514"/>
+      <trkpt lat="43.291762" lon="-79.876972"/>
+      <trkpt lat="43.291581" lon="-79.877105"/>
+      <trkpt lat="43.291492" lon="-79.877701"/>
+      <trkpt lat="43.291421" lon="-79.878391"/>
+      <trkpt lat="43.290860" lon="-79.878452"/>
+      <trkpt lat="43.290561" lon="-79.876794"/>
+      <trkpt lat="43.290167" lon="-79.876927"/>
+      <trkpt lat="43.290310" lon="-79.875628"/>
+      <trkpt lat="43.290983" lon="-79.876041"/>
+      <trkpt lat="43.291256" lon="-79.875667"/>
+      <trkpt lat="43.291140" lon="-79.874746"/>
+      <trkpt lat="43.291825" lon="-79.873869"/>
+      <trkpt lat="43.292273" lon="-79.874675"/>
+      <trkpt lat="43.293661" lon="-79.874071"/>
+      <trkpt lat="43.294947" lon="-79.874581"/>
+      <trkpt lat="43.295204" lon="-79.875013"/>
+      <trkpt lat="43.295136" lon="-79.875268"/>
+      <trkpt lat="43.295943" lon="-79.875537"/>
+      <trkpt lat="43.294256" lon="-79.877508"/>
+      <trkpt lat="43.293802" lon="-79.878284"/>
+      <trkpt lat="43.294594" lon="-79.878734"/>
+      <trkpt lat="43.293186" lon="-79.879125"/>
+      <trkpt lat="43.292304" lon="-79.879243"/>
+      <trkpt lat="43.291810" lon="-79.879562"/>
+      <trkpt lat="43.291449" lon="-79.881299"/>
+      <trkpt lat="43.290831" lon="-79.884074"/>
+      <trkpt lat="43.290777" lon="-79.884684"/>
+      <trkpt lat="43.290720" lon="-79.885322"/>
+      <trkpt lat="43.290724" lon="-79.885398"/>
+      <trkpt lat="43.291340" lon="-79.885153"/>
+      <trkpt lat="43.291526" lon="-79.884731"/>
+      <trkpt lat="43.292007" lon="-79.885044"/>
+      <trkpt lat="43.292313" lon="-79.886189"/>
+      <trkpt lat="43.292561" lon="-79.886892"/>
+      <trkpt lat="43.293141" lon="-79.886583"/>
+      <trkpt lat="43.293529" lon="-79.887406"/>
+      <trkpt lat="43.293181" lon="-79.884459"/>
+      <trkpt lat="43.294366" lon="-79.880903"/>
+      <trkpt lat="43.296325" lon="-79.883260"/>
+    </trkseg>
+  </trk>
+</gpx>

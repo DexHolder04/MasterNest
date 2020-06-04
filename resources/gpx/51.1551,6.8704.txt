@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="Higher">
+  <trk>
+    <name>tentacool|51.1551,6.8704</name>
+    <trkseg>
+      <trkpt lat="51.155058" lon="6.870384"/>
+      <trkpt lat="51.155546" lon="6.870516"/>
+      <trkpt lat="51.155272" lon="6.873215"/>
+      <trkpt lat="51.157783" lon="6.872207"/>
+      <trkpt lat="51.158436" lon="6.872570"/>
+      <trkpt lat="51.158518" lon="6.872039"/>
+      <trkpt lat="51.158117" lon="6.871232"/>
+      <trkpt lat="51.159240" lon="6.871773"/>
+      <trkpt lat="51.160031" lon="6.871895"/>
+      <trkpt lat="51.160143" lon="6.871359"/>
+      <trkpt lat="51.159999" lon="6.870538"/>
+      <trkpt lat="51.160563" lon="6.870135"/>
+      <trkpt lat="51.161086" lon="6.869952"/>
+      <trkpt lat="51.161166" lon="6.870566"/>
+      <trkpt lat="51.160729" lon="6.871127"/>
+      <trkpt lat="51.161003" lon="6.872146"/>
+      <trkpt lat="51.160232" lon="6.873441"/>
+    </trkseg>
+  </trk>
+</gpx>

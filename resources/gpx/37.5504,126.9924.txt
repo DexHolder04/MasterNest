@@ -1,60 +1,34 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="DexHolder04">
-        <trk>
-                <name>0</name>
-                <trkseg>
-                        <trkpt lat="37.550160" lon="126.992934">
-                        </trkpt>
-                        <trkpt lat="37.551081" lon="126.991150">
-                        </trkpt>
-                        <trkpt lat="37.551085" lon="126.990692">
-                        </trkpt>
-                        <trkpt lat="37.550838" lon="126.990762">
-                        </trkpt>
-                        <trkpt lat="37.551445" lon="126.988474">
-                        </trkpt>
-                        <trkpt lat="37.551863" lon="126.988407">
-                        </trkpt>
-                        <trkpt lat="37.551888" lon="126.987900">
-                        </trkpt>
-                        <trkpt lat="37.551678" lon="126.987658">
-                        </trkpt>
-                        <trkpt lat="37.551580" lon="126.987892">
-                        </trkpt>
-                        <trkpt lat="37.550959" lon="126.988081">
-                        </trkpt>
-                        <trkpt lat="37.551776" lon="126.986936">
-                        </trkpt>
-                        <trkpt lat="37.552160" lon="126.987244">
-                        </trkpt>
-                        <trkpt lat="37.553265" lon="126.986380">
-                        </trkpt>
-                        <trkpt lat="37.554207" lon="126.985407">
-                        </trkpt>
-                        <trkpt lat="37.555317" lon="126.985957">
-                        </trkpt>
-                        <trkpt lat="37.555560" lon="126.985026">
-                        </trkpt>
-                        <trkpt lat="37.556072" lon="126.985704">
-                        </trkpt>
-                        <trkpt lat="37.554784" lon="126.986848">
-                        </trkpt>
-                        <trkpt lat="37.555834" lon="126.991731">
-                        </trkpt>
-                        <trkpt lat="37.551620" lon="126.997310">
-                        </trkpt>
-                        <trkpt lat="37.551162" lon="126.998506">
-                        </trkpt>
-                        <trkpt lat="37.548559" lon="126.996486">
-                        </trkpt>
-                        <trkpt lat="37.545293" lon="126.998036">
-                        </trkpt>
-                        <trkpt lat="37.544489" lon="126.996368">
-                        </trkpt>
-                        <trkpt lat="37.545302" lon="126.995486">
-                        </trkpt>
-                        <trkpt lat="37.546369" lon="126.993094">
-                        </trkpt>
-                </trkseg>
-        </trk>
+  <trk>
+    <name>clefairy|37.5504,126.9924</name>
+    <trkseg>
+      <trkpt lat="37.550160" lon="126.992934"/>
+      <trkpt lat="37.551081" lon="126.991150"/>
+      <trkpt lat="37.551085" lon="126.990692"/>
+      <trkpt lat="37.550838" lon="126.990762"/>
+      <trkpt lat="37.551445" lon="126.988474"/>
+      <trkpt lat="37.551863" lon="126.988407"/>
+      <trkpt lat="37.551888" lon="126.987900"/>
+      <trkpt lat="37.551678" lon="126.987658"/>
+      <trkpt lat="37.551580" lon="126.987892"/>
+      <trkpt lat="37.550959" lon="126.988081"/>
+      <trkpt lat="37.551776" lon="126.986936"/>
+      <trkpt lat="37.552160" lon="126.987244"/>
+      <trkpt lat="37.553265" lon="126.986380"/>
+      <trkpt lat="37.554207" lon="126.985407"/>
+      <trkpt lat="37.555317" lon="126.985957"/>
+      <trkpt lat="37.555560" lon="126.985026"/>
+      <trkpt lat="37.556072" lon="126.985704"/>
+      <trkpt lat="37.554784" lon="126.986848"/>
+      <trkpt lat="37.555834" lon="126.991731"/>
+      <trkpt lat="37.551620" lon="126.997310"/>
+      <trkpt lat="37.551162" lon="126.998506"/>
+      <trkpt lat="37.548559" lon="126.996486"/>
+      <trkpt lat="37.545293" lon="126.998036"/>
+      <trkpt lat="37.544489" lon="126.996368"/>
+      <trkpt lat="37.545302" lon="126.995486"/>
+      <trkpt lat="37.546369" lon="126.993094"/>
+    </trkseg>
+  </trk>
 </gpx>

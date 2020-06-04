@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="iSpoofer">
+  <trk>
+    <name>scyther|35.1669,129.0546</name>
+    <trkseg>
+      <trkpt lat="35.166920" lon="129.054613"/>
+      <trkpt lat="35.167498" lon="129.055171"/>
+      <trkpt lat="35.167352" lon="129.055605"/>
+      <trkpt lat="35.167321" lon="129.056055"/>
+      <trkpt lat="35.167609" lon="129.056267"/>
+      <trkpt lat="35.168291" lon="129.056389"/>
+      <trkpt lat="35.168044" lon="129.055178"/>
+      <trkpt lat="35.168305" lon="129.055309"/>
+      <trkpt lat="35.169134" lon="129.055272"/>
+      <trkpt lat="35.169585" lon="129.055141"/>
+      <trkpt lat="35.169872" lon="129.054551"/>
+      <trkpt lat="35.170303" lon="129.055690"/>
+      <trkpt lat="35.169840" lon="129.056761"/>
+      <trkpt lat="35.169822" lon="129.057189"/>
+      <trkpt lat="35.168914" lon="129.058065"/>
+      <trkpt lat="35.169819" lon="129.058864"/>
+      <trkpt lat="35.169753" lon="129.059579"/>
+      <trkpt lat="35.170086" lon="129.059688"/>
+      <trkpt lat="35.169731" lon="129.060044"/>
+      <trkpt lat="35.170314" lon="129.060544"/>
+      <trkpt lat="35.170606" lon="129.060981"/>
+      <trkpt lat="35.169540" lon="129.061318"/>
+      <trkpt lat="35.169072" lon="129.061598"/>
+      <trkpt lat="35.168523" lon="129.061850"/>
+      <trkpt lat="35.168109" lon="129.061478"/>
+      <trkpt lat="35.168222" lon="129.061244"/>
+      <trkpt lat="35.167806" lon="129.060591"/>
+      <trkpt lat="35.167345" lon="129.060444"/>
+      <trkpt lat="35.167059" lon="129.059969"/>
+      <trkpt lat="35.166835" lon="129.059875"/>
+      <trkpt lat="35.167142" lon="129.058831"/>
+      <trkpt lat="35.169184" lon="129.059978"/>
+      <trkpt lat="35.168428" lon="129.059252"/>
+      <trkpt lat="35.168220" lon="129.058608"/>
+      <trkpt lat="35.167493" lon="129.058526"/>
+      <trkpt lat="35.167525" lon="129.058440"/>
+      <trkpt lat="35.167103" lon="129.057817"/>
+      <trkpt lat="35.167314" lon="129.056788"/>
+      <trkpt lat="35.166537" lon="129.057548"/>
+      <trkpt lat="35.166043" lon="129.057604"/>
+      <trkpt lat="35.165649" lon="129.057144"/>
+      <trkpt lat="35.165961" lon="129.056309"/>
+      <trkpt lat="35.166281" lon="129.056258"/>
+      <trkpt lat="35.166587" lon="129.055985"/>
+      <trkpt lat="35.165804" lon="129.055467"/>
+      <trkpt lat="35.165459" lon="129.055300"/>
+      <trkpt lat="35.165302" lon="129.054930"/>
+      <trkpt lat="35.165028" lon="129.054645"/>
+      <trkpt lat="35.164356" lon="129.054157"/>
+      <trkpt lat="35.165063" lon="129.052953"/>
+      <trkpt lat="35.166508" lon="129.054433"/>
+    </trkseg>
+  </trk>
+</gpx>

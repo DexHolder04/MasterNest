@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="iSpoofer">
+  <trk>
+    <name>spoink|50.6933,4.0473</name>
+    <trkseg>
+      <trkpt lat="50.693093" lon="4.040483"/>
+      <trkpt lat="50.692719" lon="4.041093"/>
+      <trkpt lat="50.692616" lon="4.041817"/>
+      <trkpt lat="50.692104" lon="4.041972"/>
+      <trkpt lat="50.692755" lon="4.042897"/>
+      <trkpt lat="50.692429" lon="4.045530"/>
+      <trkpt lat="50.693196" lon="4.047463"/>
+      <trkpt lat="50.687796" lon="4.047542"/>
+      <trkpt lat="50.687574" lon="4.047354"/>
+      <trkpt lat="50.687451" lon="4.046909"/>
+      <trkpt lat="50.688274" lon="4.041042"/>
+      <trkpt lat="50.689384" lon="4.041513"/>
+      <trkpt lat="50.689599" lon="4.041854"/>
+      <trkpt lat="50.689932" lon="4.042899"/>
+      <trkpt lat="50.690881" lon="4.045171"/>
+      <trkpt lat="50.690791" lon="4.043385"/>
+      <trkpt lat="50.690070" lon="4.042138"/>
+      <trkpt lat="50.690178" lon="4.041724"/>
+      <trkpt lat="50.689952" lon="4.040759"/>
+      <trkpt lat="50.689533" lon="4.039053"/>
+      <trkpt lat="50.689391" lon="4.038634"/>
+      <trkpt lat="50.690048" lon="4.039929"/>
+      <trkpt lat="50.690301" lon="4.040726"/>
+      <trkpt lat="50.691226" lon="4.041971"/>
+      <trkpt lat="50.691121" lon="4.040967"/>
+      <trkpt lat="50.690791" lon="4.039550"/>
+      <trkpt lat="50.691555" lon="4.041315"/>
+      <trkpt lat="50.691933" lon="4.040857"/>
+      <trkpt lat="50.691628" lon="4.039479"/>
+    </trkseg>
+  </trk>
+</gpx>

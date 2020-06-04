@@ -1,39 +1,39 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <gpx version="1.1" creator="GPS Visualizer https://www.gpsvisualizer.com/" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
-<wpt lat="37.723527" lon="-122.413938">
-  <name>37.7201,-122.4131</name>
-</wpt>
-<wpt lat="37.722363" lon="-122.413562"></wpt>
-<wpt lat="37.722448" lon="-122.412741"></wpt>
-<wpt lat="37.721595" lon="-122.412955"></wpt>
-<wpt lat="37.720341" lon="-122.413095"></wpt>
-<wpt lat="37.71951" lon="-122.412367"></wpt>
-<wpt lat="37.719412" lon="-122.412029"></wpt>
-<wpt lat="37.719241" lon="-122.412587"></wpt>
-<wpt lat="37.719308" lon="-122.413056"></wpt>
-<wpt lat="37.718505" lon="-122.411973"></wpt>
-<wpt lat="37.718249" lon="-122.412374"></wpt>
-<wpt lat="37.718301" lon="-122.411424"></wpt>
-<wpt lat="37.719083" lon="-122.411258"></wpt>
-<wpt lat="37.71881" lon="-122.409852"></wpt>
-<wpt lat="37.718371" lon="-122.409973"></wpt>
-<wpt lat="37.717515" lon="-122.414228"></wpt>
-<wpt lat="37.717684" lon="-122.41563"></wpt>
-<wpt lat="37.719058" lon="-122.41839"></wpt>
-<wpt lat="37.719522" lon="-122.418928"></wpt>
-<wpt lat="37.720002" lon="-122.420308"></wpt>
-<wpt lat="37.718222" lon="-122.421209"></wpt>
-<wpt lat="37.720562" lon="-122.41739"></wpt>
-<wpt lat="37.721745" lon="-122.416522"></wpt>
-<wpt lat="37.721029" lon="-122.415633"></wpt>
-<wpt lat="37.721929" lon="-122.414535"></wpt>
-<wpt lat="37.72273" lon="-122.41695"></wpt>
-<wpt lat="37.723358" lon="-122.419288"></wpt>
-<wpt lat="37.722337" lon="-122.41973"></wpt>
-<wpt lat="37.723586" lon="-122.420777"></wpt>
-<wpt lat="37.7243" lon="-122.420779"></wpt>
-<wpt lat="37.723752" lon="-122.422845"></wpt>
-<wpt lat="37.723529" lon="-122.422568"></wpt>
-<wpt lat="37.722746" lon="-122.423072"></wpt>
-<wpt lat="37.722238" lon="-122.422898"></wpt>
+  <wpt lat="37.723527" lon="-122.413938">
+    <name>exeggcute|37.7201,-122.4131</name>
+  </wpt>
+  <wpt lat="37.722363" lon="-122.413562"/>
+  <wpt lat="37.722448" lon="-122.412741"/>
+  <wpt lat="37.721595" lon="-122.412955"/>
+  <wpt lat="37.720341" lon="-122.413095"/>
+  <wpt lat="37.71951" lon="-122.412367"/>
+  <wpt lat="37.719412" lon="-122.412029"/>
+  <wpt lat="37.719241" lon="-122.412587"/>
+  <wpt lat="37.719308" lon="-122.413056"/>
+  <wpt lat="37.718505" lon="-122.411973"/>
+  <wpt lat="37.718249" lon="-122.412374"/>
+  <wpt lat="37.718301" lon="-122.411424"/>
+  <wpt lat="37.719083" lon="-122.411258"/>
+  <wpt lat="37.71881" lon="-122.409852"/>
+  <wpt lat="37.718371" lon="-122.409973"/>
+  <wpt lat="37.717515" lon="-122.414228"/>
+  <wpt lat="37.717684" lon="-122.41563"/>
+  <wpt lat="37.719058" lon="-122.41839"/>
+  <wpt lat="37.719522" lon="-122.418928"/>
+  <wpt lat="37.720002" lon="-122.420308"/>
+  <wpt lat="37.718222" lon="-122.421209"/>
+  <wpt lat="37.720562" lon="-122.41739"/>
+  <wpt lat="37.721745" lon="-122.416522"/>
+  <wpt lat="37.721029" lon="-122.415633"/>
+  <wpt lat="37.721929" lon="-122.414535"/>
+  <wpt lat="37.72273" lon="-122.41695"/>
+  <wpt lat="37.723358" lon="-122.419288"/>
+  <wpt lat="37.722337" lon="-122.41973"/>
+  <wpt lat="37.723586" lon="-122.420777"/>
+  <wpt lat="37.7243" lon="-122.420779"/>
+  <wpt lat="37.723752" lon="-122.422845"/>
+  <wpt lat="37.723529" lon="-122.422568"/>
+  <wpt lat="37.722746" lon="-122.423072"/>
+  <wpt lat="37.722238" lon="-122.422898"/>
 </gpx>

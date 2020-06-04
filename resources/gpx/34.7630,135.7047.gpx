@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <gpx version="1.1" creator="GPS Visualizer https://www.gpsvisualizer.com/" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
-<wpt lat="34.762128" lon="135.707768">
-  <name>GPS data</name>
-</wpt>
-<wpt lat="34.759689" lon="135.703786"></wpt>
-<wpt lat="34.760583" lon="135.702309"></wpt>
-<wpt lat="34.762318" lon="135.700638"></wpt>
-<wpt lat="34.762588" lon="135.702416"></wpt>
-<wpt lat="34.765464" lon="135.702971"></wpt>
-<wpt lat="34.768794" lon="135.705359"></wpt>
+  <wpt lat="34.762128" lon="135.707768">
+    <name>corphish|34.7630,135.7047</name>
+  </wpt>
+  <wpt lat="34.759689" lon="135.703786"/>
+  <wpt lat="34.760583" lon="135.702309"/>
+  <wpt lat="34.762318" lon="135.700638"/>
+  <wpt lat="34.762588" lon="135.702416"/>
+  <wpt lat="34.765464" lon="135.702971"/>
+  <wpt lat="34.768794" lon="135.705359"/>
 </gpx>

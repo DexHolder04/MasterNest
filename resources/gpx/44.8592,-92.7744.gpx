@@ -1,28 +1,28 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <gpx version="1.1" creator="GPS Visualizer https://www.gpsvisualizer.com/" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
-<wpt lat="44.858815" lon="-92.774152">
-  <name>44.8592,-92.7744</name>
-</wpt>
-<wpt lat="44.858257" lon="-92.774612"></wpt>
-<wpt lat="44.857007" lon="-92.774552"></wpt>
-<wpt lat="44.856344" lon="-92.774084"></wpt>
-<wpt lat="44.855787" lon="-92.774498"></wpt>
-<wpt lat="44.855491" lon="-92.774796"></wpt>
-<wpt lat="44.854765" lon="-92.774701"></wpt>
-<wpt lat="44.854361" lon="-92.7742"></wpt>
-<wpt lat="44.853733" lon="-92.774424"></wpt>
-<wpt lat="44.853487" lon="-92.775041"></wpt>
-<wpt lat="44.853162" lon="-92.77429"></wpt>
-<wpt lat="44.852464" lon="-92.774091"></wpt>
-<wpt lat="44.852274" lon="-92.775731"></wpt>
-<wpt lat="44.852337" lon="-92.776614"></wpt>
-<wpt lat="44.855439" lon="-92.779002"></wpt>
-<wpt lat="44.855993" lon="-92.775908"></wpt>
-<wpt lat="44.860721" lon="-92.776963"></wpt>
-<wpt lat="44.860512" lon="-92.774521"></wpt>
-<wpt lat="44.861404" lon="-92.774588"></wpt>
-<wpt lat="44.861557" lon="-92.773679"></wpt>
-<wpt lat="44.862922" lon="-92.773056"></wpt>
-<wpt lat="44.863291" lon="-92.77349"></wpt>
-<wpt lat="44.861943" lon="-92.781522"></wpt>
+  <wpt lat="44.858815" lon="-92.774152">
+    <name>misdreavus|44.8592,-92.7744</name>
+  </wpt>
+  <wpt lat="44.858257" lon="-92.774612"/>
+  <wpt lat="44.857007" lon="-92.774552"/>
+  <wpt lat="44.856344" lon="-92.774084"/>
+  <wpt lat="44.855787" lon="-92.774498"/>
+  <wpt lat="44.855491" lon="-92.774796"/>
+  <wpt lat="44.854765" lon="-92.774701"/>
+  <wpt lat="44.854361" lon="-92.7742"/>
+  <wpt lat="44.853733" lon="-92.774424"/>
+  <wpt lat="44.853487" lon="-92.775041"/>
+  <wpt lat="44.853162" lon="-92.77429"/>
+  <wpt lat="44.852464" lon="-92.774091"/>
+  <wpt lat="44.852274" lon="-92.775731"/>
+  <wpt lat="44.852337" lon="-92.776614"/>
+  <wpt lat="44.855439" lon="-92.779002"/>
+  <wpt lat="44.855993" lon="-92.775908"/>
+  <wpt lat="44.860721" lon="-92.776963"/>
+  <wpt lat="44.860512" lon="-92.774521"/>
+  <wpt lat="44.861404" lon="-92.774588"/>
+  <wpt lat="44.861557" lon="-92.773679"/>
+  <wpt lat="44.862922" lon="-92.773056"/>
+  <wpt lat="44.863291" lon="-92.77349"/>
+  <wpt lat="44.861943" lon="-92.781522"/>
 </gpx>

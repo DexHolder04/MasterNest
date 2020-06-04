@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="iSpoofer">
+  <trk>
+    <name>piplup|43.6222,-116.3460</name>
+    <trkseg>
+      <trkpt lat="43.621882" lon="-116.342311"/>
+      <trkpt lat="43.621773" lon="-116.342726"/>
+      <trkpt lat="43.622123" lon="-116.342788"/>
+      <trkpt lat="43.622356" lon="-116.343513"/>
+      <trkpt lat="43.621998" lon="-116.343652"/>
+      <trkpt lat="43.622731" lon="-116.343125"/>
+      <trkpt lat="43.622959" lon="-116.343330"/>
+      <trkpt lat="43.622932" lon="-116.343831"/>
+      <trkpt lat="43.622732" lon="-116.344355"/>
+      <trkpt lat="43.622480" lon="-116.344821"/>
+      <trkpt lat="43.621973" lon="-116.344928"/>
+      <trkpt lat="43.622201" lon="-116.346087"/>
+      <trkpt lat="43.622750" lon="-116.346007"/>
+      <trkpt lat="43.623096" lon="-116.345341"/>
+      <trkpt lat="43.623607" lon="-116.345619"/>
+      <trkpt lat="43.623477" lon="-116.346399"/>
+      <trkpt lat="43.623231" lon="-116.346767"/>
+      <trkpt lat="43.622659" lon="-116.346750"/>
+      <trkpt lat="43.622434" lon="-116.347721"/>
+      <trkpt lat="43.624615" lon="-116.346987"/>
+      <trkpt lat="43.624455" lon="-116.347737"/>
+      <trkpt lat="43.624010" lon="-116.347924"/>
+      <trkpt lat="43.623911" lon="-116.348407"/>
+      <trkpt lat="43.624175" lon="-116.348590"/>
+      <trkpt lat="43.624456" lon="-116.348227"/>
+      <trkpt lat="43.624579" lon="-116.348252"/>
+      <trkpt lat="43.625442" lon="-116.347370"/>
+      <trkpt lat="43.625514" lon="-116.347617"/>
+      <trkpt lat="43.626325" lon="-116.348269"/>
+      <trkpt lat="43.626292" lon="-116.347404"/>
+      <trkpt lat="43.626080" lon="-116.346944"/>
+      <trkpt lat="43.626210" lon="-116.345981"/>
+      <trkpt lat="43.625654" lon="-116.345492"/>
+    </trkseg>
+  </trk>
+</gpx>

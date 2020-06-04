@@ -1,25 +1,25 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <gpx version="1.1" creator="GPS Visualizer https://www.gpsvisualizer.com/" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
-<wpt lat="36.243246" lon="139.542265">
-  <name>GPS data</name>
-</wpt>
-<wpt lat="36.242385" lon="139.543884"></wpt>
-<wpt lat="36.242366" lon="139.544469"></wpt>
-<wpt lat="36.242052" lon="139.544505"></wpt>
-<wpt lat="36.242029" lon="139.545282"></wpt>
-<wpt lat="36.242574" lon="139.54653"></wpt>
-<wpt lat="36.243466" lon="139.546672"></wpt>
-<wpt lat="36.243416" lon="139.546416"></wpt>
-<wpt lat="36.24357" lon="139.545367"></wpt>
-<wpt lat="36.243922" lon="139.545833"></wpt>
-<wpt lat="36.244115" lon="139.545333"></wpt>
-<wpt lat="36.244036" lon="139.544852"></wpt>
-<wpt lat="36.241175" lon="139.545012"></wpt>
-<wpt lat="36.240635" lon="139.544376"></wpt>
-<wpt lat="36.239872" lon="139.544756"></wpt>
-<wpt lat="36.238796" lon="139.544704"></wpt>
-<wpt lat="36.238602" lon="139.544365"></wpt>
-<wpt lat="36.238838" lon="139.543396"></wpt>
-<wpt lat="36.239239" lon="139.543448"></wpt>
-<wpt lat="36.239436" lon="139.546227"></wpt>
+  <wpt lat="36.243246" lon="139.542265">
+    <name>doduo|36.2426,139.5435</name>
+  </wpt>
+  <wpt lat="36.242385" lon="139.543884"/>
+  <wpt lat="36.242366" lon="139.544469"/>
+  <wpt lat="36.242052" lon="139.544505"/>
+  <wpt lat="36.242029" lon="139.545282"/>
+  <wpt lat="36.242574" lon="139.54653"/>
+  <wpt lat="36.243466" lon="139.546672"/>
+  <wpt lat="36.243416" lon="139.546416"/>
+  <wpt lat="36.24357" lon="139.545367"/>
+  <wpt lat="36.243922" lon="139.545833"/>
+  <wpt lat="36.244115" lon="139.545333"/>
+  <wpt lat="36.244036" lon="139.544852"/>
+  <wpt lat="36.241175" lon="139.545012"/>
+  <wpt lat="36.240635" lon="139.544376"/>
+  <wpt lat="36.239872" lon="139.544756"/>
+  <wpt lat="36.238796" lon="139.544704"/>
+  <wpt lat="36.238602" lon="139.544365"/>
+  <wpt lat="36.238838" lon="139.543396"/>
+  <wpt lat="36.239239" lon="139.543448"/>
+  <wpt lat="36.239436" lon="139.546227"/>
 </gpx>

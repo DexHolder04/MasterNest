@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx version="1.1" creator="GPS Visualizer https://www.gpsvisualizer.com/" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <trk>
+    <name>hippopotas|1.3786,103.8971</name>
+    <trkseg>
+      <trkpt lat="1.378612" lon="103.897134"/>
+      <trkpt lat="1.378279" lon="103.896843"/>
+      <trkpt lat="1.377767" lon="103.897116"/>
+      <trkpt lat="1.376809234" lon="103.896960576"/>
+      <trkpt lat="1.376423" lon="103.896469"/>
+      <trkpt lat="1.376444648" lon="103.897554368"/>
+      <trkpt lat="1.376175" lon="103.897814"/>
+      <trkpt lat="1.375533184" lon="103.898003218"/>
+      <trkpt lat="1.375265" lon="103.898494"/>
+      <trkpt lat="1.375392958" lon="103.89926561"/>
+      <trkpt lat="1.376974" lon="103.899389"/>
+      <trkpt lat="1.378457" lon="103.899718"/>
+      <trkpt lat="1.378603" lon="103.898669"/>
+      <trkpt lat="1.378542" lon="103.897796"/>
+    </trkseg>
+  </trk>
+</gpx>

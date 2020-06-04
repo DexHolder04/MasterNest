@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx version="1.1" creator="GPS Visualizer https://www.gpsvisualizer.com/" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <trk>
+    <name>croagunk|12.7640,100.9345</name>
+    <trkseg>
+      <trkpt lat="12.763072" lon="100.933144"/>
+      <trkpt lat="12.763261" lon="100.933763"/>
+      <trkpt lat="12.766385" lon="100.93508"/>
+      <trkpt lat="12.766178" lon="100.934404"/>
+      <trkpt lat="12.766098" lon="100.934055"/>
+      <trkpt lat="12.765747" lon="100.934495"/>
+      <trkpt lat="12.765834" lon="100.929766"/>
+      <trkpt lat="12.766147" lon="100.930492"/>
+      <trkpt lat="12.765896" lon="100.931137"/>
+      <trkpt lat="12.765638" lon="100.931793"/>
+      <trkpt lat="12.766683" lon="100.93126"/>
+      <trkpt lat="12.766477" lon="100.931942"/>
+      <trkpt lat="12.766157" lon="100.931998"/>
+      <trkpt lat="12.765843" lon="100.932434"/>
+      <trkpt lat="12.76731" lon="100.933185"/>
+      <trkpt lat="12.76761" lon="100.934381"/>
+      <trkpt lat="12.767036" lon="100.933635"/>
+      <trkpt lat="12.766601" lon="100.933218"/>
+      <trkpt lat="12.76651" lon="100.933051"/>
+      <trkpt lat="12.765709" lon="100.933168"/>
+      <trkpt lat="12.765215" lon="100.933827"/>
+      <trkpt lat="12.763409" lon="100.932045"/>
+      <trkpt lat="12.764196" lon="100.932644"/>
+      <trkpt lat="12.764702" lon="100.933438"/>
+      <trkpt lat="12.764197" lon="100.933617"/>
+      <trkpt lat="12.764462" lon="100.934097"/>
+      <trkpt lat="12.765053" lon="100.935384"/>
+      <trkpt lat="12.764116" lon="100.935562"/>
+      <trkpt lat="12.764077" lon="100.935149"/>
+      <trkpt lat="12.764056" lon="100.934565"/>
+    </trkseg>
+  </trk>
+</gpx>

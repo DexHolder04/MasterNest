@@ -1,47 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="TheHigher">
-    <trk>
-        <name>0</name>
-        <trkseg>
-            <trkpt lat="37.524750" lon="126.938875">
-            </trkpt>
-            <trkpt lat="37.526648" lon="126.935648">
-            </trkpt>
-            <trkpt lat="37.528260" lon="126.935036">
-            </trkpt>
-            <trkpt lat="37.527608" lon="126.933270">
-            </trkpt>
-            <trkpt lat="37.526954" lon="126.932602">
-            </trkpt>
-            <trkpt lat="37.527353" lon="126.932302">
-            </trkpt>
-            <trkpt lat="37.527998" lon="126.933287">
-            </trkpt>
-            <trkpt lat="37.529779" lon="126.931058">
-            </trkpt>
-            <trkpt lat="37.530347" lon="126.930630">
-            </trkpt>
-            <trkpt lat="37.529505" lon="126.929231">
-            </trkpt>
-            <trkpt lat="37.530107" lon="126.927792">
-            </trkpt>
-            <trkpt lat="37.530382" lon="126.928811">
-            </trkpt>
-            <trkpt lat="37.530904" lon="126.929351">
-            </trkpt>
-            <trkpt lat="37.531479" lon="126.929263">
-            </trkpt>
-            <trkpt lat="37.530750" lon="126.928012">
-            </trkpt>
-            <trkpt lat="37.531467" lon="126.928839">
-            </trkpt>
-            <trkpt lat="37.531408" lon="126.927770">
-            </trkpt>
-            <trkpt lat="37.532296" lon="126.927961">
-            </trkpt>
-            <trkpt lat="37.531003" lon="126.924568">
-            </trkpt>
-        </trkseg>
-    </trk>
+  <trk>
+    <name>teddiursa|37.5285,126.9326</name>
+    <trkseg>
+      <trkpt lat="37.524750" lon="126.938875"/>
+      <trkpt lat="37.526648" lon="126.935648"/>
+      <trkpt lat="37.528260" lon="126.935036"/>
+      <trkpt lat="37.527608" lon="126.933270"/>
+      <trkpt lat="37.526954" lon="126.932602"/>
+      <trkpt lat="37.527353" lon="126.932302"/>
+      <trkpt lat="37.527998" lon="126.933287"/>
+      <trkpt lat="37.529779" lon="126.931058"/>
+      <trkpt lat="37.530347" lon="126.930630"/>
+      <trkpt lat="37.529505" lon="126.929231"/>
+      <trkpt lat="37.530107" lon="126.927792"/>
+      <trkpt lat="37.530382" lon="126.928811"/>
+      <trkpt lat="37.530904" lon="126.929351"/>
+      <trkpt lat="37.531479" lon="126.929263"/>
+      <trkpt lat="37.530750" lon="126.928012"/>
+      <trkpt lat="37.531467" lon="126.928839"/>
+      <trkpt lat="37.531408" lon="126.927770"/>
+      <trkpt lat="37.532296" lon="126.927961"/>
+      <trkpt lat="37.531003" lon="126.924568"/>
+    </trkseg>
+  </trk>
 </gpx>
-

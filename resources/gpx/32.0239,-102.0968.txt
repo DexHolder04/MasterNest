@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx version="1.1" creator="GPS Visualizer https://www.gpsvisualizer.com/" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <trk>
+    <name>hippopotas|32.0239,-102.0968</name>
+    <trkseg>
+      <trkpt lat="32.026369" lon="-102.094528"/>
+      <trkpt lat="32.026437" lon="-102.094956"/>
+      <trkpt lat="32.025463" lon="-102.094711"/>
+      <trkpt lat="32.024682" lon="-102.095032"/>
+      <trkpt lat="32.025259" lon="-102.095458"/>
+      <trkpt lat="32.026074" lon="-102.09554"/>
+      <trkpt lat="32.02604" lon="-102.096138"/>
+      <trkpt lat="32.024709" lon="-102.096662"/>
+      <trkpt lat="32.024653" lon="-102.097597"/>
+      <trkpt lat="32.024132" lon="-102.097357"/>
+      <trkpt lat="32.025782" lon="-102.097816"/>
+      <trkpt lat="32.025526" lon="-102.098632"/>
+      <trkpt lat="32.025301" lon="-102.099595"/>
+      <trkpt lat="32.024611" lon="-102.099244"/>
+      <trkpt lat="32.024495" lon="-102.098658"/>
+      <trkpt lat="32.023131" lon="-102.098937"/>
+      <trkpt lat="32.023944" lon="-102.098901"/>
+      <trkpt lat="32.023862" lon="-102.098036"/>
+      <trkpt lat="32.023478" lon="-102.097745"/>
+      <trkpt lat="32.023021" lon="-102.097906"/>
+      <trkpt lat="32.022695" lon="-102.097393"/>
+      <trkpt lat="32.023289" lon="-102.097117"/>
+      <trkpt lat="32.023727" lon="-102.096753"/>
+    </trkseg>
+  </trk>
+</gpx>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="iSpoofer">
+  <trk>
+    <name>piplup|34.0324,-84.6323</name>
+    <trkseg>
+      <trkpt lat="34.032522" lon="-84.634334"/>
+      <trkpt lat="34.032390" lon="-84.633526"/>
+      <trkpt lat="34.032821" lon="-84.633439"/>
+      <trkpt lat="34.033242" lon="-84.634163"/>
+      <trkpt lat="34.033456" lon="-84.634210"/>
+      <trkpt lat="34.033746" lon="-84.633583"/>
+      <trkpt lat="34.033834" lon="-84.632651"/>
+      <trkpt lat="34.033818" lon="-84.632016"/>
+      <trkpt lat="34.033771" lon="-84.631380"/>
+      <trkpt lat="34.033372" lon="-84.631629"/>
+      <trkpt lat="34.033320" lon="-84.631240"/>
+      <trkpt lat="34.032179" lon="-84.631772"/>
+      <trkpt lat="34.031800" lon="-84.631672"/>
+      <trkpt lat="34.031560" lon="-84.632305"/>
+      <trkpt lat="34.031201" lon="-84.632549"/>
+      <trkpt lat="34.032142" lon="-84.632968"/>
+      <trkpt lat="34.032363" lon="-84.632255"/>
+      <trkpt lat="34.032086" lon="-84.631042"/>
+      <trkpt lat="34.030982" lon="-84.631187"/>
+      <trkpt lat="34.030443" lon="-84.629699"/>
+    </trkseg>
+  </trk>
+</gpx>

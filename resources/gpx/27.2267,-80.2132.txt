@@ -1,41 +1,24 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="TheHigher">
-    <trk>
-        <name>0</name>
-        <trkseg>
-            <trkpt lat="27.226374" lon="-80.212828">
-            </trkpt>
-            <trkpt lat="27.225842" lon="-80.212313">
-            </trkpt>
-            <trkpt lat="27.225521" lon="-80.213195">
-            </trkpt>
-            <trkpt lat="27.225182" lon="-80.213554">
-            </trkpt>
-            <trkpt lat="27.225963" lon="-80.213900">
-            </trkpt>
-            <trkpt lat="27.227341" lon="-80.214626">
-            </trkpt>
-            <trkpt lat="27.227933" lon="-80.215122">
-            </trkpt>
-            <trkpt lat="27.228548" lon="-80.214393">
-            </trkpt>
-            <trkpt lat="27.229376" lon="-80.214418">
-            </trkpt>
-            <trkpt lat="27.229723" lon="-80.214910">
-            </trkpt>
-            <trkpt lat="27.229235" lon="-80.215334">
-            </trkpt>
-            <trkpt lat="27.229277" lon="-80.215581">
-            </trkpt>
-            <trkpt lat="27.229479" lon="-80.215659">
-            </trkpt>
-            <trkpt lat="27.229981" lon="-80.216353">
-            </trkpt>
-            <trkpt lat="27.229361" lon="-80.216955">
-            </trkpt>
-            <trkpt lat="27.228677" lon="-80.216594">
-            </trkpt>
-        </trkseg>
-    </trk>
+  <trk>
+    <name>machop|27.2267,-80.2132</name>
+    <trkseg>
+      <trkpt lat="27.226374" lon="-80.212828"/>
+      <trkpt lat="27.225842" lon="-80.212313"/>
+      <trkpt lat="27.225521" lon="-80.213195"/>
+      <trkpt lat="27.225182" lon="-80.213554"/>
+      <trkpt lat="27.225963" lon="-80.213900"/>
+      <trkpt lat="27.227341" lon="-80.214626"/>
+      <trkpt lat="27.227933" lon="-80.215122"/>
+      <trkpt lat="27.228548" lon="-80.214393"/>
+      <trkpt lat="27.229376" lon="-80.214418"/>
+      <trkpt lat="27.229723" lon="-80.214910"/>
+      <trkpt lat="27.229235" lon="-80.215334"/>
+      <trkpt lat="27.229277" lon="-80.215581"/>
+      <trkpt lat="27.229479" lon="-80.215659"/>
+      <trkpt lat="27.229981" lon="-80.216353"/>
+      <trkpt lat="27.229361" lon="-80.216955"/>
+      <trkpt lat="27.228677" lon="-80.216594"/>
+    </trkseg>
+  </trk>
 </gpx>
-

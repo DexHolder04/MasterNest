@@ -1,34 +1,21 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="xSovrnx">
-    <trk>
-        <name>0</name>
-        <trkseg>
-            <trkpt lat="39.888068" lon="32.843438">
-            </trkpt>
-            <trkpt lat="39.888377" lon="32.843465">
-            </trkpt>
-            <trkpt lat="39.889130" lon="32.843075">
-            </trkpt>
-            <trkpt lat="39.889714" lon="32.843069">
-            </trkpt>
-            <trkpt lat="39.890308" lon="32.843012">
-            </trkpt>
-            <trkpt lat="39.890990" lon="32.843512">
-            </trkpt>
-            <trkpt lat="39.892224" lon="32.843528">
-            </trkpt>
-            <trkpt lat="39.892812" lon="32.843616">
-            </trkpt>
-            <trkpt lat="39.893097" lon="32.843829">
-            </trkpt>
-            <trkpt lat="39.893922" lon="32.843315">
-            </trkpt>
-            <trkpt lat="39.894171" lon="32.843841">
-            </trkpt>
-            <trkpt lat="39.894725" lon="32.844127">
-            </trkpt>
-            <trkpt lat="39.887607" lon="32.843187">
-            </trkpt>
-        </trkseg>
-    </trk>
+  <trk>
+    <name>magmar|39.8903,32.8430</name>
+    <trkseg>
+      <trkpt lat="39.888068" lon="32.843438"/>
+      <trkpt lat="39.888377" lon="32.843465"/>
+      <trkpt lat="39.889130" lon="32.843075"/>
+      <trkpt lat="39.889714" lon="32.843069"/>
+      <trkpt lat="39.890308" lon="32.843012"/>
+      <trkpt lat="39.890990" lon="32.843512"/>
+      <trkpt lat="39.892224" lon="32.843528"/>
+      <trkpt lat="39.892812" lon="32.843616"/>
+      <trkpt lat="39.893097" lon="32.843829"/>
+      <trkpt lat="39.893922" lon="32.843315"/>
+      <trkpt lat="39.894171" lon="32.843841"/>
+      <trkpt lat="39.894725" lon="32.844127"/>
+      <trkpt lat="39.887607" lon="32.843187"/>
+    </trkseg>
+  </trk>
 </gpx>

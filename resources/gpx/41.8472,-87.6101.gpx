@@ -1,16 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <gpx version="1.1" creator="GPS Visualizer https://www.gpsvisualizer.com/" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
-<wpt lat="41.84043" lon="-87.607824">
-  <name>41.8472,-87.6101</name>
-</wpt>
-<wpt lat="41.842652" lon="-87.609052"></wpt>
-<wpt lat="41.848712" lon="-87.609738"></wpt>
-<wpt lat="41.849219" lon="-87.609823"></wpt>
-<wpt lat="41.850692" lon="-87.609743"></wpt>
-<wpt lat="41.851094" lon="-87.609657"></wpt>
-<wpt lat="41.851906" lon="-87.610051"></wpt>
-<wpt lat="41.851844" lon="-87.611183"></wpt>
-<wpt lat="41.852741" lon="-87.61085"></wpt>
-<wpt lat="41.852732" lon="-87.612144"></wpt>
-<wpt lat="41.85455" lon="-87.61131"></wpt>
+  <wpt lat="41.84043" lon="-87.607824">
+    <name>blitzle|41.8472,-87.6101</name>
+  </wpt>
+  <wpt lat="41.842652" lon="-87.609052"/>
+  <wpt lat="41.848712" lon="-87.609738"/>
+  <wpt lat="41.849219" lon="-87.609823"/>
+  <wpt lat="41.850692" lon="-87.609743"/>
+  <wpt lat="41.851094" lon="-87.609657"/>
+  <wpt lat="41.851906" lon="-87.610051"/>
+  <wpt lat="41.851844" lon="-87.611183"/>
+  <wpt lat="41.852741" lon="-87.61085"/>
+  <wpt lat="41.852732" lon="-87.612144"/>
+  <wpt lat="41.85455" lon="-87.61131"/>
 </gpx>

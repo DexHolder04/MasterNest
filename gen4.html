@@ -94,7 +94,8 @@
                 '%M Minutes ' +
                 '%S Seconds</countdown>'));
             if (event.elapsed) {
-                location.reload();
+                alert("Migration has just ocurred, please come back later!");
+                location.reload()
             }
         });
         window.onload = checkRes();

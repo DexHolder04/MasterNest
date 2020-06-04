@@ -1,31 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="TheHigher">
-    <trk>
-        <name>0</name>
-        <trkseg>
-            <trkpt lat="41.796982" lon="140.756558">
-            </trkpt>
-            <trkpt lat="41.796753" lon="140.755901">
-            </trkpt>
-            <trkpt lat="41.795999" lon="140.756013">
-            </trkpt>
-            <trkpt lat="41.796203" lon="140.756996">
-            </trkpt>
-            <trkpt lat="41.795675" lon="140.757358">
-            </trkpt>
-            <trkpt lat="41.796636" lon="140.757942">
-            </trkpt>
-            <trkpt lat="41.797596" lon="140.757438">
-            </trkpt>
-            <trkpt lat="41.798184" lon="140.757834">
-            </trkpt>
-            <trkpt lat="41.798430" lon="140.756801">
-            </trkpt>
-            <trkpt lat="41.798091" lon="140.755716">
-            </trkpt>
-            <trkpt lat="41.797531" lon="140.756297">
-            </trkpt>
-        </trkseg>
-    </trk>
+  <trk>
+    <name>croagunk|41.7971,140.7568</name>
+    <trkseg>
+      <trkpt lat="41.796982" lon="140.756558"/>
+      <trkpt lat="41.796753" lon="140.755901"/>
+      <trkpt lat="41.795999" lon="140.756013"/>
+      <trkpt lat="41.796203" lon="140.756996"/>
+      <trkpt lat="41.795675" lon="140.757358"/>
+      <trkpt lat="41.796636" lon="140.757942"/>
+      <trkpt lat="41.797596" lon="140.757438"/>
+      <trkpt lat="41.798184" lon="140.757834"/>
+      <trkpt lat="41.798430" lon="140.756801"/>
+      <trkpt lat="41.798091" lon="140.755716"/>
+      <trkpt lat="41.797531" lon="140.756297"/>
+    </trkseg>
+  </trk>
 </gpx>
-

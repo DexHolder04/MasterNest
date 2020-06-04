@@ -1,31 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="TheHigher">
-    <trk>
-        <name>0</name>
-        <trkseg>
-            <trkpt lat="41.840430" lon="-87.607824">
-            </trkpt>
-            <trkpt lat="41.842652" lon="-87.609052">
-            </trkpt>
-            <trkpt lat="41.848712" lon="-87.609738">
-            </trkpt>
-            <trkpt lat="41.849219" lon="-87.609823">
-            </trkpt>
-            <trkpt lat="41.850692" lon="-87.609743">
-            </trkpt>
-            <trkpt lat="41.851094" lon="-87.609657">
-            </trkpt>
-            <trkpt lat="41.851906" lon="-87.610051">
-            </trkpt>
-            <trkpt lat="41.851844" lon="-87.611183">
-            </trkpt>
-            <trkpt lat="41.852741" lon="-87.610850">
-            </trkpt>
-            <trkpt lat="41.852732" lon="-87.612144">
-            </trkpt>
-            <trkpt lat="41.854550" lon="-87.611310">
-            </trkpt>
-        </trkseg>
-    </trk>
+  <trk>
+    <name>blitzle|41.8472,-87.6101</name>
+    <trkseg>
+      <trkpt lat="41.840430" lon="-87.607824"/>
+      <trkpt lat="41.842652" lon="-87.609052"/>
+      <trkpt lat="41.848712" lon="-87.609738"/>
+      <trkpt lat="41.849219" lon="-87.609823"/>
+      <trkpt lat="41.850692" lon="-87.609743"/>
+      <trkpt lat="41.851094" lon="-87.609657"/>
+      <trkpt lat="41.851906" lon="-87.610051"/>
+      <trkpt lat="41.851844" lon="-87.611183"/>
+      <trkpt lat="41.852741" lon="-87.610850"/>
+      <trkpt lat="41.852732" lon="-87.612144"/>
+      <trkpt lat="41.854550" lon="-87.611310"/>
+    </trkseg>
+  </trk>
 </gpx>
-

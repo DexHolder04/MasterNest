@@ -1,65 +1,36 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="TheHigher">
-    <trk>
-        <name>0</name>
-        <trkseg>
-            <trkpt lat="36.037379" lon="-115.054307">
-            </trkpt>
-            <trkpt lat="36.037093" lon="-115.053998">
-            </trkpt>
-            <trkpt lat="36.036586" lon="-115.054326">
-            </trkpt>
-            <trkpt lat="36.037171" lon="-115.054881">
-            </trkpt>
-            <trkpt lat="36.037757" lon="-115.054409">
-            </trkpt>
-            <trkpt lat="36.038191" lon="-115.053581">
-            </trkpt>
-            <trkpt lat="36.038633" lon="-115.054553">
-            </trkpt>
-            <trkpt lat="36.039265" lon="-115.054294">
-            </trkpt>
-            <trkpt lat="36.039530" lon="-115.054151">
-            </trkpt>
-            <trkpt lat="36.040016" lon="-115.053489">
-            </trkpt>
-            <trkpt lat="36.040310" lon="-115.053891">
-            </trkpt>
-            <trkpt lat="36.038919" lon="-115.051704">
-            </trkpt>
-            <trkpt lat="36.038516" lon="-115.051166">
-            </trkpt>
-            <trkpt lat="36.038443" lon="-115.050892">
-            </trkpt>
-            <trkpt lat="36.038033" lon="-115.050337">
-            </trkpt>
-            <trkpt lat="36.037127" lon="-115.050384">
-            </trkpt>
-            <trkpt lat="36.036189" lon="-115.050825">
-            </trkpt>
-            <trkpt lat="36.035332" lon="-115.050595">
-            </trkpt>
-            <trkpt lat="36.033900" lon="-115.050580">
-            </trkpt>
-            <trkpt lat="36.033374" lon="-115.050678">
-            </trkpt>
-            <trkpt lat="36.033516" lon="-115.051501">
-            </trkpt>
-            <trkpt lat="36.033159" lon="-115.051985">
-            </trkpt>
-            <trkpt lat="36.033260" lon="-115.053070">
-            </trkpt>
-            <trkpt lat="36.033675" lon="-115.053732">
-            </trkpt>
-            <trkpt lat="36.034066" lon="-115.053784">
-            </trkpt>
-            <trkpt lat="36.035298" lon="-115.054018">
-            </trkpt>
-            <trkpt lat="36.034709" lon="-115.055506">
-            </trkpt>
-            <trkpt lat="36.034390" lon="-115.056066">
-            </trkpt>
-        </trkseg>
-    </trk>
+  <trk>
+    <name>tentacool|36.0374,-115.0543</name>
+    <trkseg>
+      <trkpt lat="36.037379" lon="-115.054307"/>
+      <trkpt lat="36.037093" lon="-115.053998"/>
+      <trkpt lat="36.036586" lon="-115.054326"/>
+      <trkpt lat="36.037171" lon="-115.054881"/>
+      <trkpt lat="36.037757" lon="-115.054409"/>
+      <trkpt lat="36.038191" lon="-115.053581"/>
+      <trkpt lat="36.038633" lon="-115.054553"/>
+      <trkpt lat="36.039265" lon="-115.054294"/>
+      <trkpt lat="36.039530" lon="-115.054151"/>
+      <trkpt lat="36.040016" lon="-115.053489"/>
+      <trkpt lat="36.040310" lon="-115.053891"/>
+      <trkpt lat="36.038919" lon="-115.051704"/>
+      <trkpt lat="36.038516" lon="-115.051166"/>
+      <trkpt lat="36.038443" lon="-115.050892"/>
+      <trkpt lat="36.038033" lon="-115.050337"/>
+      <trkpt lat="36.037127" lon="-115.050384"/>
+      <trkpt lat="36.036189" lon="-115.050825"/>
+      <trkpt lat="36.035332" lon="-115.050595"/>
+      <trkpt lat="36.033900" lon="-115.050580"/>
+      <trkpt lat="36.033374" lon="-115.050678"/>
+      <trkpt lat="36.033516" lon="-115.051501"/>
+      <trkpt lat="36.033159" lon="-115.051985"/>
+      <trkpt lat="36.033260" lon="-115.053070"/>
+      <trkpt lat="36.033675" lon="-115.053732"/>
+      <trkpt lat="36.034066" lon="-115.053784"/>
+      <trkpt lat="36.035298" lon="-115.054018"/>
+      <trkpt lat="36.034709" lon="-115.055506"/>
+      <trkpt lat="36.034390" lon="-115.056066"/>
+    </trkseg>
+  </trk>
 </gpx>
-

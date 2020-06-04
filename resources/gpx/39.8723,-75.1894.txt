@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="iSpoofer">
+  <trk>
+    <name>stunky|39.8723,-75.1894</name>
+    <trkseg>
+      <trkpt lat="39.872755" lon="-75.189420"/>
+      <trkpt lat="39.872364" lon="-75.189208"/>
+      <trkpt lat="39.871914" lon="-75.188740"/>
+      <trkpt lat="39.871633" lon="-75.189247"/>
+      <trkpt lat="39.870914" lon="-75.189464"/>
+      <trkpt lat="39.870687" lon="-75.189534"/>
+      <trkpt lat="39.870574" lon="-75.189829"/>
+      <trkpt lat="39.870971" lon="-75.189844"/>
+      <trkpt lat="39.870933" lon="-75.190742"/>
+      <trkpt lat="39.871179" lon="-75.190756"/>
+      <trkpt lat="39.871738" lon="-75.190481"/>
+      <trkpt lat="39.871960" lon="-75.190239"/>
+      <trkpt lat="39.872235" lon="-75.190311"/>
+      <trkpt lat="39.872446" lon="-75.190258"/>
+      <trkpt lat="39.872552" lon="-75.189981"/>
+      <trkpt lat="39.871069" lon="-75.188572"/>
+      <trkpt lat="39.870191" lon="-75.190264"/>
+      <trkpt lat="39.870185" lon="-75.190934"/>
+      <trkpt lat="39.869853" lon="-75.191129"/>
+      <trkpt lat="39.869355" lon="-75.191081"/>
+      <trkpt lat="39.869048" lon="-75.191117"/>
+      <trkpt lat="39.869076" lon="-75.190857"/>
+      <trkpt lat="39.869161" lon="-75.190200"/>
+      <trkpt lat="39.869550" lon="-75.190507"/>
+      <trkpt lat="39.868739" lon="-75.189908"/>
+      <trkpt lat="39.868219" lon="-75.189759"/>
+      <trkpt lat="39.868324" lon="-75.189306"/>
+      <trkpt lat="39.868048" lon="-75.189069"/>
+      <trkpt lat="39.867768" lon="-75.190629"/>
+      <trkpt lat="39.867870" lon="-75.191251"/>
+      <trkpt lat="39.868002" lon="-75.191752"/>
+      <trkpt lat="39.868178" lon="-75.191646"/>
+      <trkpt lat="39.867813" lon="-75.191820"/>
+      <trkpt lat="39.868280" lon="-75.190964"/>
+      <trkpt lat="39.868107" lon="-75.186757"/>
+    </trkseg>
+  </trk>
+</gpx>

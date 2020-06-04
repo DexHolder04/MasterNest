@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <gpx version="1.1" creator="GPS Visualizer https://www.gpsvisualizer.com/" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
-<wpt lat="42.419356" lon="-82.209966">
-  <name>42.4187,-82.2084</name>
-</wpt>
-<wpt lat="42.418516" lon="-82.209446"></wpt>
-<wpt lat="42.419034" lon="-82.207264"></wpt>
-<wpt lat="42.419374" lon="-82.207894"></wpt>
-<wpt lat="42.41936" lon="-82.208272"></wpt>
-<wpt lat="42.419643" lon="-82.208775"></wpt>
-<wpt lat="42.420479" lon="-82.208497"></wpt>
+  <wpt lat="42.419356" lon="-82.209966">
+    <name>kricketot|42.4187,-82.2084</name>
+  </wpt>
+  <wpt lat="42.418516" lon="-82.209446"/>
+  <wpt lat="42.419034" lon="-82.207264"/>
+  <wpt lat="42.419374" lon="-82.207894"/>
+  <wpt lat="42.41936" lon="-82.208272"/>
+  <wpt lat="42.419643" lon="-82.208775"/>
+  <wpt lat="42.420479" lon="-82.208497"/>
 </gpx>

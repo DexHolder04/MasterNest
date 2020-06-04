@@ -1,33 +1,20 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="TheHigher">
-    <trk>
-        <name>0</name>
-        <trkseg>
-            <trkpt lat="39.777865" lon="-75.499995">
-            </trkpt>
-            <trkpt lat="39.777058" lon="-75.498541">
-            </trkpt>
-            <trkpt lat="39.776381" lon="-75.498140">
-            </trkpt>
-            <trkpt lat="39.776190" lon="-75.496936">
-            </trkpt>
-            <trkpt lat="39.776377" lon="-75.495756">
-            </trkpt>
-            <trkpt lat="39.776135" lon="-75.495023">
-            </trkpt>
-            <trkpt lat="39.775718" lon="-75.494842">
-            </trkpt>
-            <trkpt lat="39.775346" lon="-75.496157">
-            </trkpt>
-            <trkpt lat="39.777012" lon="-75.495857">
-            </trkpt>
-            <trkpt lat="39.778763" lon="-75.498393">
-            </trkpt>
-            <trkpt lat="39.782742" lon="-75.500589">
-            </trkpt>
-            <trkpt lat="39.777879" lon="-75.504232">
-            </trkpt>
-        </trkseg>
-    </trk>
+  <trk>
+    <name>snivy|39.7778,-75.5000</name>
+    <trkseg>
+      <trkpt lat="39.777865" lon="-75.499995"/>
+      <trkpt lat="39.777058" lon="-75.498541"/>
+      <trkpt lat="39.776381" lon="-75.498140"/>
+      <trkpt lat="39.776190" lon="-75.496936"/>
+      <trkpt lat="39.776377" lon="-75.495756"/>
+      <trkpt lat="39.776135" lon="-75.495023"/>
+      <trkpt lat="39.775718" lon="-75.494842"/>
+      <trkpt lat="39.775346" lon="-75.496157"/>
+      <trkpt lat="39.777012" lon="-75.495857"/>
+      <trkpt lat="39.778763" lon="-75.498393"/>
+      <trkpt lat="39.782742" lon="-75.500589"/>
+      <trkpt lat="39.777879" lon="-75.504232"/>
+    </trkseg>
+  </trk>
 </gpx>
-

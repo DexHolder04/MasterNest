@@ -300,6 +300,7 @@ tr {
     background: var(--form-list);
     border: 1px solid var(--form-border);
     color: var(--text-color);
+    text-align: center;
 
 }
 

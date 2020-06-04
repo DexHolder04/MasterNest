@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="iSpoofer">
+  <trk>
+    <name>meditite|54.5141,-1.5579</name>
+    <trkseg>
+      <trkpt lat="54.513294" lon="-1.554409"/>
+      <trkpt lat="54.514025" lon="-1.554524"/>
+      <trkpt lat="54.514258" lon="-1.556007"/>
+      <trkpt lat="54.513998" lon="-1.557394"/>
+      <trkpt lat="54.514188" lon="-1.557945"/>
+      <trkpt lat="54.514385" lon="-1.558709"/>
+      <trkpt lat="54.515406" lon="-1.558733"/>
+      <trkpt lat="54.515513" lon="-1.559545"/>
+      <trkpt lat="54.515369" lon="-1.559310"/>
+      <trkpt lat="54.514986" lon="-1.559516"/>
+      <trkpt lat="54.514716" lon="-1.559405"/>
+      <trkpt lat="54.514410" lon="-1.559525"/>
+      <trkpt lat="54.514405" lon="-1.560103"/>
+      <trkpt lat="54.514661" lon="-1.560482"/>
+      <trkpt lat="54.515294" lon="-1.560250"/>
+      <trkpt lat="54.515428" lon="-1.561043"/>
+      <trkpt lat="54.515011" lon="-1.561443"/>
+      <trkpt lat="54.515287" lon="-1.562308"/>
+      <trkpt lat="54.514855" lon="-1.562841"/>
+      <trkpt lat="54.515316" lon="-1.563091"/>
+      <trkpt lat="54.514637" lon="-1.564091"/>
+      <trkpt lat="54.516215" lon="-1.563840"/>
+      <trkpt lat="54.516310" lon="-1.563054"/>
+      <trkpt lat="54.516147" lon="-1.562461"/>
+      <trkpt lat="54.515895" lon="-1.561839"/>
+      <trkpt lat="54.516020" lon="-1.560614"/>
+      <trkpt lat="54.516117" lon="-1.559530"/>
+      <trkpt lat="54.516628" lon="-1.559374"/>
+      <trkpt lat="54.516369" lon="-1.558349"/>
+      <trkpt lat="54.515755" lon="-1.557176"/>
+      <trkpt lat="54.517684" lon="-1.556928"/>
+      <trkpt lat="54.517900" lon="-1.556339"/>
+      <trkpt lat="54.518199" lon="-1.556152"/>
+      <trkpt lat="54.517831" lon="-1.555605"/>
+    </trkseg>
+  </trk>
+</gpx>
