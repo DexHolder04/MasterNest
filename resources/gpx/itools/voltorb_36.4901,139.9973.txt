@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="Higher">
+  <trk>
+    <name>voltorb_36.4901,139.9973</name>
+    <trkseg>
+      <trkpt lat="36.490196" lon="139.997325"/>
+      <trkpt lat="36.490221" lon="139.997675"/>
+      <trkpt lat="36.490414" lon="139.998316"/>
+      <trkpt lat="36.490914" lon="139.998421"/>
+      <trkpt lat="36.491036" lon="139.997887"/>
+      <trkpt lat="36.491211" lon="139.998936"/>
+      <trkpt lat="36.491341" lon="140.000107"/>
+      <trkpt lat="36.491958" lon="140.000794"/>
+      <trkpt lat="36.492418" lon="139.999739"/>
+      <trkpt lat="36.493030" lon="139.998901"/>
+      <trkpt lat="36.493625" lon="139.998349"/>
+      <trkpt lat="36.493893" lon="139.997877"/>
+      <trkpt lat="36.494745" lon="139.997617"/>
+      <trkpt lat="36.495083" lon="139.997473"/>
+      <trkpt lat="36.495688" lon="139.998404"/>
+      <trkpt lat="36.495063" lon="139.998766"/>
+      <trkpt lat="36.493415" lon="139.996218"/>
+      <trkpt lat="36.493020" lon="139.994314"/>
+      <trkpt lat="36.495566" lon="139.994575"/>
+      <trkpt lat="36.495677" lon="139.993436"/>
+      <trkpt lat="36.496008" lon="139.993207"/>
+      <trkpt lat="36.495833" lon="139.992785"/>
+      <trkpt lat="36.496403" lon="139.993257"/>
+      <trkpt lat="36.497316" lon="139.995824"/>
+      <trkpt lat="36.498983" lon="139.998136"/>
+      <trkpt lat="36.490738" lon="139.995996"/>
+      <trkpt lat="36.490255" lon="139.996322"/>
+      <trkpt lat="36.489975" lon="139.996814"/>
+      <trkpt lat="36.489547" lon="139.997312"/>
+      <trkpt lat="36.489072" lon="139.997334"/>
+      <trkpt lat="36.488712" lon="139.997580"/>
+      <trkpt lat="36.488267" lon="139.997912"/>
+      <trkpt lat="36.488609" lon="139.998329"/>
+      <trkpt lat="36.489101" lon="139.998327"/>
+      <trkpt lat="36.489720" lon="139.998584"/>
+      <trkpt lat="36.490233" lon="139.999521"/>
+      <trkpt lat="36.489025" lon="140.000492"/>
+      <trkpt lat="36.490379" lon="140.001180"/>
+    </trkseg>
+  </trk>
+</gpx>

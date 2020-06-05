@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="DexHolder04">
+  <trk>
+    <name>wailmer_52.2132,21.0340</name>
+    <trkseg>
+      <trkpt lat="52.212378" lon="21.032885"/>
+      <trkpt lat="52.211954" lon="21.032833"/>
+      <trkpt lat="52.211541" lon="21.033537"/>
+      <trkpt lat="52.211203" lon="21.033406"/>
+      <trkpt lat="52.211571" lon="21.032870"/>
+      <trkpt lat="52.211155" lon="21.032363"/>
+      <trkpt lat="52.212087" lon="21.031632"/>
+      <trkpt lat="52.212110" lon="21.030284"/>
+      <trkpt lat="52.211479" lon="21.029989"/>
+      <trkpt lat="52.211211" lon="21.029041"/>
+      <trkpt lat="52.211616" lon="21.028620"/>
+      <trkpt lat="52.213024" lon="21.026888"/>
+      <trkpt lat="52.213488" lon="21.026787"/>
+      <trkpt lat="52.214118" lon="21.027518"/>
+      <trkpt lat="52.214388" lon="21.027725"/>
+      <trkpt lat="52.213669" lon="21.029234"/>
+      <trkpt lat="52.213944" lon="21.031174"/>
+      <trkpt lat="52.214348" lon="21.032821"/>
+      <trkpt lat="52.214854" lon="21.034299"/>
+      <trkpt lat="52.215279" lon="21.032882"/>
+      <trkpt lat="52.216150" lon="21.030335"/>
+      <trkpt lat="52.216110" lon="21.028333"/>
+      <trkpt lat="52.216867" lon="21.030452"/>
+      <trkpt lat="52.218059" lon="21.029187"/>
+      <trkpt lat="52.217839" lon="21.030770"/>
+      <trkpt lat="52.217116" lon="21.032066"/>
+      <trkpt lat="52.216729" lon="21.032379"/>
+      <trkpt lat="52.216573" lon="21.033163"/>
+      <trkpt lat="52.217126" lon="21.035213"/>
+      <trkpt lat="52.215916" lon="21.034805"/>
+      <trkpt lat="52.215364" lon="21.035321"/>
+      <trkpt lat="52.214680" lon="21.035530"/>
+      <trkpt lat="52.215035" lon="21.035857"/>
+      <trkpt lat="52.215093" lon="21.036176"/>
+      <trkpt lat="52.216222" lon="21.036481"/>
+      <trkpt lat="52.217086" lon="21.036394"/>
+      <trkpt lat="52.216850" lon="21.037701"/>
+      <trkpt lat="52.215491" lon="21.039202"/>
+      <trkpt lat="52.214860" lon="21.038921"/>
+      <trkpt lat="52.215482" lon="21.038303"/>
+      <trkpt lat="52.215410" lon="21.037458"/>
+      <trkpt lat="52.214812" lon="21.036544"/>
+      <trkpt lat="52.214490" lon="21.036508"/>
+      <trkpt lat="52.214408" lon="21.036991"/>
+      <trkpt lat="52.213698" lon="21.038080"/>
+      <trkpt lat="52.213645" lon="21.036662"/>
+      <trkpt lat="52.213226" lon="21.036679"/>
+      <trkpt lat="52.212853" lon="21.035836"/>
+    </trkseg>
+  </trk>
+</gpx>

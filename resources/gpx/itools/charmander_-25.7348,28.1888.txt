@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="TheHigher">
+  <trk>
+    <name>charmander_-25.7348,28.1888</name>
+    <trkseg>
+      <trkpt lat="-25.738912" lon="28.191025"/>
+      <trkpt lat="-25.738816" lon="28.189583"/>
+      <trkpt lat="-25.739036" lon="28.188093"/>
+      <trkpt lat="-25.737746" lon="28.187977"/>
+      <trkpt lat="-25.737315" lon="28.187731"/>
+      <trkpt lat="-25.736731" lon="28.188253"/>
+      <trkpt lat="-25.736198" lon="28.187762"/>
+      <trkpt lat="-25.735560" lon="28.187521"/>
+      <trkpt lat="-25.735471" lon="28.187797"/>
+      <trkpt lat="-25.735564" lon="28.188625"/>
+      <trkpt lat="-25.735930" lon="28.189090"/>
+      <trkpt lat="-25.736123" lon="28.188598"/>
+      <trkpt lat="-25.736948" lon="28.188939"/>
+      <trkpt lat="-25.737026" lon="28.189300"/>
+      <trkpt lat="-25.737715" lon="28.189358"/>
+      <trkpt lat="-25.737759" lon="28.189002"/>
+      <trkpt lat="-25.738181" lon="28.189022"/>
+      <trkpt lat="-25.738222" lon="28.189273"/>
+      <trkpt lat="-25.737766" lon="28.190600"/>
+      <trkpt lat="-25.737532" lon="28.190070"/>
+      <trkpt lat="-25.737163" lon="28.190614"/>
+      <trkpt lat="-25.736820" lon="28.190701"/>
+      <trkpt lat="-25.736452" lon="28.189940"/>
+      <trkpt lat="-25.736167" lon="28.189548"/>
+      <trkpt lat="-25.735661" lon="28.189812"/>
+      <trkpt lat="-25.736171" lon="28.190811"/>
+      <trkpt lat="-25.735919" lon="28.192518"/>
+      <trkpt lat="-25.735854" lon="28.191418"/>
+      <trkpt lat="-25.735429" lon="28.191528"/>
+      <trkpt lat="-25.735540" lon="28.191019"/>
+      <trkpt lat="-25.734943" lon="28.190620"/>
+      <trkpt lat="-25.734856" lon="28.190192"/>
+      <trkpt lat="-25.734994" lon="28.188931"/>
+      <trkpt lat="-25.734544" lon="28.189587"/>
+      <trkpt lat="-25.734144" lon="28.189247"/>
+      <trkpt lat="-25.734250" lon="28.188602"/>
+      <trkpt lat="-25.733888" lon="28.188218"/>
+      <trkpt lat="-25.733517" lon="28.189296"/>
+      <trkpt lat="-25.732621" lon="28.189660"/>
+      <trkpt lat="-25.732294" lon="28.190015"/>
+      <trkpt lat="-25.731305" lon="28.190296"/>
+      <trkpt lat="-25.731434" lon="28.191357"/>
+      <trkpt lat="-25.731344" lon="28.193126"/>
+      <trkpt lat="-25.732229" lon="28.193431"/>
+      <trkpt lat="-25.732559" lon="28.194156"/>
+      <trkpt lat="-25.732998" lon="28.194246"/>
+      <trkpt lat="-25.733355" lon="28.193631"/>
+      <trkpt lat="-25.733342" lon="28.193334"/>
+      <trkpt lat="-25.732592" lon="28.192072"/>
+      <trkpt lat="-25.732208" lon="28.191359"/>
+      <trkpt lat="-25.732174" lon="28.190740"/>
+      <trkpt lat="-25.733905" lon="28.189850"/>
+      <trkpt lat="-25.733770" lon="28.191014"/>
+      <trkpt lat="-25.733446" lon="28.191393"/>
+      <trkpt lat="-25.733683" lon="28.191779"/>
+      <trkpt lat="-25.734166" lon="28.191666"/>
+    </trkseg>
+  </trk>
+</gpx>

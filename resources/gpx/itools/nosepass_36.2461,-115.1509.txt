@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="iSpoofer">
+  <trk>
+    <name>nosepass_36.2461,-115.1509</name>
+    <trkseg>
+      <trkpt lat="36.245642" lon="-115.151027"/>
+      <trkpt lat="36.246545" lon="-115.151491"/>
+      <trkpt lat="36.246632" lon="-115.150804"/>
+      <trkpt lat="36.246341" lon="-115.149069"/>
+      <trkpt lat="36.246155" lon="-115.148366"/>
+      <trkpt lat="36.243961" lon="-115.148327"/>
+      <trkpt lat="36.243583" lon="-115.148068"/>
+      <trkpt lat="36.243986" lon="-115.147466"/>
+      <trkpt lat="36.243846" lon="-115.146088"/>
+      <trkpt lat="36.243414" lon="-115.145338"/>
+      <trkpt lat="36.243870" lon="-115.145063"/>
+      <trkpt lat="36.243271" lon="-115.148886"/>
+      <trkpt lat="36.242385" lon="-115.149361"/>
+      <trkpt lat="36.242378" lon="-115.149844"/>
+      <trkpt lat="36.242328" lon="-115.150445"/>
+      <trkpt lat="36.242635" lon="-115.150853"/>
+      <trkpt lat="36.241966" lon="-115.151303"/>
+      <trkpt lat="36.241386" lon="-115.151260"/>
+      <trkpt lat="36.241381" lon="-115.150915"/>
+      <trkpt lat="36.241770" lon="-115.152346"/>
+      <trkpt lat="36.241673" lon="-115.153329"/>
+      <trkpt lat="36.240769" lon="-115.153245"/>
+      <trkpt lat="36.240320" lon="-115.153763"/>
+      <trkpt lat="36.239572" lon="-115.152797"/>
+      <trkpt lat="36.239225" lon="-115.155373"/>
+      <trkpt lat="36.242707" lon="-115.153649"/>
+      <trkpt lat="36.242622" lon="-115.152290"/>
+      <trkpt lat="36.243369" lon="-115.152227"/>
+      <trkpt lat="36.243849" lon="-115.152879"/>
+      <trkpt lat="36.245258" lon="-115.152467"/>
+      <trkpt lat="36.245555" lon="-115.152661"/>
+      <trkpt lat="36.245616" lon="-115.153573"/>
+      <trkpt lat="36.246688" lon="-115.153555"/>
+      <trkpt lat="36.249165" lon="-115.152342"/>
+      <trkpt lat="36.251941" lon="-115.153320"/>
+      <trkpt lat="36.251531" lon="-115.155351"/>
+      <trkpt lat="36.252919" lon="-115.156056"/>
+      <trkpt lat="36.253647" lon="-115.156107"/>
+      <trkpt lat="36.253460" lon="-115.154267"/>
+      <trkpt lat="36.241347" lon="-115.149353"/>
+    </trkseg>
+  </trk>
+</gpx>

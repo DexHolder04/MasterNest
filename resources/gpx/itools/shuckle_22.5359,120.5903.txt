@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx version="1.1" creator="GPS Visualizer https://www.gpsvisualizer.com/" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <trk>
+    <name>shuckle_22.5359,120.5903</name>
+    <trkseg>
+      <trkpt lat="22.535838" lon="120.583399"/>
+      <trkpt lat="22.535152" lon="120.584619"/>
+      <trkpt lat="22.534968" lon="120.585397"/>
+      <trkpt lat="22.53473" lon="120.587278"/>
+      <trkpt lat="22.534769" lon="120.587755"/>
+      <trkpt lat="22.534872" lon="120.588223"/>
+      <trkpt lat="22.534789" lon="120.588463"/>
+      <trkpt lat="22.535152" lon="120.589388"/>
+      <trkpt lat="22.535655" lon="120.590226"/>
+      <trkpt lat="22.53874" lon="120.591803"/>
+      <trkpt lat="22.538532" lon="120.591457"/>
+      <trkpt lat="22.538245" lon="120.591142"/>
+      <trkpt lat="22.539375" lon="120.589268"/>
+      <trkpt lat="22.538992" lon="120.590111"/>
+      <trkpt lat="22.538155" lon="120.590448"/>
+      <trkpt lat="22.53702" lon="120.59145"/>
+      <trkpt lat="22.536541" lon="120.590894"/>
+      <trkpt lat="22.535953" lon="120.590592"/>
+      <trkpt lat="22.53757" lon="120.586242"/>
+      <trkpt lat="22.538946" lon="120.586201"/>
+      <trkpt lat="22.539119" lon="120.586506"/>
+      <trkpt lat="22.539151" lon="120.587198"/>
+      <trkpt lat="22.538516" lon="120.585539"/>
+      <trkpt lat="22.538325" lon="120.585802"/>
+      <trkpt lat="22.538173" lon="120.586705"/>
+      <trkpt lat="22.538045" lon="120.587522"/>
+      <trkpt lat="22.537807" lon="120.588321"/>
+      <trkpt lat="22.537298" lon="120.588632"/>
+      <trkpt lat="22.535883" lon="120.590313"/>
+    </trkseg>
+  </trk>
+</gpx>

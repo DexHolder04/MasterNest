@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="TheHigher">
+  <trk>
+    <name>carvanha_35.7340,139.7463</name>
+    <trkseg>
+      <trkpt lat="35.734109" lon="139.746280"/>
+      <trkpt lat="35.734145" lon="139.745835"/>
+      <trkpt lat="35.733789" lon="139.745466"/>
+      <trkpt lat="35.733050" lon="139.745591"/>
+      <trkpt lat="35.733027" lon="139.745324"/>
+      <trkpt lat="35.732410" lon="139.745443"/>
+      <trkpt lat="35.732372" lon="139.745123"/>
+      <trkpt lat="35.732791" lon="139.744540"/>
+      <trkpt lat="35.732898" lon="139.744107"/>
+      <trkpt lat="35.732285" lon="139.746012"/>
+      <trkpt lat="35.732233" lon="139.746444"/>
+      <trkpt lat="35.732309" lon="139.746981"/>
+      <trkpt lat="35.731791" lon="139.747204"/>
+      <trkpt lat="35.731846" lon="139.747561"/>
+      <trkpt lat="35.732200" lon="139.748297"/>
+      <trkpt lat="35.732416" lon="139.748405"/>
+      <trkpt lat="35.732696" lon="139.747586"/>
+      <trkpt lat="35.733110" lon="139.747686"/>
+      <trkpt lat="35.733874" lon="139.747656"/>
+      <trkpt lat="35.733771" lon="139.746748"/>
+      <trkpt lat="35.733739" lon="139.746409"/>
+      <trkpt lat="35.733146" lon="139.746539"/>
+    </trkseg>
+  </trk>
+</gpx>

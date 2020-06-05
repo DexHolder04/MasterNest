@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="TheHigher">
+  <trk>
+    <name>sudowoodo_13.7308,100.5406</name>
+    <trkseg>
+      <trkpt lat="13.732657" lon="100.539964"/>
+      <trkpt lat="13.732363" lon="100.539419"/>
+      <trkpt lat="13.731717" lon="100.538699"/>
+      <trkpt lat="13.731144" lon="100.538691"/>
+      <trkpt lat="13.730640" lon="100.538561"/>
+      <trkpt lat="13.730249" lon="100.539139"/>
+      <trkpt lat="13.730418" lon="100.539662"/>
+      <trkpt lat="13.730804" lon="100.540590"/>
+      <trkpt lat="13.730075" lon="100.541117"/>
+      <trkpt lat="13.730635" lon="100.541662"/>
+      <trkpt lat="13.731458" lon="100.541535"/>
+      <trkpt lat="13.731526" lon="100.542149"/>
+      <trkpt lat="13.732256" lon="100.541804"/>
+      <trkpt lat="13.732261" lon="100.541556"/>
+      <trkpt lat="13.732329" lon="100.542771"/>
+      <trkpt lat="13.732015" lon="100.543275"/>
+      <trkpt lat="13.732081" lon="100.544193"/>
+      <trkpt lat="13.731943" lon="100.544682"/>
+      <trkpt lat="13.730312" lon="100.544732"/>
+      <trkpt lat="13.729166" lon="100.544722"/>
+      <trkpt lat="13.728055" lon="100.544444"/>
+      <trkpt lat="13.727393" lon="100.543901"/>
+      <trkpt lat="13.727764" lon="100.543915"/>
+      <trkpt lat="13.728428" lon="100.543132"/>
+      <trkpt lat="13.728404" lon="100.542144"/>
+      <trkpt lat="13.728282" lon="100.540641"/>
+      <trkpt lat="13.728962" lon="100.538759"/>
+      <trkpt lat="13.729751" lon="100.537166"/>
+      <trkpt lat="13.730640" lon="100.538561"/>
+      <trkpt lat="13.729731" lon="100.538733"/>
+      <trkpt lat="13.728858" lon="100.540284"/>
+      <trkpt lat="13.728929" lon="100.540960"/>
+      <trkpt lat="13.728897" lon="100.541902"/>
+      <trkpt lat="13.729879" lon="100.542110"/>
+      <trkpt lat="13.729596" lon="100.543451"/>
+      <trkpt lat="13.729619" lon="100.544123"/>
+      <trkpt lat="13.730354" lon="100.543885"/>
+    </trkseg>
+  </trk>
+</gpx>

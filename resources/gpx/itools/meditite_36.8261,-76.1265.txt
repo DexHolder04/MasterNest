@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="TheHigher">
+  <trk>
+    <name>meditite_36.8261,-76.1265</name>
+    <trkseg>
+      <trkpt lat="36.825298" lon="-76.128429"/>
+      <trkpt lat="36.825680" lon="-76.128065"/>
+      <trkpt lat="36.826096" lon="-76.128851"/>
+      <trkpt lat="36.826281" lon="-76.128188"/>
+      <trkpt lat="36.825990" lon="-76.125959"/>
+      <trkpt lat="36.825587" lon="-76.124738"/>
+      <trkpt lat="36.825184" lon="-76.123360"/>
+      <trkpt lat="36.827821" lon="-76.121051"/>
+      <trkpt lat="36.829200" lon="-76.121132"/>
+      <trkpt lat="36.830118" lon="-76.120722"/>
+      <trkpt lat="36.830731" lon="-76.120129"/>
+      <trkpt lat="36.831974" lon="-76.121634"/>
+      <trkpt lat="36.831253" lon="-76.121546"/>
+      <trkpt lat="36.830701" lon="-76.121949"/>
+      <trkpt lat="36.831964" lon="-76.123552"/>
+      <trkpt lat="36.831978" lon="-76.124146"/>
+      <trkpt lat="36.832196" lon="-76.124843"/>
+      <trkpt lat="36.832347" lon="-76.125600"/>
+      <trkpt lat="36.830452" lon="-76.125475"/>
+      <trkpt lat="36.829683" lon="-76.128155"/>
+      <trkpt lat="36.828753" lon="-76.128270"/>
+      <trkpt lat="36.828396" lon="-76.128626"/>
+      <trkpt lat="36.828102" lon="-76.128491"/>
+      <trkpt lat="36.827568" lon="-76.129421"/>
+    </trkseg>
+  </trk>
+</gpx>

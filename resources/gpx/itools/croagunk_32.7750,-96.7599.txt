@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="TheHigher">
+  <trk>
+    <name>croagunk_32.7750,-96.7599</name>
+    <trkseg>
+      <trkpt lat="32.774922" lon="-96.759938"/>
+      <trkpt lat="32.775508" lon="-96.759995"/>
+      <trkpt lat="32.775889" lon="-96.760415"/>
+      <trkpt lat="32.776376" lon="-96.760170"/>
+      <trkpt lat="32.775976" lon="-96.759592"/>
+      <trkpt lat="32.775805" lon="-96.759402"/>
+      <trkpt lat="32.775360" lon="-96.759320"/>
+      <trkpt lat="32.774647" lon="-96.759233"/>
+      <trkpt lat="32.774401" lon="-96.760320"/>
+      <trkpt lat="32.776056" lon="-96.761426"/>
+      <trkpt lat="32.777085" lon="-96.761386"/>
+      <trkpt lat="32.777240" lon="-96.762155"/>
+      <trkpt lat="32.777721" lon="-96.761943"/>
+      <trkpt lat="32.777990" lon="-96.761349"/>
+      <trkpt lat="32.778419" lon="-96.761549"/>
+      <trkpt lat="32.779049" lon="-96.761231"/>
+      <trkpt lat="32.778929" lon="-96.760398"/>
+      <trkpt lat="32.778308" lon="-96.760620"/>
+      <trkpt lat="32.778319" lon="-96.759651"/>
+      <trkpt lat="32.778318" lon="-96.758476"/>
+      <trkpt lat="32.778651" lon="-96.758507"/>
+      <trkpt lat="32.779142" lon="-96.757835"/>
+      <trkpt lat="32.779882" lon="-96.757821"/>
+      <trkpt lat="32.780537" lon="-96.757643"/>
+      <trkpt lat="32.780609" lon="-96.757303"/>
+      <trkpt lat="32.781193" lon="-96.756950"/>
+      <trkpt lat="32.780800" lon="-96.758697"/>
+      <trkpt lat="32.780591" lon="-96.758788"/>
+      <trkpt lat="32.781529" lon="-96.759966"/>
+      <trkpt lat="32.781627" lon="-96.760261"/>
+      <trkpt lat="32.781304" lon="-96.760343"/>
+      <trkpt lat="32.781467" lon="-96.761146"/>
+      <trkpt lat="32.781252" lon="-96.761663"/>
+      <trkpt lat="32.780875" lon="-96.761586"/>
+      <trkpt lat="32.780833" lon="-96.761220"/>
+      <trkpt lat="32.780651" lon="-96.760747"/>
+      <trkpt lat="32.780062" lon="-96.761831"/>
+      <trkpt lat="32.779671" lon="-96.761746"/>
+      <trkpt lat="32.779739" lon="-96.762250"/>
+      <trkpt lat="32.778764" lon="-96.762272"/>
+      <trkpt lat="32.778505" lon="-96.762900"/>
+      <trkpt lat="32.777955" lon="-96.762827"/>
+      <trkpt lat="32.779030" lon="-96.763695"/>
+      <trkpt lat="32.779247" lon="-96.763362"/>
+      <trkpt lat="32.779688" lon="-96.763891"/>
+      <trkpt lat="32.779055" lon="-96.764444"/>
+      <trkpt lat="32.780175" lon="-96.766007"/>
+      <trkpt lat="32.780939" lon="-96.764995"/>
+      <trkpt lat="32.780990" lon="-96.763576"/>
+      <trkpt lat="32.781752" lon="-96.762731"/>
+    </trkseg>
+  </trk>
+</gpx>

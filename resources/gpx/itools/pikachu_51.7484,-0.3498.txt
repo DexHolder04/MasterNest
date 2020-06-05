@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="Higher">
+  <trk>
+    <name>pikachu_51.7484,-0.3498</name>
+    <trkseg>
+      <trkpt lat="51.751478" lon="-0.354779"/>
+      <trkpt lat="51.751087" lon="-0.354412"/>
+      <trkpt lat="51.750461" lon="-0.353694"/>
+      <trkpt lat="51.750206" lon="-0.354216"/>
+      <trkpt lat="51.749740" lon="-0.353256"/>
+      <trkpt lat="51.749313" lon="-0.352417"/>
+      <trkpt lat="51.749153" lon="-0.351416"/>
+      <trkpt lat="51.748732" lon="-0.351010"/>
+      <trkpt lat="51.748480" lon="-0.349886"/>
+      <trkpt lat="51.747891" lon="-0.350470"/>
+      <trkpt lat="51.747484" lon="-0.352234"/>
+      <trkpt lat="51.747234" lon="-0.352882"/>
+      <trkpt lat="51.746990" lon="-0.353390"/>
+      <trkpt lat="51.746598" lon="-0.354643"/>
+      <trkpt lat="51.746261" lon="-0.355577"/>
+      <trkpt lat="51.749221" lon="-0.354064"/>
+      <trkpt lat="51.749192" lon="-0.356322"/>
+      <trkpt lat="51.750886" lon="-0.355944"/>
+      <trkpt lat="51.752553" lon="-0.355871"/>
+      <trkpt lat="51.752519" lon="-0.355006"/>
+      <trkpt lat="51.751525" lon="-0.353375"/>
+      <trkpt lat="51.750692" lon="-0.352736"/>
+      <trkpt lat="51.752085" lon="-0.352104"/>
+      <trkpt lat="51.752229" lon="-0.351450"/>
+      <trkpt lat="51.752796" lon="-0.351022"/>
+      <trkpt lat="51.751793" lon="-0.350220"/>
+      <trkpt lat="51.750448" lon="-0.350342"/>
+      <trkpt lat="51.750265" lon="-0.349146"/>
+      <trkpt lat="51.749270" lon="-0.348239"/>
+    </trkseg>
+  </trk>
+</gpx>

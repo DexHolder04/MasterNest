@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="TheHigher">
+  <trk>
+    <name>kricketot_42.4187,-82.2084</name>
+    <trkseg>
+      <trkpt lat="42.419356" lon="-82.209966"/>
+      <trkpt lat="42.418516" lon="-82.209446"/>
+      <trkpt lat="42.419034" lon="-82.207264"/>
+      <trkpt lat="42.419374" lon="-82.207894"/>
+      <trkpt lat="42.419360" lon="-82.208272"/>
+      <trkpt lat="42.419643" lon="-82.208775"/>
+      <trkpt lat="42.420479" lon="-82.208497"/>
+    </trkseg>
+  </trk>
+</gpx>

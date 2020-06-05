@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx version="1.1" creator="GPS Visualizer https://www.gpsvisualizer.com/" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <trk>
+    <name>mudkip_35.7609,140.0615</name>
+    <trkseg>
+      <trkpt lat="35.760393" lon="140.063455"/>
+      <trkpt lat="35.760124" lon="140.06267"/>
+      <trkpt lat="35.759177" lon="140.064377"/>
+      <trkpt lat="35.758942" lon="140.064134"/>
+      <trkpt lat="35.759387" lon="140.06373"/>
+      <trkpt lat="35.758581" lon="140.063026"/>
+      <trkpt lat="35.759257" lon="140.062882"/>
+      <trkpt lat="35.759751" lon="140.06214"/>
+      <trkpt lat="35.76021" lon="140.061914"/>
+      <trkpt lat="35.761173" lon="140.063024"/>
+      <trkpt lat="35.76143" lon="140.062832"/>
+      <trkpt lat="35.761455" lon="140.062362"/>
+      <trkpt lat="35.760692" lon="140.062118"/>
+      <trkpt lat="35.759361" lon="140.058348"/>
+      <trkpt lat="35.759041" lon="140.058713"/>
+      <trkpt lat="35.758781" lon="140.058389"/>
+      <trkpt lat="35.75867" lon="140.059561"/>
+      <trkpt lat="35.758713" lon="140.060687"/>
+      <trkpt lat="35.759192" lon="140.06094"/>
+      <trkpt lat="35.759473" lon="140.060417"/>
+      <trkpt lat="35.759703" lon="140.061253"/>
+      <trkpt lat="35.760223" lon="140.061225"/>
+      <trkpt lat="35.762211" lon="140.061575"/>
+      <trkpt lat="35.762369" lon="140.062274"/>
+      <trkpt lat="35.762063" lon="140.061965"/>
+      <trkpt lat="35.762156" lon="140.061096"/>
+      <trkpt lat="35.761766" lon="140.061336"/>
+      <trkpt lat="35.760317" lon="140.058443"/>
+      <trkpt lat="35.760867" lon="140.060321"/>
+      <trkpt lat="35.761573" lon="140.061052"/>
+      <trkpt lat="35.76092" lon="140.061533"/>
+    </trkseg>
+  </trk>
+</gpx>

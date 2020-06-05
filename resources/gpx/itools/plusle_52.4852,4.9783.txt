@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="TheHigher">
+  <trk>
+    <name>plusle_52.4852,4.9783</name>
+    <trkseg>
+      <trkpt lat="52.485180" lon="4.978253"/>
+      <trkpt lat="52.484706" lon="4.977693"/>
+      <trkpt lat="52.484492" lon="4.978278"/>
+      <trkpt lat="52.483964" lon="4.978148"/>
+      <trkpt lat="52.483784" lon="4.977853"/>
+      <trkpt lat="52.483269" lon="4.978585"/>
+      <trkpt lat="52.483165" lon="4.979844"/>
+      <trkpt lat="52.482816" lon="4.980446"/>
+      <trkpt lat="52.482757" lon="4.981332"/>
+      <trkpt lat="52.482771" lon="4.982387"/>
+      <trkpt lat="52.482381" lon="4.982467"/>
+      <trkpt lat="52.483371" lon="4.982779"/>
+      <trkpt lat="52.484142" lon="4.982909"/>
+      <trkpt lat="52.484382" lon="4.982723"/>
+      <trkpt lat="52.484833" lon="4.982708"/>
+      <trkpt lat="52.485696" lon="4.982479"/>
+      <trkpt lat="52.486154" lon="4.982088"/>
+      <trkpt lat="52.486382" lon="4.981428"/>
+      <trkpt lat="52.486053" lon="4.980161"/>
+      <trkpt lat="52.485738" lon="4.980409"/>
+      <trkpt lat="52.485486" lon="4.980806"/>
+      <trkpt lat="52.485895" lon="4.979261"/>
+      <trkpt lat="52.485699" lon="4.977335"/>
+      <trkpt lat="52.485260" lon="4.976872"/>
+      <trkpt lat="52.486509" lon="4.976942"/>
+      <trkpt lat="52.487083" lon="4.975348"/>
+      <trkpt lat="52.488333" lon="4.976630"/>
+    </trkseg>
+  </trk>
+</gpx>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="DexHolder04">
+  <trk>
+    <name>bulbasaur_33.8113,-84.1453</name>
+    <trkseg>
+      <trkpt lat="33.811919" lon="-84.145316"/>
+      <trkpt lat="33.811802" lon="-84.145617"/>
+      <trkpt lat="33.811133" lon="-84.146001"/>
+      <trkpt lat="33.811022" lon="-84.145375"/>
+      <trkpt lat="33.811326" lon="-84.144742"/>
+      <trkpt lat="33.810741" lon="-84.144759"/>
+      <trkpt lat="33.810250" lon="-84.145013"/>
+      <trkpt lat="33.810050" lon="-84.144769"/>
+      <trkpt lat="33.809597" lon="-84.144346"/>
+      <trkpt lat="33.808889" lon="-84.143501"/>
+      <trkpt lat="33.809721" lon="-84.143280"/>
+      <trkpt lat="33.809956" lon="-84.142828"/>
+      <trkpt lat="33.810261" lon="-84.143181"/>
+      <trkpt lat="33.811437" lon="-84.142812"/>
+      <trkpt lat="33.811723" lon="-84.141700"/>
+      <trkpt lat="33.811889" lon="-84.142901"/>
+      <trkpt lat="33.812067" lon="-84.144294"/>
+      <trkpt lat="33.812985" lon="-84.144542"/>
+      <trkpt lat="33.813624" lon="-84.144097"/>
+      <trkpt lat="33.814017" lon="-84.142879"/>
+      <trkpt lat="33.816147" lon="-84.144139"/>
+      <trkpt lat="33.816272" lon="-84.144607"/>
+      <trkpt lat="33.815947" lon="-84.144950"/>
+      <trkpt lat="33.816247" lon="-84.145401"/>
+      <trkpt lat="33.816637" lon="-84.146533"/>
+    </trkseg>
+  </trk>
+</gpx>

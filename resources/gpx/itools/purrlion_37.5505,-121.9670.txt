@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="TheHigher">
+  <trk>
+    <name>purrlion_37.5505,-121.9670</name>
+    <trkseg>
+      <trkpt lat="37.550769" lon="-121.959440"/>
+      <trkpt lat="37.550320" lon="-121.959893"/>
+      <trkpt lat="37.550418" lon="-121.960227"/>
+      <trkpt lat="37.550636" lon="-121.960754"/>
+      <trkpt lat="37.550924" lon="-121.961212"/>
+      <trkpt lat="37.551310" lon="-121.961484"/>
+      <trkpt lat="37.551479" lon="-121.961874"/>
+      <trkpt lat="37.551459" lon="-121.962500"/>
+      <trkpt lat="37.550719" lon="-121.963490"/>
+      <trkpt lat="37.550797" lon="-121.964198"/>
+      <trkpt lat="37.550979" lon="-121.964777"/>
+      <trkpt lat="37.550723" lon="-121.965797"/>
+      <trkpt lat="37.550434" lon="-121.967139"/>
+      <trkpt lat="37.549458" lon="-121.966972"/>
+      <trkpt lat="37.549413" lon="-121.966162"/>
+      <trkpt lat="37.548593" lon="-121.965166"/>
+      <trkpt lat="37.548226" lon="-121.965262"/>
+      <trkpt lat="37.547567" lon="-121.965046"/>
+      <trkpt lat="37.547494" lon="-121.965306"/>
+      <trkpt lat="37.546702" lon="-121.965766"/>
+      <trkpt lat="37.546531" lon="-121.965043"/>
+      <trkpt lat="37.546132" lon="-121.965116"/>
+      <trkpt lat="37.545322" lon="-121.965184"/>
+      <trkpt lat="37.545460" lon="-121.964952"/>
+      <trkpt lat="37.545947" lon="-121.964293"/>
+      <trkpt lat="37.545275" lon="-121.964399"/>
+      <trkpt lat="37.544658" lon="-121.963839"/>
+      <trkpt lat="37.544401" lon="-121.963849"/>
+      <trkpt lat="37.543590" lon="-121.962767"/>
+      <trkpt lat="37.544140" lon="-121.962350"/>
+      <trkpt lat="37.543652" lon="-121.961741"/>
+      <trkpt lat="37.544911" lon="-121.962560"/>
+      <trkpt lat="37.545279" lon="-121.963311"/>
+      <trkpt lat="37.545525" lon="-121.962265"/>
+      <trkpt lat="37.545460" lon="-121.961651"/>
+      <trkpt lat="37.546208" lon="-121.960698"/>
+      <trkpt lat="37.546018" lon="-121.962454"/>
+      <trkpt lat="37.546536" lon="-121.962806"/>
+      <trkpt lat="37.547521" lon="-121.962391"/>
+      <trkpt lat="37.547450" lon="-121.962120"/>
+    </trkseg>
+  </trk>
+</gpx>
