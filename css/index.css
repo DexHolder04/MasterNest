@@ -425,3 +425,76 @@ input:checked + label:after {
     padding: 5px;
     background-color: var(--notice-bg);
 }
+
+.footer-container {
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-gap: 0px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-left: 8px;
+    padding-right: 8px;
+}
+
+.footerC {
+    grid-column: 1 / span 2;
+    text-align: center;
+    font-size: 14px;
+    line-height: 1.63;
+}
+
+.footerC1 {
+    grid-column: 1;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.footerC2 {
+    grid-column: 2;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.discordLogo {
+    font-size: 48px;
+    text-align: center;
+    line-height: 0.925;
+}
+
+.iToolsLogo {
+    height: 48px;
+}
+
+.iToolsInfo {
+    background: url("../resources/images/iToolsLogoTrans.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    min-height: 220px;
+}
+
+.iToolsFlex {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}
+
+.iToolsAffiliate {
+    background: #494949;
+    border: 2px solid #BABABA;
+    border-radius: 10px;
+    font-family: centurygoth;
+    color: white;
+    width: 150px;
+    line-height: 25px;
+    font-size: 18px;
+    text-align: center;
+    vertical-align: middle;
+    padding: 10px;
+    margin: 10px;
+}
+
+.iToolsAffiliate:hover {
+  background-color: rgba(120, 120, 120, 0.3);
+  border: 2px solid #FFF;
+}
