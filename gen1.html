@@ -35,16 +35,10 @@
             <h3 style="margin-bottom:0; margin-top:10px;"><span class="countdownTitle">Next Nest Migration:</span><br /><span id="clock"></span></h3>
         </div>
     </div>
-
-    <ul class="navbar">
-        <li><a id="home" href="index.html">Home</a></li>
-        <li><a id="gen1" href="gen1.html">Gen I</a></li>
-        <li><a id="gen2" href="gen2.html">Gen II</a></li>
-        <li><a id="gen3" href="gen3.html">Gen III</a></li>
-        <li><a id="gen4" href="gen4.html">Gen IV</a></li>
-        <li><a id="gen5" href="gen5.html">Gen V</a></li>
-        <li><a id="gpx" href="gpx.html">GPX</a></li>
+    
+    <ul class="navbar" id="newNavbar">
     </ul>
+    <div id="emptyStub"></div>
 
     <h2 style="text-align:center;">Select your Pokémon</h2>
     <select id="species" onchange="filterDropDown()" class='form-control'>
@@ -116,6 +110,7 @@
         });
         window.onload = buildHTMLPage();
         window.onload = buildHtmlTable();
+        window.onscroll = () => {stickyNavbar()};
     </script>
 
 </body>

@@ -36,17 +36,12 @@
             <h3 style="margin-bottom:0; margin-top:10px;"><span class="countdownTitle">Next Nest Migration:</span><br /><span id="clock"></span></h3>
         </div>
     </div>
-
-    <ul class="navbar">
-        <li><a id="home" href="index.html">Home</a></li>
-        <li><a id="gen1" href="gen1.html">Gen I</a></li>
-        <li><a id="gen2" href="gen2.html">Gen II</a></li>
-        <li><a id="gen3" href="gen3.html">Gen III</a></li>
-        <li><a id="gen4" href="gen4.html">Gen IV</a></li>
-        <li><a id="gen5" href="gen5.html">Gen V</a></li>
-        <li><a id="gpx" href="gpx.html">GPX</a></li>
+    
+    <ul class="navbar" id="newNavbar">
     </ul>
+    <div id="emptyStub"></div>
     <br />
+    
     <h4 style="text-align:center; margin-bottom:0em;"><a href="https://discord.gg/yaFNCak">[ CoolDown Club's ]</a></h4>
     <h1 class="title" style="margin-top:0em; margin-bottom:0em">The Master Nest</h1>
     <h4 style="font-family:lithos;; text-align:center; margin-top:0em;">A Nest Report</h4>
@@ -72,15 +67,16 @@
     <p align="center">/// ---------------------------------------------- ///</p>
     <br />
     <p class="bodyText">
-        This is <strong>migration 125</strong>. This one was <strong>okay I've had enough of throwback</strong>.
+        This is <strong>migration 126</strong>. This one was <strong>a breath of fresh air</strong>.
     </p>
     <p class="bodyText">
-        The <a href="https://pokemongolive.com/en/post/throwbackchallenge2020/">Throwback Challenge Event</a> is now reaching its end, and while the research and the bonus spawns were all fun I must say from a nest researcher standpoint I am more than ready to see this event go away.
-    <p class="bodyText">
-        Another tough migration, please consider that essentially anything reported for Gen IV may not be 100% accurate and we'll work in the coming days to double check our report's accuracy.
+        Today I am happy to report that there are <strong>no current in-game events</strong> going on at the moment. There are <a href="https://pokemongolive.com/en/post/jun2020-events/">several events coming for the month of June</a>, but we were definitely happy to have an easier time with research for these few days of peace.
     </p>
     <p class="bodyText">
-        With that said, feel free to report any and all errors in this migration's report over our Discord server <a href="https://discord.gg/yaFNCak">[here]</a>, as spawns are truly all over the place.
+        Also we have exciting news. We have recently settled a <strong>partnership with the iTools team</strong>, we are happy to be working together to bring the best Pokémon Go content to all of you. You can read all the details of this partnership in our <a href="./itools.html">iTools Partnership page</a>.
+    </p>
+    <p class="bodyText">
+        As always, feel free to report any and all errors in this migration's report over our Discord server <a href="https://discord.gg/yaFNCak">[here]</a>.
     </p>
     <br>
     <p class="bodyText">
@@ -117,6 +113,7 @@
             }
         });
         window.onload = buildHTMLPage();
+        window.onscroll = () => {stickyNavbar()};
     </script>
 </body>
 

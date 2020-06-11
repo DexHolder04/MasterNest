@@ -217,11 +217,8 @@ ul.navbar {
     list-style-type: none;
     margin: 0;
     padding: 0;
-    overflow: hidden;
+    overflow: auto;
     background-color: #333;
-    position: -webkit-sticky;
-    /*Safari*/
-    position: sticky;
     top: 0;
     border-radius: 0px;
     z-index: 99;
@@ -243,6 +240,15 @@ ul.navbar li a:hover {
     background-color: rgba(68, 180, 221, 0.44);
     color: white;
     text-decoration: none;
+}
+
+.navbarSticky {
+    position: fixed;
+    width: 100%;
+}
+
+.stubElement {
+    height: 50px;
 }
 
 .active {

@@ -7,9 +7,32 @@ function buildFooter() {
 
 }
 
+// Navbar building
+function buildNavbar() {
+    let navElement = document.getElementById("newNavbar"),
+        liArray = [],
+        aArray = [],
+        idArray = ["home", "gen1", "gen2", "gen3", "gen4", "gen5", "gpx"],
+        urlArray= ["index.html", "gen1.html", "gen2.html", "gen3.html", "gen4.html", "gen5.html", "gpx.html"],
+        textArray = ["Home", "Gen I", "Gen II", "Gen III", "Gen IV", "Gen V", "GPX"];
+    for (let i = 0; i < 7; i++) {
+        liArray[i] = document.createElement("li");
+        aArray[i] = document.createElement("a");
+        aArray[i].setAttribute("id", idArray[i]);
+        aArray[i].setAttribute("href", urlArray[i]);
+        text = document.createTextNode(textArray[i]);
+        
+        aArray[i].appendChild(text);
+        liArray[i].appendChild(aArray[i]);
+        navElement.appendChild(liArray[i])
+    }
+    let pageIndex = document.documentElement.getAttribute("data-page");
+    if (pageIndex == "itools") return;
+    document.getElementById(pageIndex).classList.add("active");
+}
+
 // Navbar minimizing
 function checkRes() {
-
     if (window.innerWidth <= 490) {
         document.getElementById(
             "home"
@@ -24,10 +47,26 @@ function checkRes() {
     } else {
         return
     }
-    
-    let pageIndex = document.documentElement.getAttribute("data-page");
-    if (pageIndex == "itools") return;
-    document.getElementById(pageIndex).classList.add("active");
+}
+
+// Navbar sticky
+function stickyNavbar() {
+    let topElement = document.getElementById("top"),
+        stubElement = document.getElementById("emptyStub"),
+        navbar = document.getElementById("newNavbar"),
+        offset = topElement.offsetHeight;
+    if (window.pageYOffset >= offset) {
+        /*navbar.style.position = "fixed";
+        navbar.style.width = "100%";
+        stubElement.style.height = "50px";*/
+        navbar.classList.add("navbarSticky");
+        stubElement.classList.add("stubElement")
+    } else {
+        /*navbar.style.position = "relative";
+        stubElement.style.height = "0px";*/
+        navbar.classList.remove("navbarSticky");
+        stubElement.classList.remove("stubElement")
+    }
 }
 
 // Dark/Light Theme Toggle
@@ -126,10 +165,11 @@ function frameshiftNotice() {
 
 // Merge all HTML functions in one single call
 function buildHTMLPage() {
-    
-        buildFooter();
-        checkRes();
-        checkTheme();
-        frameshiftNotice();  
-    
+
+    buildFooter();
+    buildNavbar();
+    checkRes();
+    checkTheme();
+    frameshiftNotice();
+
 }
