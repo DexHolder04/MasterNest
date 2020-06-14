@@ -511,4 +511,10 @@ input:checked + label:after {
     margin-left: auto;
     margin-right: auto;
 }
+    
+    #aswift_3_expand {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;        
+    }
 }
