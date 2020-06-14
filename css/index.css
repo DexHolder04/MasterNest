@@ -510,9 +510,12 @@ input:checked + label:after {
     display: block;
     margin-left: auto;
     margin-right: auto;
+    background: #DDD;
+    min-height: 20px;
+    max-width: 1200px;
 }
     
-    #aswift_3_expand {
+    #aswift_0_expand, #aswift_1_expand, #aswift_2_expand, #aswift_3_expand {
     display: block;
     margin-left: auto;
     margin-right: auto;        
