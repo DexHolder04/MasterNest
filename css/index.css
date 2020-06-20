@@ -437,7 +437,7 @@ input:checked + label:after {
     grid-template-columns: auto auto;
     grid-gap: 0px;
     margin-top: 10px;
-    margin-bottom: 10px;
+    margin-bottom: 12vh;
     padding-left: 8px;
     padding-right: 8px;
 }
