@@ -68,7 +68,7 @@ function buildHtmlTable() {
             let headCoordinates = document.createTextNode("Coordinates");
             headCell.appendChild(headCoordinates);
         } else {
-            let headLocale = document.createTextNode("Coordinates");
+            let headLocale = document.createTextNode("Locale");
             headCell.appendChild(headLocale);
         }
         headRow.appendChild(headCell);
