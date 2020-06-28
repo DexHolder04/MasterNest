@@ -527,12 +527,12 @@ input:checked + label:after {
 }
 }
 
-@media only screen and (max-width: 850px) {
+@media only screen and (max-width: 1000px) {
 
 .bottom {
     margin-bottom: 16vh;
 }
 .adContainer {
-    max-height: 450px;
+    max-height: 175px;
     
 }
