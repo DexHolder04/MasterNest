@@ -437,7 +437,6 @@ input:checked + label:after {
     grid-template-columns: auto auto;
     grid-gap: 0px;
     margin-top: 10px;
-    margin-bottom: 12vh;
     padding-left: 8px;
     padding-right: 8px;
 }
@@ -526,4 +525,12 @@ input:checked + label:after {
 .adContainer td {
     padding: 15px;
 }
+}
+
+@media only screen and (max-width: 850px) {
+
+.bottom {
+    margin-bottom: 16vh;
+}
+    
 }
