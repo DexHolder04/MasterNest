@@ -532,7 +532,5 @@ input:checked + label:after {
 .bottom {
     margin-bottom: 16vh;
 }
-.adContainer {
-    max-height: 175px;
     
 }

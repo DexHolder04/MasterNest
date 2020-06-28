@@ -5,6 +5,7 @@ function noAds() {
     displayAds = false;
     
     let adContainers = document.getElementsByClassName("adContainer"),
+        footer = document.getElementById("footer"),
         paypalContainer = document.createElement("div"),
         paypalTable = document.createElement("table"),
         paypalTableRow = document.createElement("tr"),
@@ -19,6 +20,7 @@ function noAds() {
     paypalTable.style.width = "100%";
     paypalContainer.setAttribute("class", "paypalContainer");
     paypalContainer.innerHTML = paypalTable.outerHTML;
+    footer.style.marginBottom = 0;
     
     for (let i = 0; i < adContainers.length; i++) {
         adContainers[i].innerHTML = paypalContainer.outerHTML;
