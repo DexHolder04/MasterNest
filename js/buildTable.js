@@ -1,5 +1,5 @@
 let migrationDate = '2020-07-09T00:00:00Z';
-let noticeText = "Due to the Pokémon Go Fest Challenge event, <strong>Bulbasaur, Charmander, Squirtle and Pikachu</strong> have all been removed from the wild and have caused a frameshift migration rendering some nests from the report inaccurate. Please keep that in mind while we update the report. Thanks!";
+let noticeText = "Due to the Pokémon Go Fest Challenge event, <strong>Pikachu</strong> has been removed from the wild and has caused a frameshift migration rendering some nests from the report inaccurate. Please keep that in mind while we update the report. Thanks!";
 let notice = true;
 
 function buildHtmlTable() {
