@@ -105,8 +105,7 @@
                 '%M Minutes ' +
                 '%S Seconds</countdown>'));
             if (event.elapsed) {
-                alert("Migration has just ocurred, please come back later!");
-                location.reload()
+                window.location.replace("https://themasternest.com/")
             }
         });
         window.onload = buildHTMLPage();

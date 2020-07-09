@@ -1,6 +1,6 @@
 let migrationDate = '2020-07-09T00:00:00Z';
 let noticeText = "Due to the Pokémon Go Fest Challenge event, <strong>Pikachu</strong> has been removed from the wild and has caused a frameshift migration rendering some nests from the report inaccurate. Please keep that in mind while we update the report. Thanks!";
-let notice = true;
+let notice = false;
 
 function buildHtmlTable() {
     let tableData = nestData;
