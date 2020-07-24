@@ -1,5 +1,5 @@
-let migrationDate = '2020-07-23T00:00:00Z';
-let noticeText = "<strong>This is a premature report for Migration 128</strong>. The Pokémon Go Fest Challenge Week 2 event will be starting in some parts of the world in a little under 12 hours affecting nesting species; we will update the report again once the event is live worldwide. Until then, happy hunting!";
+let migrationDate = '2020-08-06T00:00:00Z';
+let noticeText = "<strong>Pokémon Go Fest is currently active in some areas of the world</strong>. Nesting pools may be disrupted through the duration of the event in local time, please be weary of this while browsing our report. Happy hunting!";
 let notice = false;
 
 function buildHtmlTable() {
