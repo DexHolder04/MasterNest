@@ -1,4 +1,4 @@
-let migrationDate = '2020-08-06T00:00:00Z';
+let migrationDate = '2020-08-20T00:00:00Z';
 let noticeText = "<strong>Pokémon Go Fest is currently active in some areas of the world</strong>. Nesting pools may be disrupted through the duration of the event in local time, please be weary of this while browsing our report. Happy hunting!";
 let notice = false;
 
