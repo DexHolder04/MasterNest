@@ -165,20 +165,6 @@ function buildHtmlTableGPX() {
     tableHtml.appendChild(tableHead);
 }
 
-async function infoTest() {
-  const data = { empty: "empty" };
-  const options = {
-    method: "POST",
-    headers: {
-      "Content-Type": "application/json"
-    },
-    body: JSON.stringify(data)
-  };
-  const response = await fetch("https://cdc-user-tools.glitch.me/info", options);
-  const responseJSON = await response.json();
-  console.log(responseJSON)
-}
-
 // Calls for clipboard.js
 var clipboard = new ClipboardJS(".btn");
 
