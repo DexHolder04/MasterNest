@@ -5,10 +5,32 @@ var nestData = [
     "DexNo": 152,
     "DexString": "152",
     "Shiny": true,
-    "Coordinates": "53.5959,10.0152",
-    "Locale": "Hamburg, Germany",
-    "Timestamp": 1596712508213,
-    "GPX": "chikorita_53.5959,10.0152"
+    "Coordinates": "51.5064,-0.1567",
+    "Locale": "London, UK",
+    "Timestamp": 1597897587172,
+    "GPX": "chikorita_51.5064,-0.1567"
+  },
+  {
+    "Pokemon": "Chikorita",
+    "Gen": 2,
+    "DexNo": 152,
+    "DexString": "152",
+    "Shiny": true,
+    "Coordinates": "51.7484,-0.3498",
+    "Locale": "St Albans, UK",
+    "Timestamp": 1597898059675,
+    "GPX": "chikorita_51.7484,-0.3498"
+  },
+  {
+    "Pokemon": "Chikorita",
+    "Gen": 2,
+    "DexNo": 152,
+    "DexString": "152",
+    "Shiny": true,
+    "Coordinates": "52.0571,4.2890",
+    "Locale": "The Hague, Netherlands",
+    "Timestamp": 1597898171991,
+    "GPX": "chikorita_52.0571,4.2890"
   },
   {
     "Pokemon": "Cyndaquil",
@@ -16,10 +38,10 @@ var nestData = [
     "DexNo": 155,
     "DexString": "155",
     "Shiny": true,
-    "Coordinates": "35.3705,137.0293",
-    "Locale": "Gifu, Japan",
-    "Timestamp": 1596785401544,
-    "GPX": "cyndaquil_35.3705,137.0293"
+    "Coordinates": "19.4224,-99.1891",
+    "Locale": "Mexico City, Mexico",
+    "Timestamp": 1597884925135,
+    "GPX": "cyndaquil_19.4224,-99.1891"
   },
   {
     "Pokemon": "Cyndaquil",
@@ -27,10 +49,21 @@ var nestData = [
     "DexNo": 155,
     "DexString": "155",
     "Shiny": true,
-    "Coordinates": "35.6727,139.6950",
-    "Locale": "Tokyo, Japan",
-    "Timestamp": 1596785862450,
-    "GPX": "cyndaquil_35.6727,139.6950"
+    "Coordinates": "41.3595,2.1558",
+    "Locale": "Barcelona, Spain",
+    "Timestamp": 1597893029054,
+    "GPX": "cyndaquil_41.3595,2.1558"
+  },
+  {
+    "Pokemon": "Cyndaquil",
+    "Gen": 2,
+    "DexNo": 155,
+    "DexString": "155",
+    "Shiny": true,
+    "Coordinates": "43.0446,141.4972",
+    "Locale": "Hokkaido, Japan",
+    "Timestamp": 1597894457632,
+    "GPX": "cyndaquil_43.0446,141.4972"
   },
   {
     "Pokemon": "Totodile",
@@ -38,87 +71,76 @@ var nestData = [
     "DexNo": 158,
     "DexString": "158",
     "Shiny": true,
-    "Coordinates": "32.7750,-96.7599",
-    "Locale": "Texas, USA",
-    "Timestamp": 1596677186406,
-    "GPX": "totodile_32.7750,-96.7599"
+    "Coordinates": "-6.1255,106.8364",
+    "Locale": "Jakarta, Indonesia",
+    "Timestamp": 1597883693727,
+    "GPX": "totodile_-6.1255,106.8364"
   },
   {
-    "Pokemon": "Chinchou",
+    "Pokemon": "Totodile",
     "Gen": 2,
-    "DexNo": 170,
-    "DexString": "170",
+    "DexNo": 158,
+    "DexString": "158",
     "Shiny": true,
-    "Coordinates": "35.6787,139.7165",
-    "Locale": "Tokyo, Japan",
-    "Timestamp": 1596785911531,
-    "GPX": "chinchou_35.6787,139.7165"
-  },
-  {
-    "Pokemon": "Chinchou",
-    "Gen": 2,
-    "DexNo": 170,
-    "DexString": "170",
-    "Shiny": true,
-    "Coordinates": "39.8755,-75.6710",
-    "Locale": "Pennsylvania, USA",
-    "Timestamp": 1596673373049,
-    "GPX": "chinchou_39.8755,-75.6710"
-  },
-  {
-    "Pokemon": "Sudowoodo",
-    "Gen": 2,
-    "DexNo": 185,
-    "DexString": "185",
-    "Shiny": true,
-    "Coordinates": "1.3151,103.8163",
-    "Locale": "Singapore Botanic Gardens",
-    "Timestamp": 1596676436906,
-    "GPX": "sudowoodo_1.3151,103.8163"
-  },
-  {
-    "Pokemon": "Sudowoodo",
-    "Gen": 2,
-    "DexNo": 185,
-    "DexString": "185",
-    "Shiny": true,
-    "Coordinates": "1.3786,103.8971",
-    "Locale": "Punggol Park, Singapore",
-    "Timestamp": 1596676665434,
-    "GPX": "sudowoodo_1.3786,103.8971"
-  },
-  {
-    "Pokemon": "Sudowoodo",
-    "Gen": 2,
-    "DexNo": 185,
-    "DexString": "185",
-    "Shiny": true,
-    "Coordinates": "47.5157,19.0771",
-    "Locale": "Budapest, Hungary",
-    "Timestamp": 1596676336771,
-    "GPX": "sudowoodo_47.5157,19.0771"
-  },
-  {
-    "Pokemon": "Aipom",
-    "Gen": 2,
-    "DexNo": 190,
-    "DexString": "190",
-    "Shiny": true,
-    "Coordinates": "-37.7314,144.8378",
-    "Locale": "Victoria, Australia",
-    "Timestamp": 1596675147769,
-    "GPX": "aipom_-37.7314,144.8378"
-  },
-  {
-    "Pokemon": "Aipom",
-    "Gen": 2,
-    "DexNo": 190,
-    "DexString": "190",
-    "Shiny": true,
-    "Coordinates": "34.1467,-118.2902",
+    "Coordinates": "37.8055,-122.2577",
     "Locale": "California, USA",
-    "Timestamp": 1596677506239,
-    "GPX": "aipom_34.1467,-118.2902"
+    "Timestamp": 1597890726926,
+    "GPX": "totodile_37.8055,-122.2577"
+  },
+  {
+    "Pokemon": "Totodile",
+    "Gen": 2,
+    "DexNo": 158,
+    "DexString": "158",
+    "Shiny": true,
+    "Coordinates": "40.7737,-96.7724",
+    "Locale": "Nebraska, USA",
+    "Timestamp": 1597892877977,
+    "GPX": "totodile_40.7737,-96.7724"
+  },
+  {
+    "Pokemon": "Totodile",
+    "Gen": 2,
+    "DexNo": 158,
+    "DexString": "158",
+    "Shiny": true,
+    "Coordinates": "48.8772,2.2650",
+    "Locale": "Paris, France",
+    "Timestamp": 1597896456532,
+    "GPX": "totodile_48.8772,2.2650"
+  },
+  {
+    "Pokemon": "Totodile",
+    "Gen": 2,
+    "DexNo": 158,
+    "DexString": "158",
+    "Shiny": true,
+    "Coordinates": "49.9264,4.5214",
+    "Locale": "Rocroi, France",
+    "Timestamp": 1597896924093,
+    "GPX": "totodile_49.9264,4.5214"
+  },
+  {
+    "Pokemon": "Sudowoodo",
+    "Gen": 2,
+    "DexNo": 185,
+    "DexString": "185",
+    "Shiny": true,
+    "Coordinates": "40.7709,-73.9726",
+    "Locale": "New York, USA",
+    "Timestamp": 1597892800863,
+    "GPX": "sudowoodo_40.7709,-73.9726"
+  },
+  {
+    "Pokemon": "Sudowoodo",
+    "Gen": 2,
+    "DexNo": 185,
+    "DexString": "185",
+    "Shiny": true,
+    "Coordinates": "48.1508,16.4026",
+    "Locale": "Vienna, Austria",
+    "Timestamp": 1597896216303,
+    "GPX": "sudowoodo_48.1508,16.4026"
   },
   {
     "Pokemon": "Aipom",
@@ -126,32 +148,21 @@ var nestData = [
     "DexNo": 190,
     "DexString": "190",
     "Shiny": true,
-    "Coordinates": "41.8762,-87.6197",
-    "Locale": "Illinois, USA",
-    "Timestamp": 1596675160421,
-    "GPX": "aipom_41.8762,-87.6197"
+    "Coordinates": "35.7082,139.3946",
+    "Locale": "Tokyo, Japan",
+    "Timestamp": 1597888400189,
+    "GPX": "aipom_35.7082,139.3946"
   },
   {
-    "Pokemon": "Misdreavus",
+    "Pokemon": "Yanma",
     "Gen": 2,
-    "DexNo": 200,
-    "DexString": "200",
+    "DexNo": 193,
+    "DexString": "193",
     "Shiny": true,
-    "Coordinates": "22.6560,120.2849",
-    "Locale": "Kaohsiung City, Taiwan",
-    "Timestamp": 1596677406838,
-    "GPX": "misdreavus_22.6560,120.2849"
-  },
-  {
-    "Pokemon": "Misdreavus",
-    "Gen": 2,
-    "DexNo": 200,
-    "DexString": "200",
-    "Shiny": true,
-    "Coordinates": "47.5273,19.0501",
-    "Locale": "Budapest, Hungary",
-    "Timestamp": 1596676391364,
-    "GPX": "misdreavus_47.5273,19.0501"
+    "Coordinates": "34.9353,134.9404",
+    "Locale": "Hyogo, Japan",
+    "Timestamp": 1597887625906,
+    "GPX": "yanma_34.9353,134.9404"
   },
   {
     "Pokemon": "Wobbuffet",
@@ -159,10 +170,21 @@ var nestData = [
     "DexNo": 202,
     "DexString": "202",
     "Shiny": true,
-    "Coordinates": "50.6933,4.0473",
-    "Locale": "Enghien, Belgium",
-    "Timestamp": 1596702929845,
-    "GPX": "wobbuffet_50.6933,4.0473"
+    "Coordinates": "-6.3028,106.8947",
+    "Locale": "Jakarta, Indonesia",
+    "Timestamp": 1597883754470,
+    "GPX": "wobbuffet_-6.3028,106.8947"
+  },
+  {
+    "Pokemon": "Wobbuffet",
+    "Gen": 2,
+    "DexNo": 202,
+    "DexString": "202",
+    "Shiny": true,
+    "Coordinates": "42.3383,-82.9854",
+    "Locale": "Michigan, USA",
+    "Timestamp": 1597893890859,
+    "GPX": "wobbuffet_42.3383,-82.9854"
   },
   {
     "Pokemon": "Girafarig",
@@ -170,21 +192,10 @@ var nestData = [
     "DexNo": 203,
     "DexString": "203",
     "Shiny": false,
-    "Coordinates": "48.1587,11.5975",
-    "Locale": "Munich, Germany",
-    "Timestamp": 1596676796174,
-    "GPX": "girafarig_48.1587,11.5975"
-  },
-  {
-    "Pokemon": "Girafarig",
-    "Gen": 2,
-    "DexNo": 203,
-    "DexString": "203",
-    "Shiny": false,
-    "Coordinates": "51.4816,-0.1579",
-    "Locale": "London, UK",
-    "Timestamp": 1596704121849,
-    "GPX": "girafarig_51.4816,-0.1579"
+    "Coordinates": "51.4805,-0.2942",
+    "Locale": "Richmond, UK",
+    "Timestamp": 1597897359296,
+    "GPX": "girafarig_51.4805,-0.2942"
   },
   {
     "Pokemon": "Dunsparce",
@@ -192,10 +203,10 @@ var nestData = [
     "DexNo": 206,
     "DexString": "206",
     "Shiny": true,
-    "Coordinates": "13.7308,100.5406",
-    "Locale": "Bangkok, Thailand",
-    "Timestamp": 1596677072745,
-    "GPX": "dunsparce_13.7308,100.5406"
+    "Coordinates": "-41.3045,174.7906",
+    "Locale": "Wellington, New Zealand",
+    "Timestamp": 1597883579229,
+    "GPX": "dunsparce_-41.3045,174.7906"
   },
   {
     "Pokemon": "Dunsparce",
@@ -203,10 +214,10 @@ var nestData = [
     "DexNo": 206,
     "DexString": "206",
     "Shiny": true,
-    "Coordinates": "35.3479,136.9880",
-    "Locale": "Aichi, Japan",
-    "Timestamp": 1596785335238,
-    "GPX": "dunsparce_35.3479,136.9880"
+    "Coordinates": "36.3727,140.2634",
+    "Locale": "Ibaraki, Japan",
+    "Timestamp": 1597889262698,
+    "GPX": "dunsparce_36.3727,140.2634"
   },
   {
     "Pokemon": "Dunsparce",
@@ -214,10 +225,10 @@ var nestData = [
     "DexNo": 206,
     "DexString": "206",
     "Shiny": true,
-    "Coordinates": "39.7778,-75.5000",
-    "Locale": "Delaware, USA",
-    "Timestamp": 1596690049126,
-    "GPX": "dunsparce_39.7778,-75.5000"
+    "Coordinates": "37.8855,58.3870",
+    "Locale": "Ashgabat, Turkmenistan",
+    "Timestamp": 1597890919529,
+    "GPX": "dunsparce_37.8855,58.3870"
   },
   {
     "Pokemon": "Snubbull",
@@ -225,43 +236,32 @@ var nestData = [
     "DexNo": 209,
     "DexString": "209",
     "Shiny": true,
-    "Coordinates": "37.7201,-122.4131",
+    "Coordinates": "35.6787,139.7165",
+    "Locale": "Tokyo, Japan",
+    "Timestamp": 1597888340955,
+    "GPX": "snubbull_35.6787,139.7165"
+  },
+  {
+    "Pokemon": "Qwilfish",
+    "Gen": 2,
+    "DexNo": 211,
+    "DexString": "211",
+    "Shiny": true,
+    "Coordinates": "25.6792,-100.2856",
+    "Locale": "Nuevo Leon, Mexico",
+    "Timestamp": 1597885640320,
+    "GPX": "qwilfish_25.6792,-100.2856"
+  },
+  {
+    "Pokemon": "Qwilfish",
+    "Gen": 2,
+    "DexNo": 211,
+    "DexString": "211",
+    "Shiny": true,
+    "Coordinates": "34.0349,-118.0570",
     "Locale": "California, USA",
-    "Timestamp": 1596687991202,
-    "GPX": "snubbull_37.7201,-122.4131"
-  },
-  {
-    "Pokemon": "Snubbull",
-    "Gen": 2,
-    "DexNo": 209,
-    "DexString": "209",
-    "Shiny": true,
-    "Coordinates": "42.3542,-71.0705",
-    "Locale": "Massachusetts, USA",
-    "Timestamp": 1596675694425,
-    "GPX": "snubbull_42.3542,-71.0705"
-  },
-  {
-    "Pokemon": "Qwilfish",
-    "Gen": 2,
-    "DexNo": 211,
-    "DexString": "211",
-    "Shiny": true,
-    "Coordinates": "51.4921,6.8592",
-    "Locale": "Oberhausen, Germany",
-    "Timestamp": 1596704331793,
-    "GPX": "qwilfish_51.4921,6.8592"
-  },
-  {
-    "Pokemon": "Qwilfish",
-    "Gen": 2,
-    "DexNo": 211,
-    "DexString": "211",
-    "Shiny": true,
-    "Coordinates": "52.1581,-106.5844",
-    "Locale": "Saskatchewan, Canada",
-    "Timestamp": 1596714913560,
-    "GPX": "qwilfish_52.1581,-106.5844"
+    "Timestamp": 1597886762527,
+    "GPX": "qwilfish_34.0349,-118.0570"
   },
   {
     "Pokemon": "Shuckle",
@@ -269,43 +269,43 @@ var nestData = [
     "DexNo": 213,
     "DexString": "213",
     "Shiny": true,
-    "Coordinates": "41.7971,140.7568",
-    "Locale": "Hokkaido, Japan",
-    "Timestamp": 1596675006681,
-    "GPX": "shuckle_41.7971,140.7568"
+    "Coordinates": "34.8091,135.5324",
+    "Locale": "Osaka, Japan",
+    "Timestamp": 1597887514756,
+    "GPX": "shuckle_34.8091,135.5324"
   },
   {
-    "Pokemon": "Shuckle",
+    "Pokemon": "Teddiursa",
     "Gen": 2,
-    "DexNo": 213,
-    "DexString": "213",
+    "DexNo": 216,
+    "DexString": "216",
     "Shiny": true,
-    "Coordinates": "51.7755,0.1002",
-    "Locale": "Harlow, United Kingdom",
-    "Timestamp": 1596712014839,
-    "GPX": "shuckle_51.7755,0.1002"
+    "Coordinates": "39.8903,32.8430",
+    "Locale": "Ankara, Turkey",
+    "Timestamp": 1597891925424,
+    "GPX": "teddiursa_39.8903,32.8430"
   },
   {
-    "Pokemon": "Sneasel",
+    "Pokemon": "Teddiursa",
     "Gen": 2,
-    "DexNo": 215,
-    "DexString": "215",
+    "DexNo": 216,
+    "DexString": "216",
     "Shiny": true,
-    "Coordinates": "34.7194,137.4342",
-    "Locale": "Aichi, Japan",
-    "Timestamp": 1596678147171,
-    "GPX": "sneasel_34.7194,137.4342"
+    "Coordinates": "40.7472,-73.8455",
+    "Locale": "New York, USA",
+    "Timestamp": 1597892535982,
+    "GPX": "teddiursa_40.7472,-73.8455"
   },
   {
-    "Pokemon": "Sneasel",
+    "Pokemon": "Teddiursa",
     "Gen": 2,
-    "DexNo": 215,
-    "DexString": "215",
+    "DexNo": 216,
+    "DexString": "216",
     "Shiny": true,
-    "Coordinates": "45.5154,-122.7169",
-    "Locale": "Oregon, USA",
-    "Timestamp": 1596676128325,
-    "GPX": "sneasel_45.5154,-122.7169"
+    "Coordinates": "43.6534,-87.7282",
+    "Locale": "Wisconsin, USA",
+    "Timestamp": 1597894794563,
+    "GPX": "teddiursa_43.6534,-87.7282"
   },
   {
     "Pokemon": "Swinub",
@@ -313,10 +313,10 @@ var nestData = [
     "DexNo": 220,
     "DexString": "220",
     "Shiny": true,
-    "Coordinates": "-36.8622,174.7735",
-    "Locale": "Auckland, New Zealand",
-    "Timestamp": 1596674887786,
-    "GPX": "swinub_-36.8622,174.7735"
+    "Coordinates": "22.5359,120.5903",
+    "Locale": "Pingtung, Taiwan",
+    "Timestamp": 1597885110254,
+    "GPX": "swinub_22.5359,120.5903"
   },
   {
     "Pokemon": "Swinub",
@@ -324,10 +324,21 @@ var nestData = [
     "DexNo": 220,
     "DexString": "220",
     "Shiny": true,
-    "Coordinates": "12.9751,77.5923",
-    "Locale": "Karnataka, India",
-    "Timestamp": 1596676989121,
-    "GPX": "swinub_12.9751,77.5923"
+    "Coordinates": "35.7609,140.0615",
+    "Locale": "Chiba, Japan",
+    "Timestamp": 1597888512597,
+    "GPX": "swinub_35.7609,140.0615"
+  },
+  {
+    "Pokemon": "Swinub",
+    "Gen": 2,
+    "DexNo": 220,
+    "DexString": "220",
+    "Shiny": true,
+    "Coordinates": "37.3257,-121.8612",
+    "Locale": "California, USA",
+    "Timestamp": 1597889793221,
+    "GPX": "swinub_37.3257,-121.8612"
   },
   {
     "Pokemon": "Mantine",
@@ -335,21 +346,10 @@ var nestData = [
     "DexNo": 226,
     "DexString": "226",
     "Shiny": false,
-    "Coordinates": "-20.4523,-54.5707",
-    "Locale": "Mato Grosso do Sul, Brazil",
-    "Timestamp": 1596673572929,
-    "GPX": "mantine_-20.4523,-54.5707"
-  },
-  {
-    "Pokemon": "Mantine",
-    "Gen": 2,
-    "DexNo": 226,
-    "DexString": "226",
-    "Shiny": false,
-    "Coordinates": "43.2399,-79.8316",
-    "Locale": "Ontario, Canada",
-    "Timestamp": 1596674740067,
-    "GPX": "mantine_43.2399,-79.8316"
+    "Coordinates": "29.7172,-95.3944",
+    "Locale": "Texas, USA",
+    "Timestamp": 1597885876877,
+    "GPX": "mantine_29.7172,-95.3944"
   },
   {
     "Pokemon": "Skarmory",
@@ -357,10 +357,10 @@ var nestData = [
     "DexNo": 227,
     "DexString": "227",
     "Shiny": true,
-    "Coordinates": "51.4155,-0.3368",
-    "Locale": "Hampton, United Kingdom",
-    "Timestamp": 1596703656517,
-    "GPX": "skarmory_51.4155,-0.3368"
+    "Coordinates": "37.7685,-122.4827",
+    "Locale": "California, USA",
+    "Timestamp": 1597890680652,
+    "GPX": "skarmory_37.7685,-122.4827"
   },
   {
     "Pokemon": "Phanpy",
@@ -368,10 +368,10 @@ var nestData = [
     "DexNo": 231,
     "DexString": "231",
     "Shiny": false,
-    "Coordinates": "34.5393,135.4392",
-    "Locale": "Osaka, Japan",
-    "Timestamp": 1596677776711,
-    "GPX": "phanpy_34.5393,135.4392"
+    "Coordinates": "36.2426,139.5435",
+    "Locale": "Gunma, Japan",
+    "Timestamp": 1597889110383,
+    "GPX": "phanpy_36.2426,139.5435"
   },
   {
     "Pokemon": "Phanpy",
@@ -379,10 +379,10 @@ var nestData = [
     "DexNo": 231,
     "DexString": "231",
     "Shiny": false,
-    "Coordinates": "38.8780,-94.7011",
-    "Locale": "Kansas, USA",
-    "Timestamp": 1596689726748,
-    "GPX": "phanpy_38.8780,-94.7011"
+    "Coordinates": "36.9391,140.9176",
+    "Locale": "Fukushima, Japan",
+    "Timestamp": 1597889609062,
+    "GPX": "phanpy_36.9391,140.9176"
   },
   {
     "Pokemon": "Phanpy",
@@ -390,31 +390,20 @@ var nestData = [
     "DexNo": 231,
     "DexString": "231",
     "Shiny": false,
-    "Coordinates": "43.0446,141.4972",
-    "Locale": "Hokkaido, Japan",
-    "Timestamp": 1596674692632,
-    "GPX": "phanpy_43.0446,141.4972"
+    "Coordinates": "43.7928,87.6006",
+    "Locale": "Xinjiang, China",
+    "Timestamp": 1597894907918,
+    "GPX": "phanpy_43.7928,87.6006"
   },
   {
-    "Pokemon": "Stantler",
+    "Pokemon": "Phanpy",
     "Gen": 2,
-    "DexNo": 234,
-    "DexString": "234",
-    "Shiny": true,
-    "Coordinates": "-6.5982,106.7994",
-    "Locale": "West Java, Indonesia",
-    "Timestamp": 1596676052665,
-    "GPX": "stantler_-6.5982,106.7994"
-  },
-  {
-    "Pokemon": "Stantler",
-    "Gen": 2,
-    "DexNo": 234,
-    "DexString": "234",
-    "Shiny": true,
-    "Coordinates": "37.8855,58.3870",
-    "Locale": "Ashgabat, Turkmenistan",
-    "Timestamp": 1596688425949,
-    "GPX": "stantler_37.8855,58.3870"
+    "DexNo": 231,
+    "DexString": "231",
+    "Shiny": false,
+    "Coordinates": "52.0597,-0.7273",
+    "Locale": "Willen, UK",
+    "Timestamp": 1597898210993,
+    "GPX": "phanpy_52.0597,-0.7273"
   }
 ];
