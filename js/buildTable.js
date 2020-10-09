@@ -1,6 +1,6 @@
 let migrationDate = '2020-10-15T00:00:00Z';
-let noticeText = "After the end of the <strong>Mega September Week 1 event</strong> some species have returned to the nesting pool, causing a frameshift migration. <strong>Some</strong> nests have changed, so keep that in mind while you browse our report. We'll update it as soon as possible!";
-let notice = false;
+let noticeText = "With the start of the <strong>Autumn Event</strong> current nesting species have been disrupted. <strong>Some</strong> nests have changed, so keep that in mind while you browse our report. We'll update it as soon as possible!";
+let notice = true;
 
 function buildHtmlTable() {
     let tableData = nestData;
