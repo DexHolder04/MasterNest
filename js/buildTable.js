@@ -1,4 +1,4 @@
-let migrationDate = '2020-10-15T00:00:00Z';
+let migrationDate = '2020-29-15T00:00:00Z';
 let noticeText = "With the start of the <strong>Autumn Event</strong> current nesting species have been disrupted. <strong>Some</strong> nests have changed, so keep that in mind while you browse our report. We'll update it as soon as possible!";
 let notice = false;
 
