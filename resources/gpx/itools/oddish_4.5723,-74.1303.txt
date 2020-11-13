@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="TheHigher">
+  <trk>
+    <name>oddish_4.5723,-74.1303</name>
+    <trkseg>
+      <trkpt lat="4.571346" lon="-74.136823"/>
+      <trkpt lat="4.571255" lon="-74.136008"/>
+      <trkpt lat="4.571590" lon="-74.135765"/>
+      <trkpt lat="4.572234" lon="-74.136488"/>
+      <trkpt lat="4.572684" lon="-74.136025"/>
+      <trkpt lat="4.572977" lon="-74.135406"/>
+      <trkpt lat="4.574256" lon="-74.134727"/>
+      <trkpt lat="4.574968" lon="-74.134550"/>
+      <trkpt lat="4.574051" lon="-74.133661"/>
+      <trkpt lat="4.573999" lon="-74.133421"/>
+      <trkpt lat="4.573634" lon="-74.133341"/>
+      <trkpt lat="4.573107" lon="-74.133394"/>
+      <trkpt lat="4.573558" lon="-74.132277"/>
+      <trkpt lat="4.574926" lon="-74.131453"/>
+      <trkpt lat="4.574563" lon="-74.130952"/>
+      <trkpt lat="4.574835" lon="-74.130432"/>
+      <trkpt lat="4.574442" lon="-74.130129"/>
+      <trkpt lat="4.573382" lon="-74.130526"/>
+      <trkpt lat="4.572214" lon="-74.130858"/>
+      <trkpt lat="4.572043" lon="-74.129813"/>
+      <trkpt lat="4.571488" lon="-74.129931"/>
+      <trkpt lat="4.571159" lon="-74.129652"/>
+      <trkpt lat="4.570706" lon="-74.130419"/>
+      <trkpt lat="4.570787" lon="-74.130591"/>
+      <trkpt lat="4.571299" lon="-74.132672"/>
+      <trkpt lat="4.570949" lon="-74.132930"/>
+      <trkpt lat="4.569321" lon="-74.134767"/>
+      <trkpt lat="4.568976" lon="-74.135230"/>
+      <trkpt lat="4.569163" lon="-74.135217"/>
+    </trkseg>
+  </trk>
+</gpx>
