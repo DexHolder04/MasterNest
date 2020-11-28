@@ -444,7 +444,7 @@ var nestData = [
     "Gen": 1,
     "DexNo": 84,
     "DexString": "084",
-    "Shiny": false,
+    "Shiny": true,
     "Coordinates": "-6.3028,106.8947",
     "Locale": "Jakarta, Indonesia",
     "Timestamp": 1606506001145,
@@ -455,7 +455,7 @@ var nestData = [
     "Gen": 1,
     "DexNo": 84,
     "DexString": "084",
-    "Shiny": false,
+    "Shiny": true,
     "Coordinates": "44.8612,-93.6175",
     "Locale": "Minnesota, USA",
     "Timestamp": 1606411253256,
@@ -466,7 +466,7 @@ var nestData = [
     "Gen": 1,
     "DexNo": 84,
     "DexString": "084",
-    "Shiny": false,
+    "Shiny": true,
     "Coordinates": "49.3015,-123.1334",
     "Locale": "British Columbia, Canada",
     "Timestamp": 1606512560516,
@@ -477,11 +477,22 @@ var nestData = [
     "Gen": 1,
     "DexNo": 84,
     "DexString": "084",
-    "Shiny": false,
+    "Shiny": true,
     "Coordinates": "51.5064,-0.1567",
     "Locale": "London, UK",
     "Timestamp": 1606513326298,
     "GPX": "doduo_51.5064,-0.1567"
+  },
+  {
+    "Pokemon": "Doduo",
+    "Gen": 1,
+    "DexNo": 84,
+    "DexString": "084",
+    "Shiny": true,
+    "Coordinates": "34.6611,135.6671",
+    "Locale": "Osaka, Japan",
+    "Timestamp": 1606353511549,
+    "GPX": "eevee_34.6611,135.6671"
   },
   {
     "Pokemon": "Shellder",
@@ -779,17 +790,6 @@ var nestData = [
     "Locale": "California, USA",
     "Timestamp": 1606353178820,
     "GPX": "eevee_34.1467,-118.2902"
-  },
-  {
-    "Pokemon": "Eevee",
-    "Gen": 1,
-    "DexNo": 133,
-    "DexString": "133",
-    "Shiny": true,
-    "Coordinates": "34.6611,135.6671",
-    "Locale": "Osaka, Japan",
-    "Timestamp": 1606353511549,
-    "GPX": "eevee_34.6611,135.6671"
   },
   {
     "Pokemon": "Eevee",
