@@ -1,6 +1,6 @@
 let migrationDate = '2020-12-10T00:00:00Z';
-let noticeText = "With the end of the <strong>Autumn Event</strong> Deerling has been removed from the nest pool. <strong>Some</strong> nests have changed, so keep that in mind while you browse our report. We'll update it as soon as possible!";
-let notice = false;
+let noticeText = "With the introduction of <strong>Seasons</strong> in Pokémon Go, we are already seeing new species introduced to the nest pool, causing some of our report to be invalid. Furthermore, we have the Kalos release in a few days. Once that's live, we'll update our report!";
+let notice = true;
 
 function buildHtmlTable() {
     let tableData = nestData;
