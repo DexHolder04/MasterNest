@@ -1,6 +1,6 @@
 let migrationDate = '2020-12-24T00:00:00Z';
-let noticeText = "With the introduction of <strong>Seasons</strong> in Pokémon Go, we are already seeing new species introduced to the nest pool, causing some of our report to be invalid. Furthermore, we have the Kalos release in a few days. Once that's live, we'll update our report!";
-let notice = false;
+let noticeText = "With the <strong>Secrets of the Jungle</strong> event coming to an end across the globe, we're experiencing a frameshift migraion in some nests; we'll do our best to update our report as soon as we can, so keep that in mind as you browse the site!";
+let notice = true;
 
 function buildHtmlTable() {
     let tableData = nestData;
