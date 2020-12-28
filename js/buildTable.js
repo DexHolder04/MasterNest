@@ -1,4 +1,4 @@
-let migrationDate = '2020-12-24T00:00:00Z';
+let migrationDate = '2021-01-07T00:00:00Z';
 let noticeText = "With the <strong>Secrets of the Jungle</strong> event coming to an end across the globe, we're experiencing a frameshift migraion in some nests; we'll do our best to update our report as soon as we can, so keep that in mind as you browse the site!";
 let notice = true;
 
