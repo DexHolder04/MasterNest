@@ -1,3 +1,29 @@
+// Migration Banner
+function displayMigrationBanner() {
+    let banner = document.getElementById("migrationBanner"),
+        bannerHeadRaw = `<div class="top"> <div class="boundbox"> <br><h1 class="title">Master Nest</h1> <br></div></div><br>`,
+        bannerTextRaw = `<br><h5 align="center" style="margin-left:10%; margin-right: 10%">Welcome to the Master Nest!</h5> <h5 align="center" style="margin-left:10%; margin-right: 10%">Our report for <strong>Migration ${nextMigration}</strong> is currently under research! Please be patient while we finish investigating.</h5> <h5 align="center" style="margin-left:10%; margin-right: 10%">In the meantime, consider visiting us in our Discord server and checking out the #nest-submissions channel where we may post some nests. You can access by clicking <a href="https://discord.gg/yaFNCak">[here]</a>. Don't forget to select a role to see all channels!</h5> <br/> <br/> <h5 align="center">Thanks so much for stopping by, see you all soon!</h5> <h5 align="center">-Dex</h5><br><p align="center">/// ---------------- Advertisement ---------------- ///</p><br>`,
+        bannerAdRaw = `<div class="adContainer"><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2515590153151954" data-ad-slot="4091474439" data-ad-format="auto" data-full-width-responsive="true"></ins></div>`,
+        bannerHead = document.createElement("div"),
+        bannerText = document.createElement("div"),
+        bannerAd = document.createElement("div");
+    bannerHead.innerHTML = bannerHeadRaw;
+    bannerText.innerHTML = bannerTextRaw;
+    bannerAd.innerHTML = bannerAdRaw;
+    banner.appendChild(bannerHead);
+    banner.appendChild(bannerText);
+    banner.appendChild(bannerAd);
+    banner.style.display = "block";
+    console.log("Banner built!")
+    
+    if (!displayAds) noAds();
+}
+
+function hideMigrationBanner() {
+    let banner = document.getElementById("migrationBanner");
+    banner.style.display = "none";
+}
+
 // Insert Footer
 function buildFooter() {
 
@@ -163,6 +189,26 @@ function frameshiftNotice() {
 
 }
 
+// Calculate time till next migration and update countdown
+function calcCountdown() {
+
+    let timespan = countdown(null, migration, countdown.DAYS|countdown.HOURS|countdown.MINUTES|countdown.SECONDS);
+    //console.log(timespan.toString()),
+        countdownSpan = document.getElementById("clock"),
+        countdownText = `<countdown>${timespan.days} Days ${timespan.hours} Hours<br>${timespan.minutes} Minutes ${timespan.seconds} Seconds</countdown>`;
+    countdownSpan.innerHTML = countdownText;
+    migrationCountdown = timespan.value;
+    
+    if (migrationCountdown < 0) {
+        clearInterval(clock);
+        displayMigrationBanner();
+        document.title = "Master Nest - Migration in Progress"
+    }
+    
+    return timespan;
+    
+}
+
 // Merge all HTML functions in one single call
 function buildHTMLPage() {
 
@@ -171,6 +217,5 @@ function buildHTMLPage() {
     checkRes();
     checkTheme();
     frameshiftNotice();
-    noAds();
 
 }

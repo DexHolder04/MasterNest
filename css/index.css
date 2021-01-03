@@ -221,7 +221,7 @@ ul.navbar {
     background-color: #333;
     top: 0;
     border-radius: 0px;
-    z-index: 99;
+    z-index: 2000;
 }
 
 ul.navbar li {
@@ -512,6 +512,16 @@ input:checked + label:after {
 }
 .paypalContainer {
     padding: 6px;    
+}
+
+.migrationBanner {
+    display: none;
+    position: fixed;
+    width: 100vw;
+    height: 100vh;
+    background-color: var(--bg-color);
+    color: var(--text-color);
+    z-index: 2001;
 }
 
 @media only screen and (min-width: 1200px) {
