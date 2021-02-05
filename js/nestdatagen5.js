@@ -1,68 +1,79 @@
 var nestData = [
   {
     "Pokemon": "Drilbur",
-    "Gen": 1,
+    "Gen": 5,
     "DexNo": 529,
     "DexString": "529",
     "Shiny": false,
-    "Coordinates": "-22.9261,-43.1703",
-    "Locale": "Rio de Janeiro, Brazil",
-    "Timestamp": 1611313964422,
-    "GPX": "drilbur_-22.9261,-43.1703"
+    "Coordinates": "-37.7874,144.9508",
+    "Locale": "Victoria, Australia",
+    "Timestamp": 1612525538545,
+    "GPX": "drilbur_-37.7874,144.9508"
   },
   {
     "Pokemon": "Drilbur",
-    "Gen": 1,
+    "Gen": 5,
     "DexNo": 529,
     "DexString": "529",
     "Shiny": false,
-    "Coordinates": "34.0152,-118.2869",
+    "Coordinates": "25.6792,-100.2856",
+    "Locale": "Nuevo Leon, Mexico",
+    "Timestamp": 1612525706783,
+    "GPX": "drilbur_25.6792,-100.2856"
+  },
+  {
+    "Pokemon": "Drilbur",
+    "Gen": 5,
+    "DexNo": 529,
+    "DexString": "529",
+    "Shiny": false,
+    "Coordinates": "34.0349,-118.0570",
     "Locale": "California, USA",
-    "Timestamp": 1611314013294,
-    "GPX": "drilbur_34.0152,-118.2869"
+    "Timestamp": 1612525876686,
+    "GPX": "drilbur_34.0349,-118.0570"
   },
   {
     "Pokemon": "Drilbur",
-    "Gen": 1,
+    "Gen": 5,
     "DexNo": 529,
     "DexString": "529",
     "Shiny": false,
-    "Coordinates": "34.2273,135.1711",
-    "Locale": "Wakayama, Japan",
-    "Timestamp": 1611193881556,
-    "GPX": "drilbur_34.2273,135.1711"
+    "Coordinates": "35.7082,139.3946",
+    "Locale": "Tokyo, Japan",
+    "Timestamp": 1612401532088,
+    "GPX": "drilbur_35.7082,139.3946"
   },
   {
     "Pokemon": "Drilbur",
-    "Gen": 1,
+    "Gen": 5,
     "DexNo": 529,
     "DexString": "529",
     "Shiny": false,
-    "Coordinates": "35.3705,137.0293",
-    "Locale": "Gifu, Japan",
-    "Timestamp": 1611203249308,
-    "GPX": "drilbur_35.3705,137.0293"
+    "Coordinates": "38.6400,-90.2846",
+    "Locale": "Missouri, USA",
+    "Timestamp": 1612407462321,
+    "GPX": "drilbur_38.6400,-90.2846"
   },
   {
     "Pokemon": "Drilbur",
-    "Gen": 1,
+    "Gen": 5,
     "DexNo": 529,
     "DexString": "529",
     "Shiny": false,
-    "Coordinates": "39.8723,-75.1894",
-    "Locale": "New Jersey, USA",
-    "Timestamp": 1611314578030,
-    "GPX": "drilbur_39.8723,-75.1894"
+    "Coordinates": "41.8472,-87.6101",
+    "Locale": "Illinois, USA",
+    "Timestamp": 1612525120407,
+    "GPX": "drilbur_41.8472,-87.6101"
   },
   {
     "Pokemon": "Drilbur",
-    "Gen": 1,
+    "Gen": 5,
     "DexNo": 529,
     "DexString": "529",
     "Shiny": false,
-    "Coordinates": "40.7472,-73.8455",
-    "Locale": "New York, USA",
-    "Timestamp": 1611315207182,
-    "GPX": "drilbur_40.7472,-73.8455"
+    "Coordinates": "52.4852,4.9783",
+    "Locale": "Purmerend, Netherlands",
+    "Timestamp": 1612524725352,
+    "GPX": "drilbur_52.4852,4.9783"
   }
 ];
