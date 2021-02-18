@@ -12,7 +12,7 @@ function displayMigrationBanner() {
     bannerAd.innerHTML = bannerAdRaw;
     banner.appendChild(bannerHead);
     banner.appendChild(bannerText);
-    //banner.appendChild(bannerAd);
+    banner.appendChild(bannerAd);
     banner.style.display = "block";
     console.log("Banner built!")
     
@@ -38,10 +38,10 @@ function buildNavbar() {
     let navElement = document.getElementById("newNavbar"),
         liArray = [],
         aArray = [],
-        idArray = ["home", "gen1", "gen2", "gen3", "gen4", "gen5", "gpx"],
-        urlArray= ["index.html", "gen1.html", "gen2.html", "gen3.html", "gen4.html", "gen5.html", "gpx.html"],
-        textArray = ["Home", "Gen I", "Gen II", "Gen III", "Gen IV", "Gen V", "GPX"];
-    for (let i = 0; i < 7; i++) {
+        idArray = ["home", "gen1", "gen2", "gen3", "gen4", "gen5", "gen6", "gpx"],
+        urlArray= ["index.html", "gen1.html", "gen2.html", "gen3.html", "gen4.html", "gen5.html", "gen6.html", "gpx.html"],
+        textArray = ["Home", "Gen I", "Gen II", "Gen III", "Gen IV", "Gen V", "Gen VI", "GPX"];
+    for (let i = 0; i < 8; i++) {
         liArray[i] = document.createElement("li");
         aArray[i] = document.createElement("a");
         aArray[i].setAttribute("id", idArray[i]);
@@ -50,6 +50,7 @@ function buildNavbar() {
         
         aArray[i].appendChild(text);
         liArray[i].appendChild(aArray[i]);
+        liArray[i].style.width = "12.475%"
         navElement.appendChild(liArray[i])
     }
     let pageIndex = document.documentElement.getAttribute("data-page");
@@ -60,16 +61,14 @@ function buildNavbar() {
 // Navbar minimizing
 function checkRes() {
     if (window.innerWidth <= 490) {
-        document.getElementById(
-            "home"
-        ).innerHTML = `<i class="fas fa-home faNavbar"></i>`;
+        document.getElementById("home").innerHTML = `<i class="fas fa-home faNavbar"></i>`
         document.getElementById("gen1").innerHTML = "I";
         document.getElementById("gen2").innerHTML = "II";
         document.getElementById("gen3").innerHTML = "III";
         document.getElementById("gen4").innerHTML = "IV";
         document.getElementById("gen5").innerHTML = "V";
-        document.getElementById("gpx").innerHTML =
-            `<i class="far fa-map faNavbar"></i>`;
+        document.getElementById("gen6").innerHTML = "VI";
+        document.getElementById("gpx").innerHTML = `<i class="far fa-map faNavbar"></i>`;
     } else {
         return
     }
@@ -209,7 +208,7 @@ function calcCountdown() {
     
 }
 
-// Merge all HTML functions in one single call
+// Merge all HTML functions in a single call
 function buildHTMLPage() {
 
     buildFooter();
