@@ -3,7 +3,8 @@ function displayMigrationBanner() {
     let banner = document.getElementById("migrationBanner"),
         bannerHeadRaw = `<div class="top"> <div class="boundbox"> <br><h1 class="title">Master Nest</h1> <br></div></div><br>`,
         bannerTextRaw = `<br><h5 align="center" style="margin-left:10%; margin-right: 10%">Welcome to the Master Nest!</h5> <h5 align="center" style="margin-left:10%; margin-right: 10%">Our report for <strong>Migration ${nextMigration}</strong> is currently under research! Please be patient while we finish investigating.</h5> <h5 align="center" style="margin-left:10%; margin-right: 10%">In the meantime, consider visiting us in our Discord server and checking out the #nest-submissions channel where we may post some nests. You can access by clicking <a href="https://discord.gg/yaFNCak">[here]</a>. Don't forget to select a role to see all channels!</h5> <br/> <br/> <h5 align="center">Thanks so much for stopping by, see you all soon!</h5> <h5 align="center">-Dex</h5><br><p align="center">/// ---------------- Advertisement ---------------- ///</p><br>`,
-        bannerAdRaw = `<div class="adContainer"><ins class="adsbygoogle"style="display:block"data-ad-client="ca-pub-2515590153151954"data-ad-slot="6900739057"data-ad-format="auto"data-full-width-responsive="true"></ins></div>`,
+        bannerAdRaw = `<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Migration Ad --><div class="adContainer"><ins class="adsbygoogle"style="display:block"data-ad-client="ca-pub-2515590153151954"data-ad-slot="6900739057"data-ad-format="auto"data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div>`,
         bannerHead = document.createElement("div"),
         bannerText = document.createElement("div"),
         bannerAd = document.createElement("div");
