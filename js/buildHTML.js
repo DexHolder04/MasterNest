@@ -13,7 +13,7 @@ function displayMigrationBanner() {
     bannerAd.innerHTML = bannerAdRaw;
     banner.appendChild(bannerHead);
     banner.appendChild(bannerText);
-    //banner.appendChild(bannerAd);
+    banner.appendChild(bannerAd);
     banner.style.display = "block";
     console.log("Banner built!")
     
