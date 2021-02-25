@@ -43,7 +43,8 @@ function buildNavbar() {
         //gen 6 idArray = ["home", "gen1", "gen2", "gen3", "gen4", "gen5", "gen6", "gpx"],
         urlArray= ["index.html", "gen1.html", "gen2.html", "gen3.html", "gen4.html", "gen5.html",  "gpx.html"],
         //gen 6 urlArray= ["index.html", "gen1.html", "gen2.html", "gen3.html", "gen4.html", "gen5.html", "gen6.html", "gpx.html"],
-        textArray = ["Home", "Gen I", "Gen II", "Gen III", "Gen IV", "Gen V", "Gen VI", "GPX"];
+        textArray = ["Home", "Gen I", "Gen II", "Gen III", "Gen IV", "Gen VI", "GPX"];
+        //gen 6 textArray = ["Home", "Gen I", "Gen II", "Gen III", "Gen IV", "Gen V", "Gen VI", "GPX"];
     for (let i = 0; i < 7; i++) {
         liArray[i] = document.createElement("li");
         aArray[i] = document.createElement("a");
