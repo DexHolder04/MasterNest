@@ -102,11 +102,9 @@
     <!-- Body JS -->
     <script src="js/countdown.js" type="text/javascript"></script>
     <script src="js/buildTable.js" type="text/javascript"></script>
-    <script type="text/javascript">
-        migrationCountdown = 0,
-    </script>
     <script src="js/buildHTML.js" type="text/javascript"></script>
     <script type="text/javascript">
+        migrationCountdown = 0;
         window.onload = buildHTMLPage();
         window.onscroll = () => {stickyNavbar()};
         let clock = setInterval(calcCountdown, 1000);
