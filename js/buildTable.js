@@ -2,8 +2,8 @@ let nextMigration = 145,
     migrationDate = '2021-03-04T00:00:00Z',
     migration = new Date(migrationDate),
     migrationCountdown = 1,
-    noticeText = "With the <strong>Secrets of the Jungle</strong> event coming to an end across the globe, we're experiencing a frameshift migraion in some nests; we'll do our best to update our report as soon as we can, so keep that in mind as you browse the site!",
-    notice = false;
+    noticeText = "With the start of the <strong>Season of Legends</strong> nests have gradually been shifting and most of our report is now invalid. We're doing our best to assess what species are currently in the nesting pool, and we'll probably wait for the next migation cycle to update our report. Thanks for understanding!",
+    notice = true;
 
 function buildHtmlTable() {
     let tableData = nestData;
