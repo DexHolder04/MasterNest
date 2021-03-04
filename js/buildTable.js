@@ -3,7 +3,7 @@ let nextMigration = 146,
     migration = new Date(migrationDate),
     migrationCountdown = 1,
     noticeText = "With the start of the <strong>Season of Legends</strong> nests have gradually been shifting and most of our report is now invalid. We're doing our best to assess what species are currently in the nesting pool, and we'll probably wait for the next migation cycle to update our report. Thanks for understanding!",
-    notice = true;
+    notice = false;
 
 function buildHtmlTable() {
     let tableData = nestData;
