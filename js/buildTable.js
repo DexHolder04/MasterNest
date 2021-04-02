@@ -1,5 +1,5 @@
-let nextMigration = 147,
-    migrationDate = '2021-04-01T00:00:00Z',
+let nextMigration = 148,
+    migrationDate = '2021-04-14T00:00:00Z',
     migration = new Date(migrationDate),
     migrationCountdown = 1,
     noticeText = "With the start of the <strong>Season of Legends</strong> nests have gradually been shifting and most of our report is now invalid. We're doing our best to assess what species are currently in the nesting pool, and we'll probably wait for the next migation cycle to update our report. Thanks for understanding!",
