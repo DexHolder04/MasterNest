@@ -1,8 +1,8 @@
-let nextMigration = 149,
-    migrationDate = '2021-04-29T00:00:00Z',
+let nextMigration = 150,
+    migrationDate = '2021-05-13T00:00:00Z',
     migration = new Date(migrationDate),
     migrationCountdown = 1,
-    noticeText = "With the start of the <strong>Season of Legends</strong> nests have gradually been shifting and most of our report is now invalid. We're doing our best to assess what species are currently in the nesting pool, and we'll probably wait for the next migation cycle to update our report. Thanks for understanding!",
+    noticeText = "This list will be valid until May 02 2021, 8:00PM local time, as there will be a frameshift migration once <strong>Lotad and Ducklett</strong> return to the nest pool. We'll update our report soon after, so keep that in mind as you browse this report.",
     notice = false;
 
 function buildHtmlTable() {
