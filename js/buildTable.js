@@ -3,7 +3,7 @@ let nextMigration = 150,
     migration = new Date(migrationDate),
     migrationCountdown = 1,
     noticeText = "This list will be valid until May 02 2021, 8:00PM local time, as there will be a frameshift migration once <strong>Lotad and Ducklett</strong> return to the nest pool. We'll update our report soon after, so keep that in mind as you browse this report.",
-    notice = false;
+    notice = true;
 
 function buildHtmlTable() {
     let tableData = nestData;
