@@ -1,8 +1,8 @@
-let nextMigration = 151,
-    migrationDate = '2021-05-27T00:00:00Z',
+let nextMigration = 152,
+    migrationDate = '2021-06-10T00:00:00Z',
     migration = new Date(migrationDate),
     migrationCountdown = 1,
-    noticeText = "We updated our report as of May 4th, thanks for your patience! Keep in mind ongoing events while visiting your chosen nest. Happy hunting!",
+    noticeText = "The Season of Legends is now finished! There is now a new nesting pool in place, so most of our report is now invalid. We're working hard to update our report ASAP, so just keep that in mind while while you browse our report, thanks for understanding!",
     notice = false;
 
 function buildHtmlTable() {
