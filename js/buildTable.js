@@ -3,7 +3,7 @@ let nextMigration = 152,
     migration = new Date(migrationDate),
     migrationCountdown = 1,
     noticeText = "The Season of Legends is now finished! There is now a new nesting pool in place, so most of our report is now invalid. We're working hard to update our report ASAP, so just keep that in mind while while you browse our report, thanks for understanding!",
-    notice = false;
+    notice = true;
 
 function buildHtmlTable() {
     let tableData = nestData;
