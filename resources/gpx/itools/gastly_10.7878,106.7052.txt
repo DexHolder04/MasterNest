@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="Higher">
+  <trk>
+    <name>gastly_10.7878,106.7052</name>
+    <trkseg>
+      <trkpt lat="10.787523" lon="106.706143"/>
+      <trkpt lat="10.786837" lon="106.706049"/>
+      <trkpt lat="10.786515" lon="106.706285"/>
+      <trkpt lat="10.785653" lon="106.706870"/>
+      <trkpt lat="10.784977" lon="106.707229"/>
+      <trkpt lat="10.784596" lon="106.707705"/>
+      <trkpt lat="10.785320" lon="106.707827"/>
+      <trkpt lat="10.785610" lon="106.708202"/>
+      <trkpt lat="10.785966" lon="106.707629"/>
+      <trkpt lat="10.787073" lon="106.707847"/>
+      <trkpt lat="10.786539" lon="106.708559"/>
+      <trkpt lat="10.787110" lon="106.709006"/>
+      <trkpt lat="10.787575" lon="106.707884"/>
+      <trkpt lat="10.788293" lon="106.707355"/>
+      <trkpt lat="10.788823" lon="106.706962"/>
+      <trkpt lat="10.790002" lon="106.706012"/>
+      <trkpt lat="10.790123" lon="106.705436"/>
+      <trkpt lat="10.789586" lon="106.704695"/>
+      <trkpt lat="10.789053" lon="106.704380"/>
+      <trkpt lat="10.788674" lon="106.705130"/>
+      <trkpt lat="10.789029" lon="106.705090"/>
+      <trkpt lat="10.789317" lon="106.705909"/>
+      <trkpt lat="10.787493" lon="106.705152"/>
+      <trkpt lat="10.786973" lon="106.705503"/>
+    </trkseg>
+  </trk>
+</gpx>
