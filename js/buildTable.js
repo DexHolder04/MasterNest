@@ -1,9 +1,9 @@
-let nextMigration = 165,
-    migrationDate = '2021-12-09T00:00:00Z',
+let nextMigration = 166,
+    migrationDate = '2021-12-23T00:00:00Z',
     migration = new Date(migrationDate),
     migrationCountdown = 1,
     noticeText = "The Season of Mischief is now finished! There is now a new nesting pool in place, so most of our report is now invalid. We're working hard to update our report ASAP, so just keep that in mind while while you browse our report, thanks for understanding!",
-    notice = true;
+    notice = false;
 
 function buildHtmlTable() {
     let tableData = nestData;
