@@ -7,7 +7,7 @@ var nestData = [
     "Shiny": false,
     "Coordinates": "34.9353,134.9404",
     "Locale": "Hyogo, Japan",
-    "Timestamp": 1641540432883,
+    "Timestamp": 1642284696755,
     "GPX": "chespin_34.9353,134.9404"
   },
   {
@@ -18,7 +18,7 @@ var nestData = [
     "Shiny": false,
     "Coordinates": "35.6787,139.7165",
     "Locale": "Tokyo, Japan",
-    "Timestamp": 1641541305916,
+    "Timestamp": 1642285572907,
     "GPX": "chespin_35.6787,139.7165"
   },
   {
@@ -29,7 +29,7 @@ var nestData = [
     "Shiny": false,
     "Coordinates": "37.1709,-93.3270",
     "Locale": "Missouri, USA",
-    "Timestamp": 1641496154259,
+    "Timestamp": 1642289066998,
     "GPX": "chespin_37.1709,-93.3270"
   },
   {
@@ -40,7 +40,7 @@ var nestData = [
     "Shiny": false,
     "Coordinates": "37.5170,127.1209",
     "Locale": "Seoul, South Korea",
-    "Timestamp": 1641507479809,
+    "Timestamp": 1642289233743,
     "GPX": "chespin_37.5170,127.1209"
   },
   {
@@ -51,7 +51,7 @@ var nestData = [
     "Shiny": false,
     "Coordinates": "37.5792,126.9768",
     "Locale": "Seoul, South Korea",
-    "Timestamp": 1641570468867,
+    "Timestamp": 1642289627166,
     "GPX": "chespin_37.5792,126.9768"
   },
   {
@@ -62,7 +62,7 @@ var nestData = [
     "Shiny": false,
     "Coordinates": "37.7685,-122.4827",
     "Locale": "California, USA",
-    "Timestamp": 1641570900874,
+    "Timestamp": 1642289891093,
     "GPX": "chespin_37.7685,-122.4827"
   },
   {
@@ -73,7 +73,7 @@ var nestData = [
     "Shiny": false,
     "Coordinates": "39.8755,-75.6710",
     "Locale": "Pennsylvania, USA",
-    "Timestamp": 1641579071884,
+    "Timestamp": 1642291165027,
     "GPX": "chespin_39.8755,-75.6710"
   },
   {
@@ -84,7 +84,7 @@ var nestData = [
     "Shiny": false,
     "Coordinates": "40.6535,-74.2461",
     "Locale": "New Jersey, USA",
-    "Timestamp": 1641543113683,
+    "Timestamp": 1642291411899,
     "GPX": "chespin_40.6535,-74.2461"
   },
   {
@@ -95,7 +95,7 @@ var nestData = [
     "Shiny": false,
     "Coordinates": "42.4187,-82.2084",
     "Locale": "Ontario, Canada",
-    "Timestamp": 1641545263451,
+    "Timestamp": 1642292400827,
     "GPX": "chespin_42.4187,-82.2084"
   },
   {
@@ -106,7 +106,7 @@ var nestData = [
     "Shiny": false,
     "Coordinates": "42.5286,-83.6755",
     "Locale": "Michigan, USA",
-    "Timestamp": 1641545340707,
+    "Timestamp": 1642292527732,
     "GPX": "chespin_42.5286,-83.6755"
   },
   {
@@ -117,7 +117,7 @@ var nestData = [
     "Shiny": false,
     "Coordinates": "47.7103,-122.3671",
     "Locale": "Washington, USA",
-    "Timestamp": 1641547029218,
+    "Timestamp": 1642297276117,
     "GPX": "chespin_47.7103,-122.3671"
   },
   {
@@ -128,7 +128,7 @@ var nestData = [
     "Shiny": false,
     "Coordinates": "35.3813,-94.3748",
     "Locale": "Arkansas, USA",
-    "Timestamp": 1641540886748,
+    "Timestamp": 1642285134795,
     "GPX": "fennekin_35.3813,-94.3748"
   },
   {
@@ -139,7 +139,7 @@ var nestData = [
     "Shiny": false,
     "Coordinates": "35.7340,139.7463",
     "Locale": "Tokyo, Japan",
-    "Timestamp": 1641541587388,
+    "Timestamp": 1642286405825,
     "GPX": "fennekin_35.7340,139.7463"
   },
   {
@@ -150,7 +150,7 @@ var nestData = [
     "Shiny": false,
     "Coordinates": "36.9016,-76.2002",
     "Locale": "Virginia, USA",
-    "Timestamp": 1641495978207,
+    "Timestamp": 1642288930047,
     "GPX": "fennekin_36.9016,-76.2002"
   },
   {
@@ -161,7 +161,7 @@ var nestData = [
     "Shiny": false,
     "Coordinates": "41.5721,-93.6385",
     "Locale": "Iowa, USA",
-    "Timestamp": 1641544201707,
+    "Timestamp": 1642291774195,
     "GPX": "fennekin_41.5721,-93.6385"
   },
   {
@@ -172,7 +172,7 @@ var nestData = [
     "Shiny": false,
     "Coordinates": "44.0212,-88.5179",
     "Locale": "Wisconsin, USA",
-    "Timestamp": 1641546019682,
+    "Timestamp": 1642296209510,
     "GPX": "fennekin_44.0212,-88.5179"
   },
   {
@@ -183,7 +183,7 @@ var nestData = [
     "Shiny": false,
     "Coordinates": "44.9808,-93.1472",
     "Locale": "Minnesota, USA",
-    "Timestamp": 1641546520026,
+    "Timestamp": 1642296648269,
     "GPX": "fennekin_44.9808,-93.1472"
   },
   {
@@ -194,7 +194,7 @@ var nestData = [
     "Shiny": false,
     "Coordinates": "48.1587,11.5975",
     "Locale": "Munich, Germany",
-    "Timestamp": 1641547130283,
+    "Timestamp": 1642297344405,
     "GPX": "fennekin_48.1587,11.5975"
   },
   {
@@ -205,7 +205,7 @@ var nestData = [
     "Shiny": false,
     "Coordinates": "34.1588,131.4383",
     "Locale": "Yamaguchi, Japan",
-    "Timestamp": 1641538729100,
+    "Timestamp": 1642284071236,
     "GPX": "froakie_34.1588,131.4383"
   },
   {
@@ -216,7 +216,7 @@ var nestData = [
     "Shiny": false,
     "Coordinates": "34.6611,135.6671",
     "Locale": "Osaka, Japan",
-    "Timestamp": 1641539435798,
+    "Timestamp": 1642284335627,
     "GPX": "froakie_34.6611,135.6671"
   },
   {
@@ -227,7 +227,7 @@ var nestData = [
     "Shiny": false,
     "Coordinates": "52.0571,4.2890",
     "Locale": "The Hague, Netherlands",
-    "Timestamp": 1641548923658,
+    "Timestamp": 1642298355108,
     "GPX": "froakie_52.0571,4.2890"
   },
   {
@@ -238,7 +238,7 @@ var nestData = [
     "Shiny": true,
     "Coordinates": "-37.0090,174.9069",
     "Locale": "Auckland, New Zealand",
-    "Timestamp": 1641554030089,
+    "Timestamp": 1642280264578,
     "GPX": "bunnelby_-37.0090,174.9069"
   },
   {
@@ -249,7 +249,7 @@ var nestData = [
     "Shiny": true,
     "Coordinates": "34.5393,135.4392",
     "Locale": "Osaka, Japan",
-    "Timestamp": 1641539294077,
+    "Timestamp": 1642284258748,
     "GPX": "bunnelby_34.5393,135.4392"
   },
   {
@@ -260,7 +260,7 @@ var nestData = [
     "Shiny": true,
     "Coordinates": "35.4214,137.0997",
     "Locale": "Gifu, Japan",
-    "Timestamp": 1641540942062,
+    "Timestamp": 1642285174075,
     "GPX": "bunnelby_35.4214,137.0997"
   },
   {
@@ -271,7 +271,7 @@ var nestData = [
     "Shiny": true,
     "Coordinates": "39.9835,-75.2104",
     "Locale": "Pennsylvania, USA",
-    "Timestamp": 1641579220179,
+    "Timestamp": 1642291190467,
     "GPX": "bunnelby_39.9835,-75.2104"
   },
   {
@@ -282,7 +282,7 @@ var nestData = [
     "Shiny": true,
     "Coordinates": "42.3383,-82.9854",
     "Locale": "Michigan, USA",
-    "Timestamp": 1641545131859,
+    "Timestamp": 1642292367941,
     "GPX": "bunnelby_42.3383,-82.9854"
   },
   {
@@ -293,7 +293,7 @@ var nestData = [
     "Shiny": true,
     "Coordinates": "43.0446,141.4972",
     "Locale": "Hokkaido, Japan",
-    "Timestamp": 1641545427330,
+    "Timestamp": 1642292567690,
     "GPX": "bunnelby_43.0446,141.4972"
   },
   {
@@ -304,7 +304,7 @@ var nestData = [
     "Shiny": false,
     "Coordinates": "-22.9261,-43.1703",
     "Locale": "Rio de Janeiro, Brazil",
-    "Timestamp": 1641553609833,
+    "Timestamp": 1642279801209,
     "GPX": "litleo_-22.9261,-43.1703"
   },
   {
@@ -315,7 +315,7 @@ var nestData = [
     "Shiny": false,
     "Coordinates": "-33.9901,18.4323",
     "Locale": "Cape Town, South Africa",
-    "Timestamp": 1641553897785,
+    "Timestamp": 1642280041184,
     "GPX": "litleo_-33.9901,18.4323"
   },
   {
@@ -326,7 +326,7 @@ var nestData = [
     "Shiny": false,
     "Coordinates": "22.5359,120.5903",
     "Locale": "Pingtung, Taiwan",
-    "Timestamp": 1641554940050,
+    "Timestamp": 1642282430078,
     "GPX": "litleo_22.5359,120.5903"
   },
   {
@@ -337,7 +337,7 @@ var nestData = [
     "Shiny": false,
     "Coordinates": "40.7709,-73.9726",
     "Locale": "New York, USA",
-    "Timestamp": 1641543408763,
+    "Timestamp": 1642291545843,
     "GPX": "litleo_40.7709,-73.9726"
   },
   {
@@ -348,7 +348,7 @@ var nestData = [
     "Shiny": false,
     "Coordinates": "50.6933,4.0473",
     "Locale": "Enghien, Belgium",
-    "Timestamp": 1641548203490,
+    "Timestamp": 1642297726260,
     "GPX": "litleo_50.6933,4.0473"
   }
 ];
