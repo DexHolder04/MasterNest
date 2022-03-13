@@ -45,10 +45,10 @@ function buildNavbar() {
     let navElement = document.getElementById("newNavbar"),
         liArray = [],
         aArray = [],
-        idArray = ["home", "gen1", "gen2", "gen3", "gen4", "gen5", "gen6", "gpx"],
-        urlArray= ["index.html", "gen1.html", "gen2.html", "gen3.html", "gen4.html", "gen5.html", "gen6.html", "gpx.html"],
-        textArray = ["Home", "Gen I", "Gen II", "Gen III", "Gen IV", "Gen V", "Gen VI", "GPX"];
-    for (let i = 0; i < 8; i++) {
+        idArray = ["home", "gen1", "gen2", "gen3", "gen4", "gen5", "gen6", "gen7", "gpx"],
+        urlArray= ["index.html", "gen1.html", "gen2.html", "gen3.html", "gen4.html", "gen5.html", "gen6.html", "gen7.html", "gpx.html"],
+        textArray = ["Home", "Gen I", "Gen II", "Gen III", "Gen IV", "Gen V", "Gen VI", "Gen VII", "GPX"];
+    for (let i = 0; i < 9; i++) {
         liArray[i] = document.createElement("li");
         aArray[i] = document.createElement("a");
         aArray[i].setAttribute("id", idArray[i]);
@@ -57,7 +57,7 @@ function buildNavbar() {
         
         aArray[i].appendChild(text);
         liArray[i].appendChild(aArray[i]);
-        liArray[i].style.width = "12.475%";
+        liArray[i].style.width = "11.05%";
         navElement.appendChild(liArray[i])
     }
     let pageIndex = document.documentElement.getAttribute("data-page");
@@ -75,6 +75,7 @@ function checkRes() {
         document.getElementById("gen4").innerHTML = "IV";
         document.getElementById("gen5").innerHTML = "V";
         document.getElementById("gen6").innerHTML = "VI";
+        document.getElementById("gen7").innerHTML = "VII";
         document.getElementById("gpx").innerHTML = `<i class="far fa-map faNavbar"></i>`;
     } else {
         return
