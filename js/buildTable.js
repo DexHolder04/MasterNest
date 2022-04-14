@@ -1,5 +1,5 @@
-let nextMigration = 174,
-    migrationDate = '2022-04-14T00:00:00Z',
+let nextMigration = 175,
+    migrationDate = '2022-04-28T00:00:00Z',
     migration = new Date(migrationDate),
     migrationCountdown = 1,
     noticeText = "The Season of Mischief is now finished! There is now a new nesting pool in place, so most of our report is now invalid. We're working hard to update our report ASAP, so just keep that in mind while while you browse our report, thanks for understanding!",
