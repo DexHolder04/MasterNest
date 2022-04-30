@@ -5,46 +5,10 @@ var nestData = [
     "DexNo": 731,
     "DexString": "731",
     "Shiny": false,
-    "Coordinates": "22.6560,120.2849",
-    "Locale": "Kaohsiung City, Taiwan",
-    "Timestamp": 1649916708791,
-    "GPX": "pikipek_22.6560,120.2849",
-    "Form": "normal"
-  },
-  {
-    "Pokemon": "Pikipek",
-    "Gen": 7,
-    "DexNo": 731,
-    "DexString": "731",
-    "Shiny": false,
-    "Coordinates": "34.0152,-118.2869",
-    "Locale": "California, USA",
-    "Timestamp": 1649917896374,
-    "GPX": "pikipek_34.0152,-118.2869",
-    "Form": "normal"
-  },
-  {
-    "Pokemon": "Pikipek",
-    "Gen": 7,
-    "DexNo": 731,
-    "DexString": "731",
-    "Shiny": false,
-    "Coordinates": "35.3813,-94.3748",
-    "Locale": "Arkansas, USA",
-    "Timestamp": 1649919537750,
-    "GPX": "pikipek_35.3813,-94.3748",
-    "Form": "normal"
-  },
-  {
-    "Pokemon": "Pikipek",
-    "Gen": 7,
-    "DexNo": 731,
-    "DexString": "731",
-    "Shiny": false,
-    "Coordinates": "35.7082,139.3946",
+    "Coordinates": "35.6727,139.6950",
     "Locale": "Tokyo, Japan",
-    "Timestamp": 1649920330998,
-    "GPX": "pikipek_35.7082,139.3946",
+    "Timestamp": 1651351553426,
+    "GPX": "pikipek_35.6727,139.6950",
     "Form": "normal"
   },
   {
@@ -53,10 +17,10 @@ var nestData = [
     "DexNo": 734,
     "DexString": "734",
     "Shiny": true,
-    "Coordinates": "35.6787,139.7165",
-    "Locale": "Tokyo, Japan",
-    "Timestamp": 1649920269678,
-    "GPX": "yungoos_35.6787,139.7165",
+    "Coordinates": "-6.3028,106.8947",
+    "Locale": "Jakarta, Indonesia",
+    "Timestamp": 1651304968938,
+    "GPX": "yungoos_-6.3028,106.8947",
     "Form": "normal"
   },
   {
@@ -65,10 +29,10 @@ var nestData = [
     "DexNo": 734,
     "DexString": "734",
     "Shiny": true,
-    "Coordinates": "42.1486,-87.7903",
-    "Locale": "Illinois, USA",
-    "Timestamp": 1649958531246,
-    "GPX": "yungoos_42.1486,-87.7903",
+    "Coordinates": "32.7750,-96.7599",
+    "Locale": "Texas, USA",
+    "Timestamp": 1651343867113,
+    "GPX": "yungoos_32.7750,-96.7599",
     "Form": "normal"
   },
   {
@@ -77,10 +41,10 @@ var nestData = [
     "DexNo": 734,
     "DexString": "734",
     "Shiny": true,
-    "Coordinates": "43.0446,141.4972",
-    "Locale": "Hokkaido, Japan",
-    "Timestamp": 1649959283774,
-    "GPX": "yungoos_43.0446,141.4972",
+    "Coordinates": "34.5393,135.4392",
+    "Locale": "Osaka, Japan",
+    "Timestamp": 1651344721888,
+    "GPX": "yungoos_34.5393,135.4392",
     "Form": "normal"
   },
   {
@@ -89,10 +53,10 @@ var nestData = [
     "DexNo": 734,
     "DexString": "734",
     "Shiny": true,
-    "Coordinates": "44.9808,-93.1472",
-    "Locale": "Minnesota, USA",
-    "Timestamp": 1649963591583,
-    "GPX": "yungoos_44.9808,-93.1472",
+    "Coordinates": "35.8822,137.9413",
+    "Locale": "Nagano, Japan",
+    "Timestamp": 1651359942088,
+    "GPX": "yungoos_35.8822,137.9413",
     "Form": "normal"
   },
   {
@@ -101,10 +65,10 @@ var nestData = [
     "DexNo": 734,
     "DexString": "734",
     "Shiny": true,
-    "Coordinates": "45.7802,4.8497",
-    "Locale": "Lyon, France",
-    "Timestamp": 1649963987590,
-    "GPX": "yungoos_45.7802,4.8497",
+    "Coordinates": "37.5504,126.9924",
+    "Locale": "Seoul, South Korea",
+    "Timestamp": 1651359644199,
+    "GPX": "yungoos_37.5504,126.9924",
     "Form": "normal"
   },
   {
@@ -113,10 +77,22 @@ var nestData = [
     "DexNo": 734,
     "DexString": "734",
     "Shiny": true,
-    "Coordinates": "51.5060,-0.1794",
-    "Locale": "London, UK",
-    "Timestamp": 1649965817565,
-    "GPX": "yungoos_51.5060,-0.1794",
+    "Coordinates": "52.4214,16.9359",
+    "Locale": "Poznań, Poland",
+    "Timestamp": 1651206800468,
+    "GPX": "yungoos_52.4214,16.9359",
+    "Form": "normal"
+  },
+  {
+    "Pokemon": "Yungoos",
+    "Gen": 7,
+    "DexNo": 734,
+    "DexString": "734",
+    "Shiny": true,
+    "Coordinates": "53.5959,10.0152",
+    "Locale": "Hamburg, Germany",
+    "Timestamp": 1651207009344,
+    "GPX": "yungoos_53.5959,10.0152",
     "Form": "normal"
   }
 ];
