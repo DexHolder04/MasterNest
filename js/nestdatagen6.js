@@ -5,10 +5,10 @@ var nestData = [
     "DexNo": 661,
     "DexString": "661",
     "Shiny": true,
-    "Coordinates": "26.6882,127.8753",
-    "Locale": "Okinawa, Japan",
-    "Timestamp": 1652314300699,
-    "GPX": "fletchling_26.6882,127.8753",
+    "Coordinates": "-38.1192,145.3080",
+    "Locale": "Victoria, Australia",
+    "Timestamp": 1653693596793,
+    "GPX": "fletchling_-38.1192,145.3080",
     "Form": "normal"
   },
   {
@@ -17,10 +17,10 @@ var nestData = [
     "DexNo": 661,
     "DexString": "661",
     "Shiny": true,
-    "Coordinates": "34.8091,135.5324",
-    "Locale": "Osaka, Japan",
-    "Timestamp": 1652315281555,
-    "GPX": "fletchling_34.8091,135.5324",
+    "Coordinates": "12.7640,100.9345",
+    "Locale": "Chon Buri, Thailand",
+    "Timestamp": 1653694041765,
+    "GPX": "fletchling_12.7640,100.9345",
     "Form": "normal"
   },
   {
@@ -29,10 +29,46 @@ var nestData = [
     "DexNo": 661,
     "DexString": "661",
     "Shiny": true,
-    "Coordinates": "43.7928,87.6006",
-    "Locale": "Xinjiang, China",
-    "Timestamp": 1652393882909,
-    "GPX": "fletchling_43.7928,87.6006",
+    "Coordinates": "13.7308,100.5406",
+    "Locale": "Bangkok, Thailand",
+    "Timestamp": 1653694461130,
+    "GPX": "fletchling_13.7308,100.5406",
+    "Form": "normal"
+  },
+  {
+    "Pokemon": "Fletchling",
+    "Gen": 6,
+    "DexNo": 661,
+    "DexString": "661",
+    "Shiny": true,
+    "Coordinates": "36.2461,-115.1509",
+    "Locale": "Nevada, USA",
+    "Timestamp": 1653709637347,
+    "GPX": "fletchling_36.2461,-115.1509",
+    "Form": "normal"
+  },
+  {
+    "Pokemon": "Fletchling",
+    "Gen": 6,
+    "DexNo": 661,
+    "DexString": "661",
+    "Shiny": true,
+    "Coordinates": "39.6960,-104.9699",
+    "Locale": "Colorado, USA",
+    "Timestamp": 1653719175008,
+    "GPX": "fletchling_39.6960,-104.9699",
+    "Form": "normal"
+  },
+  {
+    "Pokemon": "Fletchling",
+    "Gen": 6,
+    "DexNo": 661,
+    "DexString": "661",
+    "Shiny": true,
+    "Coordinates": "49.9264,4.5214",
+    "Locale": "Rocroi, France",
+    "Timestamp": 1653727183754,
+    "GPX": "fletchling_49.9264,4.5214",
     "Form": "normal"
   },
   {
@@ -41,10 +77,10 @@ var nestData = [
     "DexNo": 667,
     "DexString": "667",
     "Shiny": true,
-    "Coordinates": "12.9751,77.5923",
-    "Locale": "Karnataka, India",
-    "Timestamp": 1652325507334,
-    "GPX": "litleo_12.9751,77.5923",
+    "Coordinates": "-26.5072,-49.1277",
+    "Locale": "Santa Catarina, Brazil",
+    "Timestamp": 1653692957598,
+    "GPX": "litleo_-26.5072,-49.1277",
     "Form": "normal"
   },
   {
@@ -53,10 +89,10 @@ var nestData = [
     "DexNo": 667,
     "DexString": "667",
     "Shiny": true,
-    "Coordinates": "33.8113,-84.1453",
+    "Coordinates": "34.0324,-84.6323",
     "Locale": "Georgia, USA",
-    "Timestamp": 1652327539446,
-    "GPX": "litleo_33.8113,-84.1453",
+    "Timestamp": 1653700145102,
+    "GPX": "litleo_34.0324,-84.6323",
     "Form": "normal"
   },
   {
@@ -65,10 +101,10 @@ var nestData = [
     "DexNo": 667,
     "DexString": "667",
     "Shiny": true,
-    "Coordinates": "36.4020,140.5968",
-    "Locale": "Ibaraki, Japan",
-    "Timestamp": 1652328455214,
-    "GPX": "litleo_36.4020,140.5968",
+    "Coordinates": "35.1669,129.0546",
+    "Locale": "Busan, South Korea",
+    "Timestamp": 1653701263123,
+    "GPX": "litleo_35.1669,129.0546",
     "Form": "normal"
   },
   {
@@ -77,10 +113,10 @@ var nestData = [
     "DexNo": 667,
     "DexString": "667",
     "Shiny": true,
-    "Coordinates": "37.5505,-121.9670",
-    "Locale": "California, USA",
-    "Timestamp": 1652330247495,
-    "GPX": "litleo_37.5505,-121.9670",
+    "Coordinates": "37.6555,126.7672",
+    "Locale": "Gyeonggi-do, South Korea",
+    "Timestamp": 1653711621446,
+    "GPX": "litleo_37.6555,126.7672",
     "Form": "normal"
   },
   {
@@ -89,10 +125,10 @@ var nestData = [
     "DexNo": 667,
     "DexString": "667",
     "Shiny": true,
-    "Coordinates": "38.8897,-77.0488",
-    "Locale": "District of Columbia, USA",
-    "Timestamp": 1652344438790,
-    "GPX": "litleo_38.8897,-77.0488",
+    "Coordinates": "42.5286,-83.6755",
+    "Locale": "Michigan, USA",
+    "Timestamp": 1653721297635,
+    "GPX": "litleo_42.5286,-83.6755",
     "Form": "normal"
   },
   {
@@ -101,10 +137,10 @@ var nestData = [
     "DexNo": 667,
     "DexString": "667",
     "Shiny": true,
-    "Coordinates": "44.9808,-93.1472",
-    "Locale": "Minnesota, USA",
-    "Timestamp": 1652394570941,
-    "GPX": "litleo_44.9808,-93.1472",
+    "Coordinates": "43.8193,125.3302",
+    "Locale": "Jilin, China",
+    "Timestamp": 1653721675524,
+    "GPX": "litleo_43.8193,125.3302",
     "Form": "normal"
   },
   {
@@ -113,10 +149,22 @@ var nestData = [
     "DexNo": 667,
     "DexString": "667",
     "Shiny": true,
-    "Coordinates": "53.5959,10.0152",
-    "Locale": "Hamburg, Germany",
-    "Timestamp": 1652410754659,
-    "GPX": "litleo_53.5959,10.0152",
+    "Coordinates": "48.8063,2.1151",
+    "Locale": "Versailles, France",
+    "Timestamp": 1653726737500,
+    "GPX": "litleo_48.8063,2.1151",
+    "Form": "normal"
+  },
+  {
+    "Pokemon": "Litleo",
+    "Gen": 6,
+    "DexNo": 667,
+    "DexString": "667",
+    "Shiny": true,
+    "Coordinates": "51.5064,-0.1567",
+    "Locale": "London, UK",
+    "Timestamp": 1653728149367,
+    "GPX": "litleo_51.5064,-0.1567",
     "Form": "normal"
   }
 ];
