@@ -5,10 +5,22 @@ var nestData = [
     "DexNo": 506,
     "DexString": "506",
     "Shiny": true,
-    "Coordinates": "36.2461,-115.1509",
-    "Locale": "Nevada, USA",
-    "Timestamp": 1654211422517,
-    "GPX": "lillipup_36.2461,-115.1509",
+    "Coordinates": "34.5393,135.4392",
+    "Locale": "Osaka, Japan",
+    "Timestamp": 1655103931321,
+    "GPX": "lillipup_34.5393,135.4392",
+    "Form": "normal"
+  },
+  {
+    "Pokemon": "Lillipup",
+    "Gen": 5,
+    "DexNo": 506,
+    "DexString": "506",
+    "Shiny": true,
+    "Coordinates": "35.2702,136.9892",
+    "Locale": "Aichi, Japan",
+    "Timestamp": 1655113187024,
+    "GPX": "lillipup_35.2702,136.9892",
     "Form": "normal"
   },
   {
@@ -19,7 +31,7 @@ var nestData = [
     "Shiny": true,
     "Coordinates": "37.5170,127.1209",
     "Locale": "Seoul, South Korea",
-    "Timestamp": 1654233107433,
+    "Timestamp": 1655115941808,
     "GPX": "lillipup_37.5170,127.1209",
     "Form": "normal"
   },
@@ -29,10 +41,22 @@ var nestData = [
     "DexNo": 506,
     "DexString": "506",
     "Shiny": true,
-    "Coordinates": "41.9056,-87.7002",
-    "Locale": "Illinois, USA",
-    "Timestamp": 1654241912551,
-    "GPX": "lillipup_41.9056,-87.7002",
+    "Coordinates": "37.6555,126.7672",
+    "Locale": "Gyeonggi-do, South Korea",
+    "Timestamp": 1655118508335,
+    "GPX": "lillipup_37.6555,126.7672",
+    "Form": "normal"
+  },
+  {
+    "Pokemon": "Lillipup",
+    "Gen": 5,
+    "DexNo": 506,
+    "DexString": "506",
+    "Shiny": true,
+    "Coordinates": "41.5721,-93.6385",
+    "Locale": "Iowa, USA",
+    "Timestamp": 1655120952809,
+    "GPX": "lillipup_41.5721,-93.6385",
     "Form": "normal"
   },
   {
@@ -41,10 +65,10 @@ var nestData = [
     "DexNo": 519,
     "DexString": "519",
     "Shiny": true,
-    "Coordinates": "12.7640,100.9345",
-    "Locale": "Chon Buri, Thailand",
-    "Timestamp": 1654139053637,
-    "GPX": "pidove_12.7640,100.9345",
+    "Coordinates": "37.5504,126.9924",
+    "Locale": "Seoul, South Korea",
+    "Timestamp": 1655116134616,
+    "GPX": "pidove_37.5504,126.9924",
     "Form": "normal"
   },
   {
@@ -53,10 +77,10 @@ var nestData = [
     "DexNo": 519,
     "DexString": "519",
     "Shiny": true,
-    "Coordinates": "13.7308,100.5406",
-    "Locale": "Bangkok, Thailand",
-    "Timestamp": 1654139297844,
-    "GPX": "pidove_13.7308,100.5406",
+    "Coordinates": "39.9835,-75.2104",
+    "Locale": "Pennsylvania, USA",
+    "Timestamp": 1655120111588,
+    "GPX": "pidove_39.9835,-75.2104",
     "Form": "normal"
   },
   {
@@ -65,34 +89,10 @@ var nestData = [
     "DexNo": 519,
     "DexString": "519",
     "Shiny": true,
-    "Coordinates": "34.0324,-84.6323",
-    "Locale": "Georgia, USA",
-    "Timestamp": 1654205568021,
-    "GPX": "pidove_34.0324,-84.6323",
-    "Form": "normal"
-  },
-  {
-    "Pokemon": "Pidove",
-    "Gen": 5,
-    "DexNo": 519,
-    "DexString": "519",
-    "Shiny": true,
-    "Coordinates": "35.1669,129.0546",
-    "Locale": "Busan, South Korea",
-    "Timestamp": 1654208587597,
-    "GPX": "pidove_35.1669,129.0546",
-    "Form": "normal"
-  },
-  {
-    "Pokemon": "Pidove",
-    "Gen": 5,
-    "DexNo": 519,
-    "DexString": "519",
-    "Shiny": true,
-    "Coordinates": "42.5286,-83.6755",
-    "Locale": "Michigan, USA",
-    "Timestamp": 1654242834269,
-    "GPX": "pidove_42.5286,-83.6755",
+    "Coordinates": "40.4095,-3.6797",
+    "Locale": "Madrid, Spain",
+    "Timestamp": 1655120292387,
+    "GPX": "pidove_40.4095,-3.6797",
     "Form": "normal"
   },
   {
@@ -101,22 +101,10 @@ var nestData = [
     "DexNo": 568,
     "DexString": "568",
     "Shiny": true,
-    "Coordinates": "-26.5072,-49.1277",
-    "Locale": "Santa Catarina, Brazil",
-    "Timestamp": 1654135780950,
-    "GPX": "trubbish_-26.5072,-49.1277",
-    "Form": "normal"
-  },
-  {
-    "Pokemon": "Trubbish",
-    "Gen": 5,
-    "DexNo": 568,
-    "DexString": "568",
-    "Shiny": true,
-    "Coordinates": "-38.1192,145.3080",
-    "Locale": "Victoria, Australia",
-    "Timestamp": 1654138139103,
-    "GPX": "trubbish_-38.1192,145.3080",
+    "Coordinates": "-36.8622,174.7735",
+    "Locale": "Auckland, New Zealand",
+    "Timestamp": 1655090004043,
+    "GPX": "trubbish_-36.8622,174.7735",
     "Form": "normal"
   }
 ];
