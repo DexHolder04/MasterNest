@@ -5,10 +5,10 @@ var nestData = [
     "DexNo": 734,
     "DexString": "734",
     "Shiny": true,
-    "Coordinates": "-37.7874,144.9508",
-    "Locale": "Victoria, Australia",
-    "Timestamp": 1656001119884,
-    "GPX": "yungoos_-37.7874,144.9508",
+    "Coordinates": "-23.5881,-46.6587",
+    "Locale": "São Paulo, Brazil",
+    "Timestamp": 1657771242995,
+    "GPX": "yungoos_-23.5881,-46.6587",
     "Form": "normal"
   },
   {
@@ -17,10 +17,10 @@ var nestData = [
     "DexNo": 734,
     "DexString": "734",
     "Shiny": true,
-    "Coordinates": "40.8644,-73.8779",
-    "Locale": "New York, USA",
-    "Timestamp": 1656053970469,
-    "GPX": "yungoos_40.8644,-73.8779",
+    "Coordinates": "34.6829,135.8473",
+    "Locale": "Nara, Japan",
+    "Timestamp": 1657819815704,
+    "GPX": "yungoos_34.6829,135.8473",
     "Form": "normal"
   },
   {
@@ -29,10 +29,10 @@ var nestData = [
     "DexNo": 734,
     "DexString": "734",
     "Shiny": true,
-    "Coordinates": "41.3595,2.1558",
-    "Locale": "Barcelona, Spain",
-    "Timestamp": 1656054008008,
-    "GPX": "yungoos_41.3595,2.1558",
+    "Coordinates": "35.6416,139.8548",
+    "Locale": "Tokyo, Japan",
+    "Timestamp": 1657826237600,
+    "GPX": "yungoos_35.6416,139.8548",
     "Form": "normal"
   },
   {
@@ -41,10 +41,10 @@ var nestData = [
     "DexNo": 734,
     "DexString": "734",
     "Shiny": true,
-    "Coordinates": "47.7103,-122.3671",
-    "Locale": "Washington, USA",
-    "Timestamp": 1656081293309,
-    "GPX": "yungoos_47.7103,-122.3671",
+    "Coordinates": "35.8822,137.9413",
+    "Locale": "Nagano, Japan",
+    "Timestamp": 1657827164115,
+    "GPX": "yungoos_35.8822,137.9413",
     "Form": "normal"
   },
   {
@@ -53,10 +53,10 @@ var nestData = [
     "DexNo": 734,
     "DexString": "734",
     "Shiny": true,
-    "Coordinates": "48.1508,16.4026",
-    "Locale": "Vienna, Austria",
-    "Timestamp": 1656081331047,
-    "GPX": "yungoos_48.1508,16.4026",
+    "Coordinates": "37.7685,-122.4827",
+    "Locale": "California, USA",
+    "Timestamp": 1657902105753,
+    "GPX": "yungoos_37.7685,-122.4827",
     "Form": "normal"
   },
   {
@@ -65,10 +65,10 @@ var nestData = [
     "DexNo": 734,
     "DexString": "734",
     "Shiny": true,
-    "Coordinates": "48.1587,11.5975",
-    "Locale": "Munich, Germany",
-    "Timestamp": 1656081445358,
-    "GPX": "yungoos_48.1587,11.5975",
+    "Coordinates": "37.8056,-122.3255",
+    "Locale": "California, USA",
+    "Timestamp": 1657902390297,
+    "GPX": "yungoos_37.8056,-122.3255",
     "Form": "normal"
   }
 ];
