@@ -1,29 +1,5 @@
 var nestData = [
   {
-    "Pokemon": "Munna",
-    "Gen": 5,
-    "DexNo": 517,
-    "DexString": "517",
-    "Shiny": true,
-    "Coordinates": "33.5193,-79.0994",
-    "Locale": "South Carolina, USA",
-    "Timestamp": 1662445350522,
-    "GPX": "munna_33.5193,-79.0994",
-    "Form": "normal"
-  },
-  {
-    "Pokemon": "Munna",
-    "Gen": 5,
-    "DexNo": 517,
-    "DexString": "517",
-    "Shiny": true,
-    "Coordinates": "35.3813,-94.3748",
-    "Locale": "Arkansas, USA",
-    "Timestamp": 1662507044729,
-    "GPX": "munna_35.3813,-94.3748",
-    "Form": "normal"
-  },
-  {
     "Pokemon": "Venipede",
     "Gen": 5,
     "DexNo": 543,
