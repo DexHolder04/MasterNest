@@ -5,10 +5,10 @@ var nestData = [
     "DexNo": 661,
     "DexString": "661",
     "Shiny": true,
-    "Coordinates": "34.6829,135.8473",
-    "Locale": "Nara, Japan",
-    "Timestamp": 1662506239889,
-    "GPX": "fletchling_34.6829,135.8473",
+    "Coordinates": "34.7148,137.6033",
+    "Locale": "Shizuoka, Japan",
+    "Timestamp": 1663381770745,
+    "GPX": "fletchling_34.7148,137.6033",
     "Form": "normal"
   },
   {
@@ -17,10 +17,10 @@ var nestData = [
     "DexNo": 661,
     "DexString": "661",
     "Shiny": true,
-    "Coordinates": "36.1503,-86.8160",
-    "Locale": "Tennessee, USA",
-    "Timestamp": 1662509236783,
-    "GPX": "fletchling_36.1503,-86.8160",
+    "Coordinates": "36.9016,-76.2002",
+    "Locale": "Virginia, USA",
+    "Timestamp": 1663387369882,
+    "GPX": "fletchling_36.9016,-76.2002",
     "Form": "normal"
   },
   {
@@ -29,10 +29,10 @@ var nestData = [
     "DexNo": 661,
     "DexString": "661",
     "Shiny": true,
-    "Coordinates": "37.1709,-93.3270",
-    "Locale": "Missouri, USA",
-    "Timestamp": 1662509664446,
-    "GPX": "fletchling_37.1709,-93.3270",
+    "Coordinates": "40.6535,-74.2461",
+    "Locale": "New Jersey, USA",
+    "Timestamp": 1663389805230,
+    "GPX": "fletchling_40.6535,-74.2461",
     "Form": "normal"
   },
   {
@@ -41,10 +41,10 @@ var nestData = [
     "DexNo": 661,
     "DexString": "661",
     "Shiny": true,
-    "Coordinates": "39.9835,-75.2104",
-    "Locale": "Pennsylvania, USA",
-    "Timestamp": 1662516724521,
-    "GPX": "fletchling_39.9835,-75.2104",
+    "Coordinates": "44.4695,26.0844",
+    "Locale": "Bucharest, Romania",
+    "Timestamp": 1663396870661,
+    "GPX": "fletchling_44.4695,26.0844",
     "Form": "normal"
   },
   {
@@ -53,34 +53,10 @@ var nestData = [
     "DexNo": 661,
     "DexString": "661",
     "Shiny": true,
-    "Coordinates": "40.6480,-73.5132",
-    "Locale": "New York, USA",
-    "Timestamp": 1662516920113,
-    "GPX": "fletchling_40.6480,-73.5132",
-    "Form": "normal"
-  },
-  {
-    "Pokemon": "Fletchling",
-    "Gen": 6,
-    "DexNo": 661,
-    "DexString": "661",
-    "Shiny": true,
-    "Coordinates": "40.6552,-73.5122",
-    "Locale": "New York, USA",
-    "Timestamp": 1662516975097,
-    "GPX": "fletchling_40.6552,-73.5122",
-    "Form": "normal"
-  },
-  {
-    "Pokemon": "Fletchling",
-    "Gen": 6,
-    "DexNo": 661,
-    "DexString": "661",
-    "Shiny": true,
-    "Coordinates": "43.8193,125.3302",
-    "Locale": "Jilin, China",
-    "Timestamp": 1662522877726,
-    "GPX": "fletchling_43.8193,125.3302",
+    "Coordinates": "52.2132,21.0340",
+    "Locale": "Warsaw, Poland",
+    "Timestamp": 1663399273537,
+    "GPX": "fletchling_52.2132,21.0340",
     "Form": "normal"
   }
 ];
