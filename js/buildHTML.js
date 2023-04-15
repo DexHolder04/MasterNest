@@ -224,6 +224,6 @@ function buildHTMLPage() {
     checkRes();
     checkTheme();
     frameshiftNotice();
-    setTimeout(noAds(), 5000);
+    setTimeout(() => noAds(), 5000);
 
 }
