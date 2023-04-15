@@ -224,5 +224,6 @@ function buildHTMLPage() {
     checkRes();
     checkTheme();
     frameshiftNotice();
+    noAds();
 
 }
