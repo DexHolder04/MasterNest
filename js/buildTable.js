@@ -1,5 +1,5 @@
-let nextMigration = 203,
-    migrationDate = '2023-05-25T00:00:00Z',
+let nextMigration = 204,
+    migrationDate = '2023-06-08T00:00:00Z',
     migration = new Date(migrationDate),
     migrationCountdown = 1,
     noticeText = "",
